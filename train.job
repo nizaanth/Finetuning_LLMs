@@ -1,0 +1,21 @@
+#!/bin/bash -l
+
+#SBATCH --partition=gpu03_queue
+#SBATCH --nodes=1
+#SBATCH --time=7-00:00:00
+#SBATCH --job-name=MLMPNET
+#SBATCH --exclusive
+#SBATCH --output=msg%x.%j.out
+#SBATCH --error=msg%x.%j.err
+
+cd /work/y0110479/Master-Thesis/Nizaanth_MPNET
+export PYTHONPATH=$(pwd):$PYTHONPATH
+export WANDB_API_KEY=45d0f1022dabf560fcb7388b00ee3b6a378d54a8
+
+# to check GPUs
+nvidia-smi
+
+conda activate sentence-transformers-env
+python --version
+python -c "import torch; print(f'torch: {torch.__version__}'); print(f'cuda: {torch.version.cuda}')"
+python code/train.py 

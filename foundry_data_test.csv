@@ -1,0 +1,1001 @@
+﻿Zeitstempel,Teilenummer,Kategorie,Fehlerbeschreibung,Schweregrad,Charge,Werk
+2024-08-20T13:26:39,GX-30966,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 700°C | Nacharbeit gemäß VDA 6.3,1.0,CH-mMxb-4810,Gießerei Stuttgart
+2025-01-14T12:02:06,GX-87103,formprozess,Sandfeuchte Lunker% außerhalb Toleranz (2.8-3.2%),3.0,CH-PxUm-0145,Gießerei Wolfsburg
+2024-07-11T17:36:55,GX-86787,nachbearbeitung,Bearbeitungsfehler Kaltlauf: Sandbindermangel; Teil GX-86787; Prüfbericht: PRF-55694,1.0,CH-fPGH-8117,Gießerei Wolfsburg
+2024-04-24T13:30:12,GX-75587,gussfehler,Ausschuss Oberflächenfehler an Getriebegehäuse | Ursache: Sandbindermangel | Kernreparatur läuft,1.0,CH-wVCt-6145,Gießerei Leipzig
+2024-07-31T08:16:08,GX-76726,endpruefung,,3.0,CH-AhXt-1963,Gießerei Wolfsburg
+2024-05-21T20:49:44,GX-05118,gussfehler,Ausschuss Funktionstest an Getriebegehäuse | Ursache: Handling-Schaden,1.0,UNBEKANNT,Gießerei Stuttgart
+2024-12-22T18:08:06,GX-93824,nachbearbeitung,Maßabweichung Kaltlauf: Kernschale Verschleißmm vs. Kernschale Verschleiß±Handling-Schadenmm,2.0,CH-ytUX-7111,Gießerei Wolfsburg
+2024-06-17T13:13:40,GX-48461,schmelzprozess,Spektralanalyse zeigt Ti-Mangel; Charge CH-EPPS-8415 | Nacharbeit gemäß VDA 6.3,2.0,CH-EPPS-8415,Gießerei Stuttgart
+2024-11-27T07:50:07,GX-30215,endpruefung,Röntgenprüfung zeigt Kokillenriss in Zone Handling-Schaden | Kernreparatur läuft,1.0,CH-kSfN-3797,Gießerei Wolfsburg
+2024-11-26T08:42:12,GX-78623,nachbearbeitung,"Bearbeitungsfehler Handling-Schaden: Sandbindermangel | Teil GX-78623 | Chargenanalyse: C:3.2%, Si:2.1% | Wärmenachbehandlung eingeleitet",3.0,CH-ouGP-4609,Gießerei Leipzig
+2024-10-01T05:33:53,GX-63253,nachbearbeitung,Oberflächenrauheit Handling-Schaden µm außerhalb Spezifikation,1.0,CH-gESg-2521,Gießerei Stuttgart
+2024-11-19T03:08:03,GX-78965,nachbearbeitung,Maßabweichung Sandbindermangel: Handling-Schadenmm vs. Sandausbruch±Kernschale Verschleißmm | IATF-Konformität: nicht konform,1.0,CH-SyeA-9116,Gießerei Leipzig
+2024-10-28T04:04:45,GX-71590,schmelzprozess,Legierungsabweichung Ti: Handling-Schaden% vs. Soll Sandbindermangel% (Verdacht: Sandfeuchteabweichung),1.0,CH-Nfvu-9209,Gießerei Wolfsburg
+2024-12-22T02:53:03,GX-24543,gussfehler,Ausschuss Maßhaltigkeit an Zylinderkopf | Ursache: Kaltlauf,1.0,CH-ZGYx-6270,Gießerei Stuttgart
+2024-05-10T19:39:03,GX-70063,,,,CH-XTBZ-8537,Gießerei Stuttgart
+2024-12-15T12:29:56,GX-32060,endpruefung,Dichtheitsprüfung Fehler: Kaltlauf mbar/min vs. max Kaltlauf | IATF-Konformität: nicht konform,2.0,CH-DVee-5204,Gießerei Stuttgart
+2025-03-09T05:21:05,GX-72484,endpruefung,Dichtheitsprüfung Fehler: Handling-Schaden mbar/min vs. max Handling-Schaden,2.0,CH-yCew-8222,Gießerei Leipzig
+2024-12-21T18:49:44,GX-00545,endpruefung,Dichtheitsprüfung Fehler: Sandbindermangel mbar/min vs. max Sandbindermangel,3.0,CH-kwnO-3315,Gießerei Leipzig
+2024-04-25T03:29:07,GX-78061,schmelzprozess,Spektralanalyse zeigt Cu-Mangel | Charge CH-Cssf-6331 | Prüfbericht: PRF-73570,2.0,CH-Cssf-6331,Gießerei Stuttgart
+2025-02-21T02:57:27,GX-45878,schmelzprozess,Legierungsabweichung Mg: Handling-Schaden% vs. Soll Handling-Schaden% | Normabweichung: DIN 1681,1.0,CH-DrtV-7097,Gießerei Wolfsburg
+2024-04-05T11:36:30,GX-89359,gussfehler,"Formversatz an Getriebegehäuse (GX-89359) | Charge CH-Sriv-7871 | Chargenanalyse: C:3.2%, Si:2.1% | Wärmenachbehandlung eingeleitet",1.0,CH-Sriv-7871,Gießerei Leipzig
+2024-05-03T01:13:51,GX-96903,formprozess,Kernbruch K-1086 | Ursache: Handling-Schaden | Normabweichung: ISO 8062 | Wärmenachbehandlung eingeleitet,1.0,CH-geMs-7661,Gießerei Wolfsburg
+2024-06-08T13:16:30,GX-89750,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 659°C | Schleifnacharbeit notwendig,1.0,CH-qNnh-4820,Gießerei Leipzig
+2024-06-05T00:38:14,GX-71165,formprozess,Formdruckabweichung Sandausbruch bar vs. Lunker bar | Form FORM-fk44,1.0,CH-NHHf-4113,Gießerei Stuttgart
+2024-08-15T19:36:44,GX-51781,nachbearbeitung,Maßabweichung Handling-Schaden: Sandbindermangelmm vs. Sandbindermangel±Sandbindermangelmm (Verdacht: Formüberhitzung),1.0,CH-UZqS-2721,Gießerei Leipzig
+2024-07-15T10:34:21,GX-89119,gussfehler,Sandausbruch an Getriebegehäuse (GX-89119) | Charge CH-wwfz-0126 | IATF-Konformität: nicht konform | Wärmenachbehandlung eingeleitet,2.0,CH-wwfz-0126,Gießerei Wolfsburg
+2024-05-07T06:40:36,GX-43735,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-mruT-0387 | Wärmenachbehandlung eingeleitet,2.0,CH-mruT-0387,Gießerei Leipzig
+2025-02-26T12:13:29,GX-21797,gussfehler,Ausschuss Oberflächenfehler an Getriebegehäuse // Ursache: Sandfeuchte zu hoch (≥3.5%) // Prüfbericht: PRF-50734 | Wärmenachbehandlung eingeleitet,2.0,CH-tktU-9975,Gießerei Leipzig
+2025-01-05T23:37:50,GX-65677,gussfehler,Ausschuss Oberflächenfehler an Zylinderkopf | Ursache: Lunker | Wärmenachbehandlung eingeleitet,3.0,CH-luOP-9202,Gießerei Leipzig
+2024-09-12T07:46:17,GX-20376,gussfehler,Qualitätsabweichung Sandausbruch: Kernschale Verschleiß | Raueit Ra 3.2 µm | Gießparameter optimiert,2.0,CH-eILg-7012,Gießerei Leipzig
+2024-06-03T23:55:56,GX-64481,nachbearbeitung,Bearbeitungsfehler Kernschale Verschleiß: Kaltlauf | Teil GX-64481,2.0,CH-OQuU-8197,Gießerei Leipzig
+2024-08-30T07:10:43,GX-05386,endpruefung,Röntgenprüfung zeigt Gasporosität in Zone Kaltlauf,2.0,CH-Ajpg-9327,Gießerei Wolfsburg
+2024-11-25T04:51:14,GX-53080,gussfehler,Qualitätsabweichung Sandausbruch: Sandbindermangel | Raueit Ra 11.7 µm | Prüfbericht: PRF-14981,1.0,CH-igqa-7284,Gießerei Wolfsburg
+2024-05-30T13:16:30,GX-85603,schmelzprozess,Spektralanalyse zeigt Si-Mangel; Charge CH-xCZK-7330; IATF-Konformität: nicht konform,2.0,CH-xCZK-7330,Gießerei Wolfsburg
+2024-05-01T09:48:41,GX-68116,gussfehler,"Lunker an Radträger (GX-68116) | Charge CH-aUnc-0806 | Chargenanalyse: C:3.2%, Si:2.1%",3.0,CH-aUnc-0806,Gießerei Leipzig
+2024-05-03T09:22:58,GX-34258,gussfehler,Ausschuss Materialfehler an Zylinderkopf | Ursache: Sandfeuchte zu hoch (≥3.5%) | IATF-Konformität: teilkonform,1.0,CH-swMl-2966,Gießerei Stuttgart
+2024-11-23T03:52:38,GX-15042,endpruefung,,1.0,CH-JVnf-7838,Gießerei Stuttgart
+2024-11-15T19:16:02,GX-14830,formprozess,Sandfeuchte Sandbindermangel% außerhalb Toleranz (2.8-3.2%),1.0,CH-yvOu-8982,Gießerei Wolfsburg
+2025-01-22T20:33:46,GX-25105,endpruefung,Dichtheitsprüfung Fehler: Handling-Schaden mbar/min vs. max Kernschale Verschleiß,2.0,CH-LjZD-0063,Gießerei Stuttgart
+2024-07-01T16:40:02,GX-25525,nachbearbeitung,Oberflächenrauheit Kaltlauf µm außerhalb Spezifikation // Prüfbericht: PRF-31808,1.0,CH-CKbT-6199,Gießerei Wolfsburg
+2024-12-06T01:25:40,GX-98738,,,,CH-XwhG-3784,Gießerei Wolfsburg
+2024-08-11T21:09:47,GX-50782,endpruefung,Röntgenprüfung zeigt Formversatz in Zone Lunker,2.0,CH-clFE-9376,Gießerei Wolfsburg
+2024-12-23T18:49:43,GX-48415,gussfehler,Ausschuss Maßhaltigkeit an Getriebegehäuse | Ursache: Legierungsabweichung Si+0.3% | Prüfbericht: PRF-83769 | Kernreparatur läuft,2.0,CH-qBmc-6360,Gießerei Wolfsburg
+2024-03-22T11:43:13,GX-54302,nachbearbeitung,,2.0,CH-HQXZ-5702,Gießerei Leipzig
+2024-06-14T20:14:32,GX-10976,schmelzprozess,Legierungsabweichung Si: Lunker% vs. Soll Lunker%,1.0,CH-nbAf-1282,Gießerei Wolfsburg
+2024-05-08T22:32:14,GX-45126,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 707°C | Kernreparatur läuft,2.0,CH-xDip-0433,Gießerei Leipzig
+2024-10-31T17:28:16,GX-11790,gussfehler,Qualitätsabweichung Kaltlauf: Sandbindermangel | Raueit Ra 1.8 µm | Normabweichung: VDA 6.3,1.0,CH-rFnZ-6573,Gießerei Stuttgart
+2024-12-26T03:20:03,GX-11858,endpruefung,Härteprüfung Handling-Schaden: Lunker HV vs. Handling-Schaden | IATF-Konformität: teilkonform | Nacharbeit gemäß VDA 6.3,3.0,CH-bISF-5657,Gießerei Stuttgart
+2025-03-13T07:50:55,GX-28668,endpruefung,Härteprüfung Kaltlauf: Handling-Schaden HV vs. Sandbindermangel | IATF-Konformität: teilkonform | Wärmenachbehandlung eingeleitet,2.0,CH-jrBa-9467,Gießerei Wolfsburg
+2024-11-25T07:41:13,GX-01743,,,,CH-BLTJ-8131,Gießerei Stuttgart
+2024-07-02T06:48:36,GX-18540,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 707°C,2.0,CH-FZmT-5929,Gießerei Wolfsburg
+2025-01-30T22:59:41,GX-97328,formprozess,Kernbruch K-1670 | Ursache: Sandbindermangel (Verdacht: Sandfeuchteabweichung) | Kernreparatur läuft,2.0,CH-SGss-1203,Gießerei Stuttgart
+2025-01-01T09:03:00,GX-04670,nachbearbeitung,"Bearbeitungsfehler Handling-Schaden: Kaltlauf | Teil GX-04670 | Chargenanalyse: C:3.2%, Si:2.1% | Wärmenachbehandlung eingeleitet",1.0,CH-Unnl-0587,Gießerei Stuttgart
+2024-04-29T16:28:10,GX-56841,schmelzprozess,Spektralanalyse zeigt Cu-Mangel | Charge CH-UmCK-7909 | Normabweichung: VDA 6.3 | Nacharbeit gemäß VDA 6.3,1.0,CH-UmCK-7909,Gießerei Leipzig
+2024-04-09T01:57:54,GX-41031,nachbearbeitung,Bearbeitungsfehler Sandausbruch: Sandausbruch | Teil GX-41031 | Gießparameter optimiert,3.0,CH-yocz-0016,Gießerei Wolfsburg
+2024-04-18T15:53:37,GX-51180,formprozess,Formdruckabweichung Handling-Schaden bar vs. Lunker bar // Form FORM-ky43 // IATF-Konformität: nicht konform | Schleifnacharbeit notwendig,1.0,CH-ZJCh-1760,Gießerei Stuttgart
+2024-07-27T05:32:38,GX-46605,endpruefung,Röntgenprüfung zeigt Kaltlauf in Zone Handling-Schaden (Verdacht: Formüberhitzung),3.0,CH-cgKg-5609,Gießerei Leipzig
+2025-01-03T07:58:19,GX-05397,nachbearbeitung,"Maßabweichung Lunker: Lunkermm vs. Sandbindermangel±Sandausbruchmm; Chargenanalyse: Mg:0.4%, Ti:0.1% | Nacharbeit gemäß VDA 6.3",1.0,CH-FkCf-6161,Gießerei Wolfsburg
+2024-04-22T20:22:27,GX-00479,formprozess,Kernbruch K-1514 | Ursache: Sandbindermangel (Verdacht: Sandfeuchteabweichung),1.0,CH-ahUI-5353,Gießerei Leipzig
+2024-12-22T06:47:36,GX-31962,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 687°C | Normabweichung: VDA 6.3 | Wärmenachbehandlung eingeleitet,2.0,CH-xmCA-9380,Gießerei Leipzig
+2025-02-06T22:45:16,GX-07331,gussfehler,"Qualitätsabweichung Lunker: Sandausbruch | Raueit Ra 6.5 µm | Chargenanalyse: Mg:0.4%, Ti:0.1% | Gießparameter optimiert",2.0,CH-vHac-1002,Gießerei Stuttgart
+2024-06-09T19:54:59,GX-92489,endpruefung,Röntgenprüfung zeigt Formversatz in Zone Handling-Schaden | Normabweichung: DIN 1681 | Gießparameter optimiert,3.0,CH-HlZw-3553,Gießerei Leipzig
+2024-08-11T13:25:03,GX-88945,endpruefung,Röntgenprüfung zeigt Gasporosität in Zone Kaltlauf,2.0,CH-WWgy-1819,Gießerei Leipzig
+2024-06-29T06:15:18,GX-82627,gussfehler,Ausschuss Materialfehler an Radträger | Ursache: Lunker,2.0,CH-jiRS-6791,Gießerei Wolfsburg
+2025-01-20T01:53:44,GX-38882,schmelzprozess,,1.0,CH-Ywop-9234,Gießerei Stuttgart
+2024-11-29T14:09:06,GX-87777,endpruefung,Härteprüfung Sandausbruch: Handling-Schaden HV vs. Kaltlauf | Normabweichung: DIN 1681,1.0,CH-YatQ-7232,Gießerei Wolfsburg
+2024-09-09T03:43:03,GX-76085,nachbearbeitung,Oberflächenrauheit Kaltlauf µm außerhalb Spezifikation,3.0,CH-Ebqb-4825,Gießerei Leipzig
+2024-10-24T08:49:22,GX-15705,formprozess,Formdruckabweichung Sandbindermangel bar vs. Lunker bar ¦ Form FORM-NG49,1.0,CH-qRMP-6382,Gießerei Leipzig
+2025-01-04T23:18:40,GX-42866,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-XYBc-6376,2.0,CH-XYBc-6376,Gießerei Stuttgart
+2025-01-27T16:36:28,GX-50869,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 687°C (Verdacht: Legierungsdrift),1.0,CH-DaFA-5408,Gießerei Wolfsburg
+2024-04-07T13:01:41,GX-50976,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 695°C,1.0,CH-SNok-3504,Gießerei Stuttgart
+2025-02-08T19:47:57,GX-68339,schmelzprozess,Legierungsabweichung Cu: Sandausbruch% vs. Soll Kaltlauf% (Verdacht: Formüberhitzung),1.0,CH-bcVc-2545,Gießerei Wolfsburg
+2024-06-01T14:24:05,GX-53812,,,,CH-QiBS-0584,Gießerei Leipzig
+2025-03-05T04:14:23,GX-81709,nachbearbeitung,Maßabweichung Kernschale Verschleiß: Kernschale Verschleißmm vs. Kaltlauf±Handling-Schadenmm,1.0,CH-eyMy-6910,Gießerei Stuttgart
+2024-06-21T18:10:44,GX-11455,,,,CH-nPXG-3863,Gießerei Leipzig
+2024-05-13T13:30:13,GX-50110,endpruefung,Härteprüfung Kernschale Verschleiß: Handling-Schaden HV vs. Kaltlauf | Wärmenachbehandlung eingeleitet,3.0,CH-fnkS-2350,Gießerei Stuttgart
+2025-02-14T23:12:20,GX-22911,formprozess,Formdruckabweichung Kernschale Verschleiß bar vs. Sandausbruch bar | Form FORM-Ya53,1.0,CH-dYaS-0399,Gießerei Leipzig
+2024-11-10T23:02:37,GX-56039,endpruefung,Härteprüfung Lunker: Kernschale Verschleiß HV vs. Kaltlauf,1.0,CH-BbaA-5969,Gießerei Stuttgart
+2025-02-18T18:24:53,GX-58221,nachbearbeitung,"Oberflächenrauheit Sandausbruch µm außerhalb Spezifikation | Chargenanalyse: C:3.2%, Si:2.1%",1.0,CH-aOhx-7961,Gießerei Wolfsburg
+2024-10-25T13:07:18,GX-14315,nachbearbeitung,"Maßabweichung Kaltlauf: Sandbindermangelmm vs. Sandausbruch±Handling-Schadenmm | Chargenanalyse: C:3.2%, Si:2.1%",2.0,CH-XPZt-7974,Gießerei Stuttgart
+2024-12-26T08:24:43,GX-36457,nachbearbeitung,Maßabweichung Lunker: Kernschale Verschleißmm vs. Sandausbruch±Kernschale Verschleißmm,1.0,CH-luaB-0740,Gießerei Wolfsburg
+2024-05-17T15:06:19,GX-32996,formprozess,Formdruckabweichung Handling-Schaden bar vs. Kaltlauf bar | Form FORM-eJ40 | IATF-Konformität: teilkonform,1.0,CH-NfQb-2177,Gießerei Wolfsburg
+2025-02-19T00:26:47,GX-42333,formprozess,Formdruckabweichung Sandbindermangel bar vs. Handling-Schaden bar | Form FORM-Za60 (Verdacht: Legierungsdrift),2.0,CH-hnzN-4899,Gießerei Stuttgart
+2025-01-08T13:02:17,GX-03896,endpruefung,Röntgenprüfung zeigt Kaltlauf in Zone Lunker | Wärmenachbehandlung eingeleitet,1.0,CH-iAAV-9635,Gießerei Wolfsburg
+2024-08-21T07:42:33,GX-34563,nachbearbeitung,"Bearbeitungsfehler Kernschale Verschleiß: Sandbindermangel | Teil GX-34563 | Chargenanalyse: Mg:0.4%, Ti:0.1%",1.0,CH-vPuH-8918,Gießerei Leipzig
+2024-11-30T22:22:14,GX-78920,schmelzprozess,Spektralanalyse zeigt Cu-Mangel; Charge CH-cSKJ-5984; IATF-Konformität: nicht konform,2.0,CH-cSKJ-5984,Gießerei Wolfsburg
+2024-05-20T12:09:49,GX-85444,,,,CH-hKse-3488,Gießerei Wolfsburg
+2024-08-12T00:22:30,GX-51630,schmelzprozess,Spektralanalyse zeigt Si-Mangel | Charge CH-bCUC-8411 | Schleifnacharbeit notwendig,2.0,CH-bCUC-8411,Gießerei Wolfsburg
+2024-05-07T04:00:42,GX-69580,nachbearbeitung,Bearbeitungsfehler Sandbindermangel: Kernschale Verschleiß ¦ Teil GX-69580 ¦ Prüfbericht: PRF-77657 | Gießparameter optimiert,2.0,CH-IOkc-7108,Gießerei Leipzig
+2024-06-08T19:44:39,GX-41062,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 668°C (Verdacht: Sandfeuchteabweichung),2.0,CH-RnQn-1057,Gießerei Stuttgart
+2025-01-13T19:49:41,GX-91004,schmelzprozess,Spektralanalyse zeigt Mg-Mangel | Charge CH-inlN-9164 (Verdacht: Legierungsdrift) | Wärmenachbehandlung eingeleitet,1.0,CH-inlN-9164,Gießerei Wolfsburg
+2024-08-26T04:01:23,GX-17989,formprozess,Kernbruch K-1511 | Ursache: Kernschale Verschleiß,1.0,CH-YSwX-8496,Gießerei Stuttgart
+2024-12-21T19:48:07,GX-03512,nachbearbeitung,Maßabweichung Lunker: Sandausbruchmm vs. Kaltlauf±Kernschale Verschleißmm | Nacharbeit gemäß VDA 6.3,1.0,CH-WgKk-2957,Gießerei Wolfsburg
+2024-12-15T12:36:03,GX-14368,endpruefung,Dichtheitsprüfung Fehler: Handling-Schaden mbar/min vs. max Handling-Schaden | Wärmenachbehandlung eingeleitet,2.0,CH-QeMS-8522,Gießerei Stuttgart
+2024-12-21T11:00:14,GX-74452,gussfehler,Qualitätsabweichung Lunker: Sandbindermangel | Raueit Ra 11.7 µm | Kernreparatur läuft,2.0,CH-NYgA-4366,Gießerei Wolfsburg
+2024-08-28T10:08:28,GX-70022,gussfehler,Qualitätsabweichung Lunker: Kernschale Verschleiß | Raueit Ra 8.6 µm | IATF-Konformität: teilkonform,1.0,CH-cwIQ-3421,Gießerei Leipzig
+2025-03-05T12:16:29,GX-79001,nachbearbeitung,Maßabweichung Sandbindermangel: Sandausbruchmm vs. Kernschale Verschleiß±Sandausbruchmm | IATF-Konformität: teilkonform | Gießparameter optimiert,2.0,CH-WYUn-8538,Gießerei Wolfsburg
+2024-09-11T17:45:40,GX-71064,nachbearbeitung,Oberflächenrauheit Handling-Schaden µm außerhalb Spezifikation | Schleifnacharbeit notwendig,1.0,CH-gMPe-9447,Gießerei Wolfsburg
+2024-08-25T21:59:10,GX-64829,endpruefung,Härteprüfung Sandausbruch: Kernschale Verschleiß HV vs. Kaltlauf,3.0,CH-LKHW-4771,Gießerei Leipzig
+2024-12-27T12:18:11,GX-27033,gussfehler,Qualitätsabweichung Handling-Schaden: Kaltlauf | Porosität: 0.8 mm² | Prüfbericht: PRF-23833 | Nacharbeit gemäß VDA 6.3,1.0,CH-DaVq-6339,Gießerei Stuttgart
+2025-01-29T11:32:33,GX-06357,gussfehler,Kokillenriss an Zylinderkopf (GX-06357) | Charge CH-fBKs-9034 | Schleifnacharbeit notwendig,1.0,CH-fBKs-9034,Gießerei Wolfsburg
+2025-01-01T22:29:04,GX-61638,endpruefung,Dichtheitsprüfung Fehler: Kernschale Verschleiß mbar/min vs. max Sandausbruch,2.0,CH-qzka-5389,Gießerei Leipzig
+2024-04-29T01:25:45,GX-25863,formprozess,,1.0,CH-XUQd-0031,Gießerei Leipzig
+2024-05-03T07:40:02,GX-70620,gussfehler,Ausschuss Oberflächenfehler an Zylinderkopf; Ursache: Gießtemp. zu niedrig (650°C < 720°C); IATF-Konformität: teilkonform,2.0,CH-Esbd-0867,Gießerei Wolfsburg
+2025-02-09T15:57:01,GX-46312,gussfehler,Ausschuss Oberflächenfehler an Getriebegehäuse | Ursache: Gießtemp. zu niedrig (650°C < 720°C) | Prüfbericht: PRF-40446 | Gießparameter optimiert,1.0,CH-Rhsk-8817,Gießerei Stuttgart
+2024-03-18T17:27:46,GX-38323,endpruefung,Dichtheitsprüfung Fehler: Sandausbruch mbar/min vs. max Sandausbruch,1.0,CH-tetw-8935,Gießerei Stuttgart
+2024-03-19T22:53:03,GX-62222,nachbearbeitung,Maßabweichung Kernschale Verschleiß: Lunkermm vs. Sandausbruch±Sandbindermangelmm,1.0,CH-KpAj-5164,Gießerei Wolfsburg
+2024-08-02T12:14:39,GX-18873,nachbearbeitung,"Oberflächenrauheit Lunker µm außerhalb Spezifikation | Chargenanalyse: Mg:0.4%, Ti:0.1%",1.0,CH-bdHp-5227,Gießerei Wolfsburg
+2024-05-03T23:47:23,GX-98023,schmelzprozess,,1.0,CH-spJX-4361,Gießerei Leipzig
+2024-12-26T20:05:22,GX-59203,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 668°C,1.0,CH-cdvl-5326,Gießerei Wolfsburg
+2025-02-16T02:46:49,GX-81974,nachbearbeitung,Bearbeitungsfehler Kaltlauf: Lunker | Teil GX-81974,2.0,CH-VTFV-5199,Gießerei Stuttgart
+2024-09-27T11:29:22,GX-47626,endpruefung,Röntgenprüfung zeigt Kokillenriss in Zone Handling-Schaden | Gießparameter optimiert,3.0,CH-ifGj-1113,Gießerei Stuttgart
+2024-07-25T12:09:11,GX-03752,formprozess,Kernbruch K-1595 | Ursache: Kernschale Verschleiß (Verdacht: Formüberhitzung),1.0,CH-ohRr-8609,Gießerei Leipzig
+2024-05-21T11:04:37,GX-25203,endpruefung,Dichtheitsprüfung Fehler: Sandausbruch mbar/min vs. max Sandbindermangel | Wärmenachbehandlung eingeleitet,2.0,CH-CsaZ-5457,Gießerei Stuttgart
+2025-03-09T12:56:06,GX-80216,endpruefung,Härteprüfung Sandausbruch: Kernschale Verschleiß HV vs. Sandausbruch | Gießparameter optimiert,1.0,CH-xlqi-5707,Gießerei Wolfsburg
+2025-02-23T19:38:07,GX-36118,endpruefung,Röntgenprüfung zeigt Formversatz in Zone Kernschale Verschleiß | Nacharbeit gemäß VDA 6.3,1.0,CH-XyuI-1691,Gießerei Wolfsburg
+2024-12-22T22:20:41,GX-51954,formprozess,Formdruckabweichung Kernschale Verschleiß bar vs. Handling-Schaden bar | Form FORM-Yd18 | Gießparameter optimiert,3.0,CH-QvZt-4032,Gießerei Leipzig
+2024-07-08T01:24:00,GX-50378,gussfehler,Ausschuss Funktionstest an Radträger | Ursache: Handling-Schaden | Schleifnacharbeit notwendig,2.0,CH-rrbW-4658,Gießerei Wolfsburg
+2024-11-24T03:24:08,GX-67369,nachbearbeitung,Bearbeitungsfehler Kernschale Verschleiß: Lunker | Teil GX-67369 | IATF-Konformität: nicht konform | Gießparameter optimiert,1.0,CH-BJFX-6258,Gießerei Stuttgart
+2024-05-21T13:03:41,GX-05901,endpruefung,Dichtheitsprüfung Fehler: Sandausbruch mbar/min vs. max Kaltlauf (Verdacht: Sandfeuchteabweichung),3.0,CH-AJry-0398,Gießerei Leipzig
+2024-06-30T18:38:54,GX-15020,endpruefung,Dichtheitsprüfung Fehler: Handling-Schaden mbar/min vs. max Lunker (Verdacht: Legierungsdrift),1.0,CH-uuji-4354,Gießerei Leipzig
+2024-08-26T10:21:35,GX-74368,formprozess,"Sandfeuchte Handling-Schaden% außerhalb Toleranz (2.8-3.2%) | Chargenanalyse: C:3.2%, Si:2.1% | Nacharbeit gemäß VDA 6.3",1.0,CH-wupw-9232,Gießerei Wolfsburg
+2024-04-05T20:41:12,GX-71679,gussfehler,Gasporosität an Radträger (GX-71679) | Charge CH-NdEt-3942 (Verdacht: Sandfeuchteabweichung),1.0,CH-NdEt-3942,Gießerei Wolfsburg
+2025-02-08T19:09:25,GX-14517,formprozess,Formdruckabweichung Sandausbruch bar vs. Lunker bar | Form FORM-xh84,1.0,CH-huoX-2244,Gießerei Wolfsburg
+2024-11-28T19:51:59,GX-61567,gussfehler,Qualitätsabweichung Kaltlauf: Sandbindermangel | Porosität: 2.4 mm²,1.0,CH-JAyv-4299,Gießerei Stuttgart
+2024-09-08T21:04:24,GX-68416,formprozess,,1.0,CH-hVuK-9641,Gießerei Stuttgart
+2025-03-01T11:50:25,GX-67244,gussfehler,Ausschuss Materialfehler an Getriebegehäuse | Ursache: Handling-Schaden,1.0,CH-hrHo-9010,Gießerei Wolfsburg
+2024-06-03T03:22:38,GX-19124,,,,CH-yqxh-9827,Gießerei Leipzig
+2024-03-23T14:45:58,GX-28182,endpruefung,"Härteprüfung Sandbindermangel: Lunker HV vs. Lunker ¦ Chargenanalyse: Mg:0.4%, Ti:0.1%",1.0,CH-TZJf-4339,Gießerei Leipzig
+2024-09-26T08:51:13,GX-74248,endpruefung,Röntgenprüfung zeigt Kaltlauf in Zone Sandausbruch | Nacharbeit gemäß VDA 6.3,1.0,CH-Vjfn-4555,Gießerei Stuttgart
+2025-01-24T19:27:02,GX-91773,gussfehler,Kokillenriss an Getriebegehäuse (GX-91773) | Charge CH-GTDv-3436 | Wärmenachbehandlung eingeleitet,1.0,CH-GTDv-3436,Gießerei Stuttgart
+2024-05-02T22:01:37,GX-31539,endpruefung,"Dichtheitsprüfung Fehler: Handling-Schaden mbar/min vs. max Kaltlauf // Chargenanalyse: C:3.2%, Si:2.1%",1.0,CH-Jnqb-3955,Gießerei Wolfsburg
+2024-08-15T18:39:48,GX-94001,nachbearbeitung,Oberflächenrauheit Kernschale Verschleiß µm außerhalb Spezifikation,1.0,CH-ZSqm-0434,Gießerei Stuttgart
+2024-05-30T20:33:55,GX-84757,formprozess,Kernbruch K-1267 | Ursache: Sandbindermangel,1.0,CH-AFtM-3794,Gießerei Leipzig
+2024-04-05T07:09:28,GX-79645,endpruefung,Dichtheitsprüfung Fehler: Handling-Schaden mbar/min vs. max Lunker (Verdacht: Sandfeuchteabweichung),1.0,CH-tZrB-1150,Gießerei Leipzig
+2024-07-25T01:40:58,GX-53168,gussfehler,Kokillenriss an Radträger (GX-53168) | Charge CH-pEUy-6139 | Normabweichung: DIN 1681 | Schleifnacharbeit notwendig,2.0,CH-pEUy-6139,Gießerei Wolfsburg
+2024-09-12T02:28:16,GX-42923,nachbearbeitung,"Oberflächenrauheit Kaltlauf µm außerhalb Spezifikation ¦ Chargenanalyse: Mg:0.4%, Ti:0.1% | Wärmenachbehandlung eingeleitet",1.0,CH-rYhf-5326,Gießerei Stuttgart
+2024-07-19T19:14:08,GX-42326,gussfehler,Kokillenriss an Zylinderkopf (GX-42326) ¦ Charge CH-DBec-7487 ¦ Prüfbericht: PRF-62146,3.0,CH-DBec-7487,Gießerei Wolfsburg
+2024-11-09T10:16:42,GX-72989,formprozess,Formdruckabweichung Sandbindermangel bar vs. Lunker bar | Form FORM-ZG30,1.0,CH-VDHw-7326,Gießerei Leipzig
+2024-09-13T22:23:38,GX-35252,schmelzprozess,Legierungsabweichung Si: Kernschale Verschleiß% vs. Soll Sandausbruch%,2.0,CH-QvsT-0195,Gießerei Stuttgart
+2025-02-19T23:51:31,GX-81687,endpruefung,Röntgenprüfung zeigt Kokillenriss in Zone Sandbindermangel | Normabweichung: ISO 8062 | Wärmenachbehandlung eingeleitet,2.0,UNBEKANNT,Gießerei Stuttgart
+2024-08-15T13:57:57,GX-07953,formprozess,Formdruckabweichung Kaltlauf bar vs. Handling-Schaden bar | Form FORM-DT06 | Normabweichung: VDA 6.3 | Schleifnacharbeit notwendig,2.0,CH-vqvb-3179,Gießerei Stuttgart
+2024-10-07T20:31:10,GX-11072,nachbearbeitung,"Maßabweichung Kaltlauf: Handling-Schadenmm vs. Kaltlauf±Sandbindermangelmm | Chargenanalyse: C:3.2%, Si:2.1% | Gießparameter optimiert",2.0,CH-yWLN-2576,Gießerei Wolfsburg
+2024-08-21T22:05:34,GX-53289,formprozess,Formdruckabweichung Sandausbruch bar vs. Sandausbruch bar | Form FORM-EM15,1.0,CH-XbFM-4620,Gießerei Wolfsburg
+2025-02-21T11:41:17,GX-05276,nachbearbeitung,Maßabweichung Sandausbruch: Sandausbruchmm vs. Kaltlauf±Kernschale Verschleißmm (Verdacht: Legierungsdrift),1.0,CH-DupY-6279,Gießerei Stuttgart
+2025-02-18T18:03:33,GX-74090,gussfehler,Qualitätsabweichung Kaltlauf: Kernschale Verschleiß; Raueit Ra 9.4 µm | Nacharbeit gemäß VDA 6.3,1.0,CH-ZbfP-1543,Gießerei Stuttgart
+2025-01-28T09:09:48,GX-52749,formprozess,Kernbruch K-1641 | Ursache: Sandbindermangel | IATF-Konformität: konform | Gießparameter optimiert,1.0,CH-JOhO-9805,Gießerei Stuttgart
+2024-05-08T07:43:56,GX-27190,formprozess,Kernbruch K-1196 | Ursache: Handling-Schaden,1.0,CH-bDUS-5324,Gießerei Stuttgart
+2024-05-05T08:55:12,GX-37748,endpruefung,Röntgenprüfung zeigt Kokillenriss in Zone Kernschale Verschleiß | Nacharbeit gemäß VDA 6.3,2.0,CH-SqeA-2381,Gießerei Wolfsburg
+2024-08-16T23:45:04,GX-71862,nachbearbeitung,"Maßabweichung Sandbindermangel: Kernschale Verschleißmm vs. Kaltlauf±Kaltlaufmm // Chargenanalyse: C:3.2%, Si:2.1%",1.0,CH-injj-2948,Gießerei Leipzig
+2024-04-05T23:19:32,GX-94271,nachbearbeitung,"Maßabweichung Sandausbruch: Handling-Schadenmm vs. Kaltlauf±Sandbindermangelmm | Chargenanalyse: C:3.2%, Si:2.1% | Schleifnacharbeit notwendig",1.0,CH-AJsY-6750,Gießerei Stuttgart
+2024-06-12T10:09:26,GX-84433,gussfehler,Kokillenriss an Getriebegehäuse (GX-84433) | Charge CH-lvgk-2919,1.0,CH-lvgk-2919,Gießerei Wolfsburg
+2024-08-23T06:22:13,GX-91367,nachbearbeitung,Bearbeitungsfehler Kernschale Verschleiß: Kernschale Verschleiß | Teil GX-91367 | Nacharbeit gemäß VDA 6.3,2.0,CH-kAcz-8679,Gießerei Stuttgart
+2024-03-19T15:19:38,GX-90154,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 690°C | IATF-Konformität: nicht konform,1.0,CH-UaDv-4657,Gießerei Wolfsburg
+2024-10-26T08:38:56,GX-27536,nachbearbeitung,Oberflächenrauheit Kaltlauf µm außerhalb Spezifikation | Normabweichung: DIN 1681,2.0,CH-kGLD-3847,Gießerei Leipzig
+2024-05-15T20:40:54,GX-51350,gussfehler,"Ausschuss Maßhaltigkeit an Zylinderkopf | Ursache: Gießtemp. zu niedrig (650°C < 720°C) | Chargenanalyse: Mg:0.4%, Ti:0.1% | Kernreparatur läuft",1.0,CH-cMZQ-7116,Gießerei Stuttgart
+2024-10-15T11:16:25,GX-69623,endpruefung,"Dichtheitsprüfung Fehler: Sandbindermangel mbar/min vs. max Kernschale Verschleiß | Chargenanalyse: C:3.2%, Si:2.1%",1.0,CH-PsKX-4753,Gießerei Leipzig
+2025-02-12T01:35:07,GX-46642,endpruefung,Röntgenprüfung zeigt Sandausbruch in Zone Handling-Schaden | Wärmenachbehandlung eingeleitet,3.0,CH-QBNF-8132,Gießerei Stuttgart
+2024-07-15T01:34:57,GX-39203,gussfehler,Qualitätsabweichung Sandbindermangel: Sandausbruch | Porosität: 2.6 mm² | Kernreparatur läuft,3.0,CH-euaJ-5929,Gießerei Wolfsburg
+2025-01-04T23:50:35,GX-57942,formprozess,"Sandfeuchte Kaltlauf% außerhalb Toleranz (2.8-3.2%) | Chargenanalyse: C:3.2%, Si:2.1%",2.0,CH-FSDe-2455,Gießerei Stuttgart
+2024-04-07T15:52:30,GX-75778,endpruefung,Röntgenprüfung zeigt Gasporosität in Zone Kaltlauf,2.0,CH-SsZE-3791,Gießerei Leipzig
+2025-01-18T10:02:10,GX-37225,gussfehler,Kokillenriss an Zylinderkopf (GX-37225) | Charge CH-kUrB-6201 | Normabweichung: VDA 6.3 | Gießparameter optimiert,2.0,CH-kUrB-6201,Gießerei Leipzig
+2024-12-30T11:31:27,GX-10776,formprozess,Formdruckabweichung Sandbindermangel bar vs. Kernschale Verschleiß bar | Form FORM-Qf95,1.0,CH-zecf-0270,Gießerei Leipzig
+2024-07-14T14:20:59,GX-57366,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-FiUc-4826,1.0,CH-FiUc-4826,Gießerei Wolfsburg
+2024-09-08T17:04:23,GX-43068,formprozess,,1.0,CH-yNXy-6251,Gießerei Wolfsburg
+2024-10-23T11:53:03,GX-05540,nachbearbeitung,Maßabweichung Sandbindermangel: Sandbindermangelmm vs. Kernschale Verschleiß±Handling-Schadenmm,2.0,CH-VuFq-5749,Gießerei Leipzig
+2024-07-30T21:20:32,GX-01609,nachbearbeitung,Oberflächenrauheit Sandausbruch µm außerhalb Spezifikation | Wärmenachbehandlung eingeleitet,1.0,CH-TtAm-8834,Gießerei Leipzig
+2024-08-22T00:28:03,GX-73484,endpruefung,"Röntgenprüfung zeigt Sandausbruch in Zone Kaltlauf; Chargenanalyse: Mg:0.4%, Ti:0.1%",2.0,CH-pEXD-2136,Gießerei Stuttgart
+2024-07-30T12:09:11,GX-17129,gussfehler,Kokillenriss an Radträger (GX-17129) | Charge CH-PjFE-1786,2.0,CH-PjFE-1786,Gießerei Stuttgart
+2024-08-24T05:26:23,GX-30701,gussfehler,"Ausschuss Maßhaltigkeit an Zylinderkopf // Ursache: Gießtemp. zu niedrig (650°C < 720°C) // Chargenanalyse: C:3.2%, Si:2.1%",3.0,CH-wvwH-8197,Gießerei Wolfsburg
+2025-02-04T17:19:39,GX-42334,endpruefung,"Röntgenprüfung zeigt Formversatz in Zone Kaltlauf | Chargenanalyse: Mg:0.4%, Ti:0.1%",2.0,CH-OufR-2164,Gießerei Wolfsburg
+2024-04-30T07:14:27,GX-54367,nachbearbeitung,Bearbeitungsfehler Kernschale Verschleiß: Lunker | Teil GX-54367 | Prüfbericht: PRF-33769 | Schleifnacharbeit notwendig,3.0,CH-RrFM-0770,Gießerei Leipzig
+2024-11-16T03:40:26,GX-12271,nachbearbeitung,Bearbeitungsfehler Lunker: Sandausbruch | Teil GX-12271 | Wärmenachbehandlung eingeleitet,1.0,CH-PdJA-7092,Gießerei Stuttgart
+2024-04-12T03:29:46,GX-95890,nachbearbeitung,,3.0,CH-QDEU-5770,Gießerei Leipzig
+2024-05-27T14:45:01,GX-97811,formprozess,Kernbruch K-1517 | Ursache: Handling-Schaden | IATF-Konformität: teilkonform,1.0,CH-xyce-7728,Gießerei Leipzig
+2024-08-20T16:08:48,GX-61052,schmelzprozess,Spektralanalyse zeigt Mg-Mangel | Charge CH-ugCH-0065 | Prüfbericht: PRF-70818 | Kernreparatur läuft,2.0,CH-ugCH-0065,Gießerei Wolfsburg
+2024-07-18T04:01:00,GX-40114,endpruefung,Dichtheitsprüfung Fehler: Handling-Schaden mbar/min vs. max Sandausbruch | Kernreparatur läuft,1.0,CH-DoUz-9446,Gießerei Wolfsburg
+2024-07-21T05:39:12,GX-96340,gussfehler,Qualitätsabweichung Sandausbruch: Sandbindermangel | Porosität: 1.1 mm²,2.0,CH-vlky-5639,Gießerei Stuttgart
+2025-01-29T15:16:24,GX-60184,formprozess,Sandfeuchte Kaltlauf% außerhalb Toleranz (2.8-3.2%) | Wärmenachbehandlung eingeleitet,2.0,CH-iCqn-7149,Gießerei Wolfsburg
+2024-12-12T21:22:10,GX-49035,formprozess,Kernbruch K-1479 | Ursache: Sandbindermangel | Prüfbericht: PRF-94935,1.0,CH-UFDr-0263,Gießerei Leipzig
+2024-06-17T10:33:09,GX-83959,schmelzprozess,Spektralanalyse zeigt Cu-Mangel | Charge CH-RGMS-5728 | Kernreparatur läuft,2.0,CH-RGMS-5728,Gießerei Leipzig
+2024-06-19T02:14:52,GX-08851,schmelzprozess,Spektralanalyse zeigt Si-Mangel ¦ Charge CH-RKGr-8571 | Gießparameter optimiert,2.0,CH-RKGr-8571,Gießerei Stuttgart
+2025-03-15T15:49:37,GX-61772,formprozess,Kernbruch K-1383 | Ursache: Kernschale Verschleiß,1.0,CH-zchz-8459,Gießerei Stuttgart
+2024-12-16T08:30:41,GX-59500,gussfehler,Ausschuss Maßhaltigkeit an Getriebegehäuse | Ursache: Sandfeuchte zu hoch (≥3.5%) | IATF-Konformität: teilkonform,1.0,CH-jsxs-1613,Gießerei Wolfsburg
+2024-03-25T10:09:00,GX-92860,nachbearbeitung,Maßabweichung Sandbindermangel: Sandbindermangelmm vs. Kernschale Verschleiß±Kaltlaufmm,1.0,CH-KwQO-8303,Gießerei Stuttgart
+2024-06-14T06:14:54,GX-58591,gussfehler,Qualitätsabweichung Kernschale Verschleiß: Handling-Schaden | Raueit Ra 7.5 µm | Wärmenachbehandlung eingeleitet,2.0,CH-NbAC-2502,Gießerei Leipzig
+2024-07-11T00:21:36,GX-44632,gussfehler,Gasporosität an Radträger (GX-44632) | Charge CH-zDKS-6267 | Prüfbericht: PRF-34901,2.0,CH-zDKS-6267,Gießerei Leipzig
+2025-02-20T20:19:23,GX-40434,endpruefung,Röntgenprüfung zeigt Kokillenriss in Zone Sandausbruch,1.0,CH-OxRU-2662,Gießerei Wolfsburg
+2024-08-07T10:39:49,GX-10099,gussfehler,Sandausbruch an Zylinderkopf (GX-10099) | Charge CH-Unus-2933,2.0,CH-Unus-2933,Gießerei Stuttgart
+2024-07-02T09:25:28,GX-22155,,,,CH-vucN-0622,Gießerei Wolfsburg
+2024-10-06T12:19:47,GX-93753,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-jjFq-4816 (Verdacht: Formüberhitzung) | Kernreparatur läuft,1.0,CH-jjFq-4816,Gießerei Stuttgart
+2025-01-13T10:16:19,GX-66066,endpruefung,Dichtheitsprüfung Fehler: Handling-Schaden mbar/min vs. max Sandausbruch | IATF-Konformität: teilkonform,2.0,CH-YbNN-2183,Gießerei Wolfsburg
+2024-03-25T15:49:40,GX-54472,gussfehler,Qualitätsabweichung Sandbindermangel: Lunker | Dickenmaß: 68.1 mm | Normabweichung: DIN 1681,1.0,CH-ckmF-3354,Gießerei Stuttgart
+2024-06-24T23:13:36,GX-43624,formprozess,Kernbruch K-1028 | Ursache: Handling-Schaden,2.0,CH-OrMT-2218,Gießerei Leipzig
+2024-07-06T18:12:54,GX-59317,nachbearbeitung,Bearbeitungsfehler Handling-Schaden: Handling-Schaden | Teil GX-59317 | Prüfbericht: PRF-81494,1.0,CH-Siwy-6781,Gießerei Stuttgart
+2024-10-13T18:16:07,GX-19217,gussfehler,Gasporosität an Zylinderkopf (GX-19217) | Charge CH-TUTJ-5400,1.0,UNBEKANNT,Gießerei Wolfsburg
+2024-12-12T03:04:35,GX-09814,schmelzprozess,Legierungsabweichung Mg: Handling-Schaden% vs. Soll Sandbindermangel% | Schleifnacharbeit notwendig,3.0,UNBEKANNT,Gießerei Wolfsburg
+2024-12-25T18:28:34,GX-95336,nachbearbeitung,Oberflächenrauheit Lunker µm außerhalb Spezifikation | Gießparameter optimiert,1.0,CH-ofuK-0257,Gießerei Leipzig
+2024-10-04T20:21:41,GX-53523,endpruefung,"Härteprüfung Lunker: Kaltlauf HV vs. Sandbindermangel | Chargenanalyse: C:3.2%, Si:2.1%",2.0,CH-uPyw-6969,Gießerei Wolfsburg
+2024-04-16T23:05:49,GX-72853,endpruefung,Härteprüfung Sandausbruch: Handling-Schaden HV vs. Handling-Schaden // IATF-Konformität: teilkonform,1.0,CH-MQAZ-0469,Gießerei Wolfsburg
+2024-05-02T07:41:02,GX-82841,endpruefung,"Dichtheitsprüfung Fehler: Handling-Schaden mbar/min vs. max Handling-Schaden | Chargenanalyse: C:3.2%, Si:2.1%",3.0,CH-sZwQ-4497,Gießerei Stuttgart
+2025-01-11T10:30:24,GX-68800,gussfehler,Qualitätsabweichung Kaltlauf: Kaltlauf | Dickenmaß: 60.2 mm,1.0,CH-cwTl-3711,Gießerei Leipzig
+2024-06-06T23:19:13,GX-50989,,,,CH-QPPs-6890,Gießerei Leipzig
+2024-10-12T14:16:39,GX-41319,formprozess,Formdruckabweichung Sandbindermangel bar vs. Kaltlauf bar | Form FORM-pA88 | Normabweichung: VDA 6.3 | Gießparameter optimiert,1.0,CH-deYx-2559,Gießerei Wolfsburg
+2024-07-27T04:06:23,GX-14466,endpruefung,Härteprüfung Kaltlauf: Sandbindermangel HV vs. Kaltlauf | Nacharbeit gemäß VDA 6.3,1.0,CH-Ulcn-2313,Gießerei Stuttgart
+2024-12-08T14:49:58,GX-61250,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 708°C (Verdacht: Formüberhitzung) | Kernreparatur läuft,2.0,CH-smBk-9071,Gießerei Stuttgart
+2025-02-16T23:54:52,GX-22331,schmelzprozess,Legierungsabweichung Ti: Kernschale Verschleiß% vs. Soll Kernschale Verschleiß% (Verdacht: Sandfeuchteabweichung) | Schleifnacharbeit notwendig,1.0,CH-PPhZ-0557,Gießerei Leipzig
+2024-11-13T00:27:35,GX-81396,gussfehler,Qualitätsabweichung Sandausbruch: Handling-Schaden // Porosität: 0.5 mm²,2.0,CH-xpcN-1999,Gießerei Stuttgart
+2024-08-22T05:39:54,GX-64285,formprozess,,1.0,CH-uOON-0367,Gießerei Wolfsburg
+2024-05-03T19:19:34,GX-23082,endpruefung,Dichtheitsprüfung Fehler: Sandbindermangel mbar/min vs. max Lunker | IATF-Konformität: konform,1.0,CH-FaNH-0340,Gießerei Stuttgart
+2024-11-24T02:15:14,GX-28586,endpruefung,Röntgenprüfung zeigt Gasporosität in Zone Lunker,1.0,CH-ioLq-4536,Gießerei Stuttgart
+2024-09-07T20:28:55,GX-25709,nachbearbeitung,Maßabweichung Kaltlauf: Kernschale Verschleißmm vs. Sandausbruch±Sandbindermangelmm,1.0,CH-ksFB-8082,Gießerei Leipzig
+2024-06-10T00:05:53,GX-23804,nachbearbeitung,Maßabweichung Kaltlauf: Kernschale Verschleißmm vs. Kaltlauf±Lunkermm ¦ Normabweichung: DIN 1681,1.0,CH-wSxU-3130,Gießerei Stuttgart
+2024-12-10T08:28:15,GX-06022,formprozess,Kernbruch K-1988 | Ursache: Kernschale Verschleiß (Verdacht: Legierungsdrift),1.0,CH-UcDm-3190,Gießerei Leipzig
+2024-12-18T02:25:57,GX-09215,gussfehler,Ausschuss Maßhaltigkeit an Radträger | Ursache: Sandfeuchte zu hoch (≥3.5%) | Prüfbericht: PRF-95643,2.0,CH-iKZi-2004,Gießerei Stuttgart
+2024-10-27T13:43:46,GX-36916,endpruefung,"Dichtheitsprüfung Fehler: Handling-Schaden mbar/min vs. max Sandbindermangel | Chargenanalyse: Mg:0.4%, Ti:0.1%",1.0,CH-TYvB-7710,Gießerei Leipzig
+2024-12-12T08:20:18,GX-57271,nachbearbeitung,Maßabweichung Kaltlauf: Lunkermm vs. Handling-Schaden±Kernschale Verschleißmm | IATF-Konformität: nicht konform,3.0,CH-LVXZ-8013,Gießerei Stuttgart
+2025-02-27T08:13:25,GX-88659,endpruefung,Dichtheitsprüfung Fehler: Sandbindermangel mbar/min vs. max Sandbindermangel | Gießparameter optimiert,1.0,CH-Pbpu-4338,Gießerei Wolfsburg
+2024-10-06T16:06:19,GX-45846,formprozess,Kernbruch K-1475 | Ursache: Sandbindermangel | Prüfbericht: PRF-62060,1.0,CH-EIdY-1696,Gießerei Wolfsburg
+2024-03-28T08:26:34,GX-73284,formprozess,"Sandfeuchte Sandbindermangel% außerhalb Toleranz (2.8-3.2%); Chargenanalyse: C:3.2%, Si:2.1% | Nacharbeit gemäß VDA 6.3",2.0,CH-acAr-6672,Gießerei Leipzig
+2024-06-30T09:52:12,GX-17081,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 704°C | Prüfbericht: PRF-73002,1.0,CH-GOcp-0089,Gießerei Leipzig
+2024-10-31T06:18:58,GX-32404,endpruefung,"Röntgenprüfung zeigt Sandausbruch in Zone Handling-Schaden | Chargenanalyse: C:3.2%, Si:2.1% | Wärmenachbehandlung eingeleitet",3.0,CH-fONw-8964,Gießerei Stuttgart
+2025-03-04T13:52:27,GX-39073,endpruefung,Röntgenprüfung zeigt Lunker in Zone Lunker,3.0,CH-CVwp-4359,Gießerei Wolfsburg
+2025-01-08T23:07:53,GX-65521,formprozess,Kernbruch K-1355 ¦ Ursache: Handling-Schaden ¦ Normabweichung: DIN 1681,1.0,CH-WEjZ-9573,Gießerei Stuttgart
+2024-12-10T00:05:09,GX-51283,gussfehler,Qualitätsabweichung Sandbindermangel: Kaltlauf | Raueit Ra 4.0 µm (Verdacht: Formüberhitzung),1.0,CH-hFIx-6709,Gießerei Stuttgart
+2024-05-25T18:16:21,GX-41512,nachbearbeitung,Bearbeitungsfehler Handling-Schaden: Sandbindermangel | Teil GX-41512 | Wärmenachbehandlung eingeleitet,1.0,CH-QvZM-9689,Gießerei Leipzig
+2024-05-22T14:14:44,GX-89574,schmelzprozess,Spektralanalyse zeigt Mg-Mangel ¦ Charge CH-MxQf-5887,3.0,CH-MxQf-5887,Gießerei Leipzig
+2024-06-29T14:24:09,GX-73253,schmelzprozess,"Legierungsabweichung Cu: Kaltlauf% vs. Soll Sandbindermangel% | Chargenanalyse: C:3.2%, Si:2.1%",1.0,CH-NTBk-2752,Gießerei Stuttgart
+2024-07-29T07:39:46,GX-76589,nachbearbeitung,"Bearbeitungsfehler Sandbindermangel: Kaltlauf | Teil GX-76589 | Chargenanalyse: C:3.2%, Si:2.1%",1.0,CH-TvDC-6312,Gießerei Wolfsburg
+2024-09-16T13:48:07,GX-53716,gussfehler,Kaltlauf an Radträger (GX-53716) | Charge CH-IEmM-7721,1.0,CH-IEmM-7721,Gießerei Stuttgart
+2024-04-23T03:16:58,GX-76247,schmelzprozess,Legierungsabweichung Mg: Lunker% vs. Soll Sandausbruch% | Nacharbeit gemäß VDA 6.3,2.0,CH-GZqW-4584,Gießerei Leipzig
+2024-09-29T03:18:56,GX-98366,formprozess,Kernbruch K-1145 | Ursache: Sandbindermangel,1.0,CH-UHLH-7026,Gießerei Stuttgart
+2024-11-20T16:14:56,GX-28838,schmelzprozess,Legierungsabweichung Ti: Sandbindermangel% vs. Soll Sandausbruch% | Normabweichung: VDA 6.3 | Kernreparatur läuft,3.0,CH-EUyh-3380,Gießerei Leipzig
+2025-01-06T16:34:31,GX-26604,nachbearbeitung,Oberflächenrauheit Kaltlauf µm außerhalb Spezifikation,1.0,UNBEKANNT,Gießerei Wolfsburg
+2024-08-16T03:49:40,GX-87864,endpruefung,Härteprüfung Kaltlauf: Lunker HV vs. Lunker | Gießparameter optimiert,1.0,CH-zamZ-6317,Gießerei Stuttgart
+2024-08-12T17:11:22,GX-58496,endpruefung,Härteprüfung Sandausbruch: Kernschale Verschleiß HV vs. Lunker,2.0,CH-ECij-1890,Gießerei Leipzig
+2024-10-10T18:52:36,GX-67024,endpruefung,Dichtheitsprüfung Fehler: Kaltlauf mbar/min vs. max Handling-Schaden | Prüfbericht: PRF-66100,2.0,CH-rYFJ-2288,Gießerei Stuttgart
+2024-04-07T15:49:47,GX-43038,gussfehler,Lunker an Radträger (GX-43038) | Charge CH-DimY-0411 | IATF-Konformität: nicht konform | Nacharbeit gemäß VDA 6.3,1.0,CH-DimY-0411,Gießerei Leipzig
+2025-03-16T23:04:51,GX-52882,schmelzprozess,Legierungsabweichung Cu: Sandausbruch% vs. Soll Kaltlauf% ¦ Normabweichung: ISO 8062 | Nacharbeit gemäß VDA 6.3,1.0,CH-AJQA-3641,Gießerei Wolfsburg
+2024-11-26T05:52:38,GX-22819,formprozess,Kernbruch K-1543 | Ursache: Sandbindermangel | Normabweichung: VDA 6.3 | Schleifnacharbeit notwendig,3.0,CH-ARQx-0912,Gießerei Leipzig
+2024-08-13T19:41:40,GX-54609,nachbearbeitung,Bearbeitungsfehler Sandbindermangel: Sandbindermangel | Teil GX-54609 | Prüfbericht: PRF-18712 | Nacharbeit gemäß VDA 6.3,1.0,CH-vmXh-5225,Gießerei Leipzig
+2024-12-29T08:31:17,GX-78131,endpruefung,Dichtheitsprüfung Fehler: Kernschale Verschleiß mbar/min vs. max Lunker | Gießparameter optimiert,1.0,CH-zQUV-9235,Gießerei Stuttgart
+2024-12-01T20:22:31,GX-64702,endpruefung,Röntgenprüfung zeigt Kokillenriss in Zone Handling-Schaden | Prüfbericht: PRF-90803,3.0,CH-IbLG-9766,Gießerei Leipzig
+2024-07-28T22:18:03,GX-04767,formprozess,Kernbruch K-1266; Ursache: Kernschale Verschleiß | Wärmenachbehandlung eingeleitet,2.0,CH-HlEw-8020,Gießerei Wolfsburg
+2024-11-20T08:17:53,GX-19877,formprozess,,3.0,CH-lyDK-2609,Gießerei Leipzig
+2025-03-06T09:04:30,GX-55293,schmelzprozess,"Spektralanalyse zeigt Si-Mangel | Charge CH-jvww-9985 | Chargenanalyse: C:3.2%, Si:2.1%",2.0,CH-jvww-9985,Gießerei Wolfsburg
+2024-06-07T12:28:14,GX-78349,endpruefung,Röntgenprüfung zeigt Sandausbruch in Zone Kaltlauf | Normabweichung: VDA 6.3 | Gießparameter optimiert,1.0,CH-bbll-9097,Gießerei Leipzig
+2025-03-16T08:34:23,GX-60879,gussfehler,Qualitätsabweichung Handling-Schaden: Lunker | Raueit Ra 9.8 µm (Verdacht: Legierungsdrift) | Kernreparatur läuft,2.0,CH-KCPM-1789,Gießerei Wolfsburg
+2024-04-23T16:42:20,GX-05774,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 724°C,1.0,CH-iPQj-6061,Gießerei Leipzig
+2024-08-09T18:56:41,GX-66052,schmelzprozess,Spektralanalyse zeigt Mg-Mangel | Charge CH-VPDx-2705,2.0,CH-VPDx-2705,Gießerei Stuttgart
+2024-09-26T18:22:51,GX-30713,,,,CH-gJcj-1959,Gießerei Stuttgart
+2024-09-24T17:26:07,GX-74090,,,,CH-Vuyy-8979,Gießerei Wolfsburg
+2025-03-14T17:19:26,GX-58527,,,,CH-UJAN-7857,Gießerei Stuttgart
+2025-02-15T10:46:17,GX-42863,gussfehler,Sandausbruch an Radträger (GX-42863) | Charge CH-Qvus-0734,1.0,CH-Qvus-0734,Gießerei Leipzig
+2025-01-11T21:49:15,GX-66464,schmelzprozess,Spektralanalyse zeigt Mg-Mangel | Charge CH-kBGy-6922 | Kernreparatur läuft,1.0,CH-kBGy-6922,Gießerei Leipzig
+2024-05-22T03:39:10,GX-32618,formprozess,,1.0,CH-KSFj-8477,Gießerei Stuttgart
+2024-03-31T11:54:33,GX-67328,formprozess,Sandfeuchte Sandbindermangel% außerhalb Toleranz (2.8-3.2%) | Schleifnacharbeit notwendig,1.0,CH-HJLa-5391,Gießerei Wolfsburg
+2024-11-14T00:30:16,GX-05796,schmelzprozess,Legierungsabweichung Si: Lunker% vs. Soll Sandbindermangel% (Verdacht: Sandfeuchteabweichung) | Wärmenachbehandlung eingeleitet,1.0,CH-etIr-4672,Gießerei Stuttgart
+2024-03-28T11:16:49,GX-45681,nachbearbeitung,Maßabweichung Kaltlauf: Lunkermm vs. Handling-Schaden±Kernschale Verschleißmm (Verdacht: Sandfeuchteabweichung) | Gießparameter optimiert,1.0,CH-tlGR-8326,Gießerei Stuttgart
+2024-11-02T00:00:35,GX-18349,endpruefung,Röntgenprüfung zeigt Kaltlauf in Zone Kaltlauf,1.0,CH-qytA-9645,Gießerei Stuttgart
+2025-01-30T13:30:48,GX-42921,gussfehler,Kaltlauf an Getriebegehäuse (GX-42921) | Charge CH-ZHDR-8354 (Verdacht: Legierungsdrift),3.0,CH-ZHDR-8354,Gießerei Stuttgart
+2024-09-10T13:01:05,GX-12497,endpruefung,Dichtheitsprüfung Fehler: Kernschale Verschleiß mbar/min vs. max Sandbindermangel,3.0,CH-XMFS-3717,Gießerei Leipzig
+2024-10-14T08:12:47,GX-76496,schmelzprozess,Spektralanalyse zeigt Ti-Mangel; Charge CH-oDdD-9319 (Verdacht: Formüberhitzung),1.0,CH-oDdD-9319,Gießerei Leipzig
+2024-10-08T03:39:53,GX-16184,schmelzprozess,Legierungsabweichung Si: Lunker% vs. Soll Lunker% | Kernreparatur läuft,2.0,CH-jPTu-1071,Gießerei Wolfsburg
+2025-03-02T18:17:27,GX-12178,endpruefung,"Dichtheitsprüfung Fehler: Handling-Schaden mbar/min vs. max Lunker | Chargenanalyse: C:3.2%, Si:2.1%",2.0,CH-izTV-5873,Gießerei Leipzig
+2024-03-28T23:28:39,GX-93758,nachbearbeitung,Oberflächenrauheit Sandausbruch µm außerhalb Spezifikation,2.0,CH-zigM-0530,Gießerei Stuttgart
+2024-04-25T07:34:12,GX-79862,nachbearbeitung,"Oberflächenrauheit Kaltlauf µm außerhalb Spezifikation | Chargenanalyse: C:3.2%, Si:2.1% | Wärmenachbehandlung eingeleitet",2.0,CH-PAaP-4384,Gießerei Stuttgart
+2024-10-05T12:58:27,GX-09654,endpruefung,,2.0,CH-Ropd-9715,Gießerei Leipzig
+2025-03-02T00:22:40,GX-26318,gussfehler,Ausschuss Oberflächenfehler an Zylinderkopf | Ursache: Kernschale Verschleiß | Schleifnacharbeit notwendig,1.0,CH-UmNW-6527,Gießerei Wolfsburg
+2024-07-20T03:20:48,GX-88769,formprozess,Kernbruch K-1596 | Ursache: Sandbindermangel,3.0,CH-PnwY-2091,Gießerei Leipzig
+2024-11-06T19:42:34,GX-94471,,,,CH-qWZP-1325,Gießerei Wolfsburg
+2024-04-17T01:34:37,GX-37613,gussfehler,Kaltlauf an Zylinderkopf (GX-37613) | Charge CH-RoJu-0338 (Verdacht: Legierungsdrift) | Schleifnacharbeit notwendig,1.0,CH-RoJu-0338,Gießerei Wolfsburg
+2024-11-24T02:58:27,GX-09017,nachbearbeitung,Maßabweichung Handling-Schaden: Sandbindermangelmm vs. Lunker±Kaltlaufmm (Verdacht: Legierungsdrift) | Gießparameter optimiert,1.0,CH-PcnF-2409,Gießerei Leipzig
+2024-11-03T22:02:51,GX-71327,formprozess,Kernbruch K-1460 | Ursache: Handling-Schaden | Normabweichung: DIN 1681 | Schleifnacharbeit notwendig,1.0,CH-XWTc-8526,Gießerei Stuttgart
+2024-11-13T18:06:11,GX-07782,formprozess,Formdruckabweichung Sandbindermangel bar vs. Lunker bar | Form FORM-uz16 | IATF-Konformität: nicht konform | Gießparameter optimiert,1.0,CH-IkhS-8639,Gießerei Wolfsburg
+2025-03-04T05:07:41,GX-02609,endpruefung,Dichtheitsprüfung Fehler: Handling-Schaden mbar/min vs. max Kaltlauf,1.0,CH-DXzm-1273,Gießerei Leipzig
+2024-07-06T03:11:43,GX-69245,nachbearbeitung,Bearbeitungsfehler Kernschale Verschleiß: Sandausbruch | Teil GX-69245 | Normabweichung: ISO 8062,2.0,CH-EdfP-1910,Gießerei Leipzig
+2024-05-04T06:26:26,GX-82324,nachbearbeitung,Oberflächenrauheit Sandbindermangel µm außerhalb Spezifikation | Normabweichung: VDA 6.3 | Wärmenachbehandlung eingeleitet,2.0,CH-STOp-4666,Gießerei Wolfsburg
+2024-11-07T11:30:36,GX-03586,formprozess,Sandfeuchte Sandausbruch% außerhalb Toleranz (2.8-3.2%),1.0,CH-qtEM-9390,Gießerei Stuttgart
+2024-05-19T13:55:44,GX-08326,formprozess,Formdruckabweichung Lunker bar vs. Sandbindermangel bar ¦ Form FORM-TF68,2.0,CH-nsiR-8175,Gießerei Wolfsburg
+2024-07-17T08:25:20,GX-84612,schmelzprozess,Spektralanalyse zeigt Si-Mangel | Charge CH-rqNq-2459 | Prüfbericht: PRF-57154 | Schleifnacharbeit notwendig,1.0,CH-rqNq-2459,Gießerei Leipzig
+2024-05-30T02:29:43,GX-74438,gussfehler,Sandausbruch an Radträger (GX-74438) | Charge CH-aTWr-0914 | Kernreparatur läuft,1.0,CH-aTWr-0914,Gießerei Stuttgart
+2024-08-22T06:19:17,GX-49740,gussfehler,Qualitätsabweichung Sandbindermangel: Lunker | Dickenmaß: 131.8 mm | Schleifnacharbeit notwendig,1.0,CH-seYu-0069,Gießerei Stuttgart
+2024-09-14T18:24:22,GX-16232,nachbearbeitung,Maßabweichung Lunker: Sandbindermangelmm vs. Sandausbruch±Handling-Schadenmm,1.0,CH-XRun-8995,Gießerei Leipzig
+2024-04-18T02:33:09,GX-26545,,,,CH-Rjve-1361,Gießerei Wolfsburg
+2024-11-29T09:08:30,GX-83443,,,,CH-vlIt-2321,Gießerei Leipzig
+2024-05-08T07:19:14,GX-56027,nachbearbeitung,Bearbeitungsfehler Handling-Schaden: Sandbindermangel | Teil GX-56027 | Kernreparatur läuft,3.0,CH-ioTw-5674,Gießerei Leipzig
+2024-12-31T17:38:00,GX-13831,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 737°C,1.0,CH-zwQR-6254,Gießerei Leipzig
+2024-11-07T16:24:25,GX-29983,gussfehler,Formversatz an Getriebegehäuse (GX-29983) | Charge CH-jQBL-8798 | Prüfbericht: PRF-39053,2.0,CH-jQBL-8798,Gießerei Stuttgart
+2024-10-01T04:35:45,GX-62185,endpruefung,Röntgenprüfung zeigt Formversatz in Zone Lunker | IATF-Konformität: nicht konform | Gießparameter optimiert,2.0,CH-wlND-5922,Gießerei Leipzig
+2024-08-07T12:00:25,GX-57148,nachbearbeitung,Maßabweichung Kaltlauf: Sandausbruchmm vs. Kaltlauf±Sandausbruchmm | Normabweichung: VDA 6.3 | Schleifnacharbeit notwendig,2.0,CH-YijD-3614,Gießerei Wolfsburg
+2024-12-16T18:02:06,GX-38821,gussfehler,"Kaltlauf an Radträger (GX-38821) | Charge CH-RKdS-4748 | Chargenanalyse: C:3.2%, Si:2.1%",1.0,CH-RKdS-4748,Gießerei Wolfsburg
+2024-07-10T09:59:19,GX-47044,gussfehler,Qualitätsabweichung Handling-Schaden: Lunker | Dickenmaß: 144.6 mm,1.0,CH-dQKC-7587,Gießerei Leipzig
+2024-06-10T00:23:30,GX-39553,endpruefung,Röntgenprüfung zeigt Kaltlauf in Zone Handling-Schaden | Prüfbericht: PRF-93159 | Kernreparatur läuft,2.0,CH-jhca-1306,Gießerei Stuttgart
+2024-05-16T01:44:37,GX-70323,gussfehler,,1.0,CH-cvfT-2794,Gießerei Stuttgart
+2025-03-09T19:10:15,GX-70855,schmelzprozess,"Legierungsabweichung Cu: Sandbindermangel% vs. Soll Sandausbruch% | Chargenanalyse: C:3.2%, Si:2.1%",2.0,CH-UjDZ-7608,Gießerei Stuttgart
+2024-05-12T06:21:25,GX-78864,gussfehler,Qualitätsabweichung Sandausbruch: Handling-Schaden | Porosität: 2.4 mm²,2.0,CH-gfch-8493,Gießerei Leipzig
+2024-04-19T19:21:37,GX-07001,endpruefung,Röntgenprüfung zeigt Formversatz in Zone Lunker | Prüfbericht: PRF-15120 | Schleifnacharbeit notwendig,1.0,CH-vaLA-8607,Gießerei Stuttgart
+2025-01-09T16:47:42,GX-63820,nachbearbeitung,Bearbeitungsfehler Handling-Schaden: Kernschale Verschleiß; Teil GX-63820,2.0,CH-jcjc-3459,Gießerei Leipzig
+2024-09-13T05:30:42,GX-39814,endpruefung,Härteprüfung Sandausbruch: Kernschale Verschleiß HV vs. Kernschale Verschleiß,1.0,CH-Zvsu-2385,Gießerei Leipzig
+2024-11-12T17:16:35,GX-95727,nachbearbeitung,Bearbeitungsfehler Sandbindermangel: Sandbindermangel | Teil GX-95727 | Wärmenachbehandlung eingeleitet,2.0,CH-IWny-0746,Gießerei Leipzig
+2024-10-21T01:29:40,GX-72243,endpruefung,Härteprüfung Lunker: Kernschale Verschleiß HV vs. Kaltlauf,2.0,CH-tzHU-8637,Gießerei Stuttgart
+2024-06-19T13:46:58,GX-97158,endpruefung,Röntgenprüfung zeigt Sandausbruch in Zone Kernschale Verschleiß | Schleifnacharbeit notwendig,1.0,CH-SNfT-7444,Gießerei Wolfsburg
+2024-07-01T01:08:08,GX-81934,formprozess,"Kernbruch K-1711 | Ursache: Handling-Schaden | Chargenanalyse: C:3.2%, Si:2.1%",2.0,CH-RfIV-1940,Gießerei Wolfsburg
+2024-09-03T03:23:15,GX-25569,nachbearbeitung,"Oberflächenrauheit Lunker µm außerhalb Spezifikation // Chargenanalyse: Mg:0.4%, Ti:0.1%",1.0,CH-HnPT-0787,Gießerei Wolfsburg
+2024-12-05T23:22:47,GX-30814,nachbearbeitung,Oberflächenrauheit Sandausbruch µm außerhalb Spezifikation; IATF-Konformität: nicht konform,2.0,CH-dOLm-6196,Gießerei Stuttgart
+2024-05-03T13:16:47,GX-32327,schmelzprozess,Legierungsabweichung Ti: Sandausbruch% vs. Soll Sandbindermangel% (Verdacht: Formüberhitzung) | Schleifnacharbeit notwendig,1.0,CH-aFQq-0964,Gießerei Stuttgart
+2024-05-27T13:41:48,GX-69529,endpruefung,Härteprüfung Handling-Schaden: Sandbindermangel HV vs. Handling-Schaden | IATF-Konformität: teilkonform | Wärmenachbehandlung eingeleitet,1.0,CH-bdkw-4672,Gießerei Stuttgart
+2024-08-31T09:49:03,GX-58152,schmelzprozess,"Schmelzofen Schmelzofen 1 Temp-Abweichung: 746°C; Chargenanalyse: C:3.2%, Si:2.1%",2.0,CH-xtJg-2233,Gießerei Leipzig
+2024-12-08T04:07:37,GX-71990,nachbearbeitung,Maßabweichung Sandausbruch: Kernschale Verschleißmm vs. Handling-Schaden±Lunkermm | Gießparameter optimiert,1.0,CH-QhRl-6883,Gießerei Leipzig
+2024-11-20T22:11:34,GX-99992,formprozess,Formdruckabweichung Sandausbruch bar vs. Sandbindermangel bar | Form FORM-Tb52 | Normabweichung: DIN 1681,1.0,CH-mQfv-3402,Gießerei Leipzig
+2024-12-17T17:02:50,GX-15860,gussfehler,Ausschuss Maßhaltigkeit an Getriebegehäuse | Ursache: Legierungsabweichung Si+0.3% | Normabweichung: DIN 1681 | Kernreparatur läuft,2.0,CH-KaUI-1815,Gießerei Wolfsburg
+2024-04-11T18:33:05,GX-88622,formprozess,Formdruckabweichung Sandbindermangel bar vs. Handling-Schaden bar | Form FORM-YL35 | Prüfbericht: PRF-33232,1.0,CH-uRWt-1731,Gießerei Wolfsburg
+2024-05-04T09:53:27,GX-16935,schmelzprozess,Legierungsabweichung Ti: Lunker% vs. Soll Kaltlauf% | Schleifnacharbeit notwendig,3.0,CH-VQyW-9570,Gießerei Leipzig
+2024-12-14T08:09:35,GX-76934,endpruefung,Röntgenprüfung zeigt Gasporosität in Zone Lunker | Nacharbeit gemäß VDA 6.3,1.0,CH-WKLs-6659,Gießerei Leipzig
+2024-03-26T15:03:35,GX-24544,,,,CH-JnvR-7457,Gießerei Stuttgart
+2024-06-12T09:26:49,GX-27741,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 713°C (Verdacht: Formüberhitzung) | Nacharbeit gemäß VDA 6.3,1.0,CH-Yljt-4219,Gießerei Stuttgart
+2025-01-30T22:45:49,GX-93139,formprozess,Sandfeuchte Lunker% außerhalb Toleranz (2.8-3.2%) | Normabweichung: DIN 1681,1.0,CH-zngc-8997,Gießerei Wolfsburg
+2024-10-25T09:42:03,GX-68020,gussfehler,Ausschuss Funktionstest an Getriebegehäuse | Ursache: Legierungsabweichung Si+0.3% | Normabweichung: VDA 6.3,2.0,CH-dOmh-5343,Gießerei Wolfsburg
+2024-06-30T06:50:54,GX-40042,gussfehler,Ausschuss Oberflächenfehler an Zylinderkopf | Ursache: Kaltlauf | Nacharbeit gemäß VDA 6.3,2.0,CH-atxB-5262,Gießerei Wolfsburg
+2025-03-11T17:07:22,GX-31741,endpruefung,Härteprüfung Lunker: Handling-Schaden HV vs. Lunker (Verdacht: Sandfeuchteabweichung),1.0,CH-NqBC-1009,Gießerei Wolfsburg
+2024-10-06T14:53:07,GX-03639,gussfehler,"Qualitätsabweichung Sandausbruch: Handling-Schaden | Porosität: 0.8 mm² | Chargenanalyse: C:3.2%, Si:2.1% | Gießparameter optimiert",2.0,CH-VvTg-5826,Gießerei Leipzig
+2024-09-15T10:47:36,GX-70183,formprozess,Sandfeuchte Kaltlauf% außerhalb Toleranz (2.8-3.2%) | IATF-Konformität: konform | Gießparameter optimiert,1.0,CH-jcYF-2617,Gießerei Wolfsburg
+2024-07-21T11:57:39,GX-91456,schmelzprozess,Legierungsabweichung Si: Sandausbruch% vs. Soll Kernschale Verschleiß% | Schleifnacharbeit notwendig,2.0,CH-keUD-8620,Gießerei Leipzig
+2024-09-26T23:34:59,GX-09147,endpruefung,,1.0,CH-ndhj-4515,Gießerei Stuttgart
+2025-01-15T06:38:30,GX-88043,schmelzprozess,Legierungsabweichung Ti: Kernschale Verschleiß% vs. Soll Kaltlauf% | Kernreparatur läuft,2.0,CH-sSYJ-8815,Gießerei Stuttgart
+2024-05-11T07:44:26,GX-88318,gussfehler,Qualitätsabweichung Lunker: Sandbindermangel; Dickenmaß: 122.2 mm,2.0,CH-LFgt-7256,Gießerei Stuttgart
+2025-03-09T16:32:53,GX-77549,nachbearbeitung,Bearbeitungsfehler Sandbindermangel: Lunker | Teil GX-77549 | Prüfbericht: PRF-13006,2.0,CH-PJVa-9527,Gießerei Wolfsburg
+2024-03-17T11:51:29,GX-87157,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 682°C (Verdacht: Sandfeuchteabweichung) | Gießparameter optimiert,1.0,CH-vcPe-5819,Gießerei Wolfsburg
+2024-07-13T17:59:23,GX-29827,endpruefung,Röntgenprüfung zeigt Gasporosität in Zone Kernschale Verschleiß (Verdacht: Legierungsdrift),2.0,CH-vszH-2187,Gießerei Stuttgart
+2024-10-06T22:25:15,GX-04742,schmelzprozess,Legierungsabweichung Si: Kernschale Verschleiß% vs. Soll Sandbindermangel% | Prüfbericht: PRF-42877 | Gießparameter optimiert,3.0,CH-SIRh-2462,Gießerei Stuttgart
+2024-12-26T19:09:22,GX-01712,endpruefung,Röntgenprüfung zeigt Sandausbruch in Zone Lunker | Nacharbeit gemäß VDA 6.3,1.0,CH-nNUr-8795,Gießerei Wolfsburg
+2024-11-27T09:36:46,GX-17192,formprozess,Sandfeuchte Handling-Schaden% außerhalb Toleranz (2.8-3.2%) | Schleifnacharbeit notwendig,1.0,CH-MzYX-7608,Gießerei Wolfsburg
+2024-05-02T18:03:24,GX-95235,endpruefung,Härteprüfung Sandbindermangel: Lunker HV vs. Kaltlauf,1.0,CH-ZfCt-0431,Gießerei Leipzig
+2024-12-29T01:21:17,GX-05377,endpruefung,Röntgenprüfung zeigt Kokillenriss in Zone Handling-Schaden | Wärmenachbehandlung eingeleitet,3.0,CH-eHbx-0171,Gießerei Leipzig
+2025-03-03T17:09:07,GX-77878,gussfehler,Kaltlauf an Getriebegehäuse (GX-77878) | Charge CH-kesV-1208 | Prüfbericht: PRF-96215,1.0,CH-kesV-1208,Gießerei Leipzig
+2024-06-24T05:09:33,GX-65741,schmelzprozess,Spektralanalyse zeigt Ti-Mangel; Charge CH-EPlE-9385 | Gießparameter optimiert,1.0,CH-EPlE-9385,Gießerei Stuttgart
+2024-04-01T09:24:45,GX-58973,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-hgHd-3648 | IATF-Konformität: nicht konform,1.0,CH-hgHd-3648,Gießerei Stuttgart
+2024-05-05T15:19:02,GX-31815,formprozess,Kernbruch K-1946 | Ursache: Handling-Schaden | Nacharbeit gemäß VDA 6.3,1.0,CH-linQ-8974,Gießerei Wolfsburg
+2024-09-19T20:19:00,GX-02927,gussfehler,Sandausbruch an Zylinderkopf (GX-02927) | Charge CH-Dnwh-6156 | IATF-Konformität: teilkonform | Kernreparatur läuft,2.0,CH-Dnwh-6156,Gießerei Stuttgart
+2025-02-11T04:40:45,GX-30528,gussfehler,Sandausbruch an Zylinderkopf (GX-30528) | Charge CH-DQPN-4170 | IATF-Konformität: konform,2.0,CH-DQPN-4170,Gießerei Leipzig
+2024-11-06T07:05:10,GX-19697,endpruefung,Dichtheitsprüfung Fehler: Kernschale Verschleiß mbar/min vs. max Kernschale Verschleiß | Normabweichung: DIN 1681,1.0,CH-HyOE-9273,Gießerei Leipzig
+2024-07-30T15:36:45,GX-81186,,,,CH-ToAT-6212,Gießerei Leipzig
+2024-12-18T22:36:18,GX-39223,gussfehler,Lunker an Zylinderkopf (GX-39223) | Charge CH-ItIb-6422,1.0,CH-ItIb-6422,Gießerei Leipzig
+2024-10-16T10:20:58,GX-83208,,,,CH-tGwe-9050,Gießerei Leipzig
+2025-02-12T21:15:57,GX-63167,schmelzprozess,"Schmelzofen Schmelzofen 1 Temp-Abweichung: 707°C | Chargenanalyse: Mg:0.4%, Ti:0.1%",1.0,CH-OALV-9019,Gießerei Wolfsburg
+2024-03-23T09:54:37,GX-81386,nachbearbeitung,Maßabweichung Handling-Schaden: Sandbindermangelmm vs. Kaltlauf±Sandbindermangelmm | IATF-Konformität: teilkonform | Kernreparatur läuft,1.0,CH-Grgh-3542,Gießerei Leipzig
+2024-10-07T11:25:31,GX-28951,formprozess,Sandfeuchte Handling-Schaden% außerhalb Toleranz (2.8-3.2%),2.0,CH-Sytg-3377,Gießerei Leipzig
+2024-07-06T17:12:50,GX-58203,gussfehler,Qualitätsabweichung Lunker: Kernschale Verschleiß | Raueit Ra 6.0 µm,1.0,CH-HZjS-9000,Gießerei Leipzig
+2024-04-11T17:34:50,GX-49816,nachbearbeitung,"Bearbeitungsfehler Kernschale Verschleiß: Lunker | Teil GX-49816 | Chargenanalyse: C:3.2%, Si:2.1%",2.0,UNBEKANNT,Gießerei Stuttgart
+2024-07-05T21:52:29,GX-37179,nachbearbeitung,Maßabweichung Sandausbruch: Lunkermm vs. Lunker±Sandausbruchmm | Kernreparatur läuft,1.0,CH-qQaw-3385,Gießerei Leipzig
+2024-05-14T14:44:29,GX-58102,formprozess,Kernbruch K-1770 | Ursache: Handling-Schaden | Normabweichung: ISO 8062 | Kernreparatur läuft,1.0,CH-wcom-0305,Gießerei Leipzig
+2024-05-24T07:37:31,GX-29235,formprozess,Sandfeuchte Lunker% außerhalb Toleranz (2.8-3.2%) | IATF-Konformität: teilkonform,1.0,CH-Ajhx-8443,Gießerei Wolfsburg
+2025-01-03T00:22:57,GX-93712,schmelzprozess,Spektralanalyse zeigt Si-Mangel ¦ Charge CH-YGPc-1008 | Kernreparatur läuft,3.0,CH-YGPc-1008,Gießerei Stuttgart
+2025-01-10T19:45:33,GX-35682,formprozess,Formdruckabweichung Sandausbruch bar vs. Sandbindermangel bar | Form FORM-uf29,2.0,CH-mpsa-9378,Gießerei Leipzig
+2024-12-27T20:30:42,GX-73198,gussfehler,Ausschuss Maßhaltigkeit an Getriebegehäuse // Ursache: Legierungsabweichung Si+0.3% // IATF-Konformität: konform,1.0,CH-eRob-6978,Gießerei Leipzig
+2024-05-02T22:22:51,GX-22971,formprozess,Kernbruch K-1969 | Ursache: Handling-Schaden | Normabweichung: DIN 1681 | Nacharbeit gemäß VDA 6.3,1.0,CH-ylUk-6521,Gießerei Wolfsburg
+2024-05-21T21:48:46,GX-49832,gussfehler,"Qualitätsabweichung Lunker: Lunker | Dickenmaß: 61.2 mm | Chargenanalyse: Mg:0.4%, Ti:0.1%",1.0,CH-zsrK-8514,Gießerei Leipzig
+2024-06-07T08:07:16,GX-23697,formprozess,Sandfeuchte Handling-Schaden% außerhalb Toleranz (2.8-3.2%) | Normabweichung: DIN 1681,1.0,CH-GWOG-6560,Gießerei Wolfsburg
+2024-07-02T01:42:14,GX-27527,nachbearbeitung,Bearbeitungsfehler Kernschale Verschleiß: Sandausbruch | Teil GX-27527 | IATF-Konformität: konform | Kernreparatur läuft,2.0,CH-opIH-2175,Gießerei Leipzig
+2024-11-08T16:59:56,GX-39444,gussfehler,Qualitätsabweichung Sandausbruch: Lunker | Dickenmaß: 77.6 mm,1.0,CH-Omzg-9274,Gießerei Stuttgart
+2025-02-03T08:51:13,GX-99172,formprozess,Formdruckabweichung Lunker bar vs. Kaltlauf bar; Form FORM-mo44; Normabweichung: DIN 1681,1.0,CH-RuAs-4712,Gießerei Stuttgart
+2024-12-13T00:18:22,GX-16318,gussfehler,Kokillenriss an Zylinderkopf (GX-16318) | Charge CH-FOng-9770,1.0,CH-FOng-9770,Gießerei Wolfsburg
+2024-10-26T16:47:19,GX-63998,endpruefung,Härteprüfung Lunker: Sandausbruch HV vs. Kaltlauf,2.0,CH-Ptaz-6813,Gießerei Stuttgart
+2024-07-06T06:23:12,GX-54284,schmelzprozess,"Schmelzofen Schmelzofen 1 Temp-Abweichung: 704°C | Chargenanalyse: Mg:0.4%, Ti:0.1% | Schleifnacharbeit notwendig",3.0,CH-nvEf-4172,Gießerei Stuttgart
+2024-07-14T19:12:52,GX-29072,gussfehler,Kaltlauf an Radträger (GX-29072) | Charge CH-iuBt-5313 | Normabweichung: DIN 1681,2.0,CH-iuBt-5313,Gießerei Stuttgart
+2024-11-28T01:50:39,GX-57933,schmelzprozess,Legierungsabweichung Si: Handling-Schaden% vs. Soll Sandausbruch%,1.0,UNBEKANNT,Gießerei Stuttgart
+2024-08-03T05:16:31,GX-40229,nachbearbeitung,Bearbeitungsfehler Lunker: Sandbindermangel; Teil GX-40229 | Nacharbeit gemäß VDA 6.3,1.0,CH-rnpu-0646,Gießerei Wolfsburg
+2024-05-12T09:13:41,GX-48276,,,,CH-Hwhc-1616,Gießerei Leipzig
+2025-02-05T18:52:02,GX-60967,endpruefung,Härteprüfung Handling-Schaden: Kaltlauf HV vs. Lunker | IATF-Konformität: nicht konform | Kernreparatur läuft,2.0,CH-vSgX-4935,Gießerei Leipzig
+2024-06-20T17:07:03,GX-48358,gussfehler,Qualitätsabweichung Kernschale Verschleiß: Sandbindermangel | Porosität: 0.6 mm² (Verdacht: Sandfeuchteabweichung) | Wärmenachbehandlung eingeleitet,1.0,CH-JcJp-8137,Gießerei Wolfsburg
+2024-07-12T09:50:44,GX-74553,gussfehler,Formversatz an Getriebegehäuse (GX-74553) ¦ Charge CH-uJgS-1706 | Gießparameter optimiert,1.0,UNBEKANNT,Gießerei Wolfsburg
+2025-01-10T06:40:26,GX-53589,nachbearbeitung,Oberflächenrauheit Kaltlauf µm außerhalb Spezifikation | Normabweichung: DIN 1681,2.0,CH-YeVS-1289,Gießerei Wolfsburg
+2024-05-10T18:03:34,GX-55709,nachbearbeitung,Maßabweichung Sandbindermangel: Lunkermm vs. Sandbindermangel±Sandbindermangelmm,1.0,CH-TpbA-7940,Gießerei Leipzig
+2024-07-23T01:10:11,GX-51985,schmelzprozess,Spektralanalyse zeigt Cu-Mangel // Charge CH-UyIv-0624,1.0,CH-UyIv-0624,Gießerei Stuttgart
+2024-12-22T05:20:54,GX-39897,,,,CH-hdgE-7763,Gießerei Leipzig
+2025-03-02T08:34:20,GX-74909,schmelzprozess,Spektralanalyse zeigt Si-Mangel | Charge CH-UlKy-2399,2.0,CH-UlKy-2399,Gießerei Leipzig
+2024-08-21T02:59:59,GX-30173,schmelzprozess,Legierungsabweichung Cu: Sandbindermangel% vs. Soll Sandausbruch% (Verdacht: Formüberhitzung),1.0,CH-sMEK-4792,Gießerei Stuttgart
+2024-11-07T19:26:48,GX-10513,endpruefung,Röntgenprüfung zeigt Formversatz in Zone Handling-Schaden | IATF-Konformität: konform | Wärmenachbehandlung eingeleitet,1.0,CH-qqsF-3284,Gießerei Stuttgart
+2024-04-27T01:43:10,GX-77649,endpruefung,,1.0,CH-Mrvx-1216,Gießerei Wolfsburg
+2024-11-10T09:47:16,GX-30654,schmelzprozess,"Spektralanalyse zeigt Ti-Mangel; Charge CH-uoAy-2428; Chargenanalyse: Mg:0.4%, Ti:0.1%",3.0,CH-uoAy-2428,Gießerei Stuttgart
+2024-03-30T15:14:37,GX-26588,,,,CH-kKiP-7945,Gießerei Wolfsburg
+2024-11-23T14:13:39,GX-49724,nachbearbeitung,Bearbeitungsfehler Lunker: Handling-Schaden | Teil GX-49724 | Normabweichung: DIN 1681,2.0,CH-ices-6864,Gießerei Wolfsburg
+2024-05-12T08:04:23,GX-43930,formprozess,Formdruckabweichung Lunker bar vs. Sandbindermangel bar | Form FORM-RW50 | Kernreparatur läuft,1.0,CH-eaIL-4490,Gießerei Wolfsburg
+2024-10-20T02:39:13,GX-61397,gussfehler,Ausschuss Maßhaltigkeit an Zylinderkopf | Ursache: Sandfeuchte zu hoch (≥3.5%) (Verdacht: Formüberhitzung) | Kernreparatur läuft,2.0,CH-ObhN-3116,Gießerei Leipzig
+2024-09-05T19:05:43,GX-40442,endpruefung,Dichtheitsprüfung Fehler: Sandausbruch mbar/min vs. max Sandausbruch | Gießparameter optimiert,1.0,CH-qyqs-4364,Gießerei Wolfsburg
+2024-10-29T08:20:51,GX-85283,gussfehler,Qualitätsabweichung Sandausbruch: Kaltlauf; Raueit Ra 7.6 µm; IATF-Konformität: konform | Wärmenachbehandlung eingeleitet,2.0,CH-BeKE-8498,Gießerei Wolfsburg
+2024-09-27T10:59:50,GX-85313,schmelzprozess,Spektralanalyse zeigt Mg-Mangel; Charge CH-gSun-3461 | Wärmenachbehandlung eingeleitet,1.0,CH-gSun-3461,Gießerei Leipzig
+2024-12-11T09:10:31,GX-87535,formprozess,Kernbruch K-1295 | Ursache: Kernschale Verschleiß,1.0,CH-ENqf-4809,Gießerei Stuttgart
+2024-07-31T01:58:31,GX-62498,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 714°C | Gießparameter optimiert,2.0,CH-GTTm-7366,Gießerei Stuttgart
+2024-11-05T16:03:24,GX-80409,endpruefung,Röntgenprüfung zeigt Gasporosität in Zone Sandbindermangel | IATF-Konformität: teilkonform | Gießparameter optimiert,1.0,CH-nwOr-5547,Gießerei Leipzig
+2024-12-31T13:54:42,GX-87584,schmelzprozess,Legierungsabweichung Si: Lunker% vs. Soll Handling-Schaden% | Nacharbeit gemäß VDA 6.3,1.0,CH-ElFC-6888,Gießerei Leipzig
+2024-12-23T12:29:03,GX-66556,gussfehler,,2.0,CH-DFCI-7306,Gießerei Leipzig
+2025-03-12T02:25:49,GX-37659,endpruefung,Röntgenprüfung zeigt Kokillenriss in Zone Handling-Schaden,1.0,CH-RygT-1163,Gießerei Wolfsburg
+2024-09-12T14:38:56,GX-59063,nachbearbeitung,Oberflächenrauheit Sandausbruch µm außerhalb Spezifikation | IATF-Konformität: teilkonform,3.0,CH-QTgw-3281,Gießerei Wolfsburg
+2024-12-27T19:19:41,GX-78828,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 690°C,3.0,CH-tBND-8564,Gießerei Wolfsburg
+2024-06-03T22:54:57,GX-93178,gussfehler,Kokillenriss an Zylinderkopf (GX-93178) | Charge CH-Dfvj-3461,1.0,CH-Dfvj-3461,Gießerei Stuttgart
+2024-07-05T02:17:23,GX-55572,formprozess,Sandfeuchte Kernschale Verschleiß% außerhalb Toleranz (2.8-3.2%),2.0,CH-hnPk-0823,Gießerei Stuttgart
+2024-10-13T20:23:52,GX-02168,formprozess,Formdruckabweichung Sandausbruch bar vs. Sandbindermangel bar | Form FORM-pW88 | Schleifnacharbeit notwendig,1.0,CH-wlzX-6084,Gießerei Wolfsburg
+2024-04-02T09:10:51,GX-73034,gussfehler,Ausschuss Oberflächenfehler an Getriebegehäuse; Ursache: Sandfeuchte zu hoch (≥3.5%); Normabweichung: VDA 6.3,2.0,CH-rYjk-0086,Gießerei Stuttgart
+2024-04-26T14:32:25,GX-94710,nachbearbeitung,,1.0,CH-Qfqj-3223,Gießerei Leipzig
+2025-02-25T05:54:29,GX-01169,nachbearbeitung,Oberflächenrauheit Kaltlauf µm außerhalb Spezifikation,1.0,CH-dIDN-5179,Gießerei Wolfsburg
+2024-10-22T02:30:32,GX-18475,formprozess,Sandfeuchte Sandausbruch% außerhalb Toleranz (2.8-3.2%) | IATF-Konformität: teilkonform | Gießparameter optimiert,2.0,CH-QasO-3361,Gießerei Wolfsburg
+2024-06-07T20:27:30,GX-12143,schmelzprozess,"Schmelzofen Schmelzofen 1 Temp-Abweichung: 709°C; Chargenanalyse: Mg:0.4%, Ti:0.1%",1.0,CH-jnRo-4659,Gießerei Stuttgart
+2024-08-27T10:44:55,GX-81640,formprozess,Sandfeuchte Sandbindermangel% außerhalb Toleranz (2.8-3.2%),1.0,CH-IzMO-8498,Gießerei Stuttgart
+2025-01-23T04:56:40,GX-91350,endpruefung,Dichtheitsprüfung Fehler: Kernschale Verschleiß mbar/min vs. max Sandbindermangel,1.0,CH-nPux-7320,Gießerei Stuttgart
+2024-11-26T05:15:41,GX-91260,endpruefung,Röntgenprüfung zeigt Sandausbruch in Zone Sandausbruch (Verdacht: Legierungsdrift),1.0,CH-lorj-5254,Gießerei Stuttgart
+2024-09-25T14:43:17,GX-59194,endpruefung,Dichtheitsprüfung Fehler: Lunker mbar/min vs. max Sandbindermangel | Gießparameter optimiert,3.0,CH-gDwz-6392,Gießerei Wolfsburg
+2024-04-25T23:34:06,GX-77967,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 714°C,3.0,CH-pwBT-0784,Gießerei Wolfsburg
+2024-12-02T10:17:50,GX-15024,nachbearbeitung,Bearbeitungsfehler Kaltlauf: Kaltlauf | Teil GX-15024 | IATF-Konformität: nicht konform | Schleifnacharbeit notwendig,2.0,CH-Yypf-2477,Gießerei Leipzig
+2024-11-16T00:23:54,GX-28944,,,,CH-aRWY-4575,Gießerei Leipzig
+2025-02-12T05:01:36,GX-46514,endpruefung,Dichtheitsprüfung Fehler: Handling-Schaden mbar/min vs. max Kernschale Verschleiß,1.0,CH-hqYd-1967,Gießerei Stuttgart
+2024-07-18T11:51:42,GX-38662,,,,CH-ROuF-4602,Gießerei Leipzig
+2024-04-01T17:57:10,GX-21466,nachbearbeitung,Oberflächenrauheit Sandausbruch µm außerhalb Spezifikation | Kernreparatur läuft,1.0,CH-Juza-4632,Gießerei Wolfsburg
+2024-04-22T15:50:13,GX-89063,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 731°C,1.0,CH-qChO-0566,Gießerei Leipzig
+2024-07-22T20:12:39,GX-43456,nachbearbeitung,"Bearbeitungsfehler Kernschale Verschleiß: Kaltlauf; Teil GX-43456; Chargenanalyse: Mg:0.4%, Ti:0.1% | Kernreparatur läuft",1.0,CH-zFln-0591,Gießerei Wolfsburg
+2024-05-18T10:07:37,GX-43739,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 725°C | Wärmenachbehandlung eingeleitet,1.0,CH-gmdp-4697,Gießerei Wolfsburg
+2025-02-20T18:12:33,GX-57367,endpruefung,Härteprüfung Kaltlauf: Kernschale Verschleiß HV vs. Sandausbruch | Prüfbericht: PRF-12449 | Nacharbeit gemäß VDA 6.3,1.0,CH-KpAh-4166,Gießerei Wolfsburg
+2024-10-30T13:14:45,GX-70768,nachbearbeitung,Oberflächenrauheit Sandausbruch µm außerhalb Spezifikation (Verdacht: Sandfeuchteabweichung),3.0,CH-NkIM-1609,Gießerei Wolfsburg
+2024-10-11T13:26:33,GX-99530,endpruefung,Härteprüfung Sandausbruch: Kaltlauf HV vs. Handling-Schaden | Wärmenachbehandlung eingeleitet,1.0,CH-aDrD-0236,Gießerei Leipzig
+2024-11-01T02:36:32,GX-19073,formprozess,"Sandfeuchte Kernschale Verschleiß% außerhalb Toleranz (2.8-3.2%) | Chargenanalyse: C:3.2%, Si:2.1%",2.0,CH-eCwT-1896,Gießerei Leipzig
+2024-12-29T04:20:31,GX-62672,,,,CH-NTbs-3247,Gießerei Wolfsburg
+2024-10-16T08:18:57,GX-60267,formprozess,Sandfeuchte Kaltlauf% außerhalb Toleranz (2.8-3.2%); IATF-Konformität: nicht konform,1.0,CH-AEGq-5296,Gießerei Wolfsburg
+2024-05-29T21:42:53,GX-38233,gussfehler,Kaltlauf an Radträger (GX-38233) | Charge CH-LeeA-2249 (Verdacht: Legierungsdrift) | Schleifnacharbeit notwendig,1.0,CH-LeeA-2249,Gießerei Leipzig
+2024-05-21T01:48:29,GX-42699,endpruefung,Härteprüfung Kaltlauf: Sandausbruch HV vs. Handling-Schaden | Normabweichung: VDA 6.3,1.0,CH-BiAW-3701,Gießerei Leipzig
+2024-10-31T03:19:45,GX-59456,endpruefung,Röntgenprüfung zeigt Kaltlauf in Zone Lunker | Prüfbericht: PRF-24771 | Gießparameter optimiert,3.0,UNBEKANNT,Gießerei Stuttgart
+2024-09-30T11:23:18,GX-88575,endpruefung,Härteprüfung Handling-Schaden: Sandausbruch HV vs. Kernschale Verschleiß,1.0,CH-mupM-5007,Gießerei Wolfsburg
+2024-07-20T03:28:15,GX-27094,nachbearbeitung,Maßabweichung Handling-Schaden: Kernschale Verschleißmm vs. Sandbindermangel±Sandbindermangelmm | Nacharbeit gemäß VDA 6.3,1.0,CH-mpKN-0864,Gießerei Leipzig
+2025-02-23T04:32:29,GX-96694,endpruefung,Röntgenprüfung zeigt Kaltlauf in Zone Sandausbruch | Wärmenachbehandlung eingeleitet,1.0,CH-rfpA-9725,Gießerei Stuttgart
+2024-04-10T14:40:05,GX-98723,formprozess,Kernbruch K-1366 | Ursache: Handling-Schaden | IATF-Konformität: nicht konform,1.0,CH-HtxP-8102,Gießerei Stuttgart
+2025-02-15T00:43:14,GX-18324,nachbearbeitung,"Maßabweichung Kaltlauf: Kaltlaufmm vs. Kaltlauf±Sandbindermangelmm | Chargenanalyse: C:3.2%, Si:2.1% | Nacharbeit gemäß VDA 6.3",2.0,CH-zcfq-7022,Gießerei Wolfsburg
+2024-06-16T15:10:11,GX-71876,formprozess,Formdruckabweichung Handling-Schaden bar vs. Sandbindermangel bar | Form FORM-RY18 (Verdacht: Legierungsdrift) | Gießparameter optimiert,2.0,CH-kzaO-8610,Gießerei Wolfsburg
+2025-02-08T06:36:09,GX-69131,formprozess,Formdruckabweichung Handling-Schaden bar vs. Handling-Schaden bar | Form FORM-dY57,1.0,CH-RDFt-7911,Gießerei Stuttgart
+2024-03-28T22:15:09,GX-24072,nachbearbeitung,Bearbeitungsfehler Sandausbruch: Kaltlauf // Teil GX-24072 (Verdacht: Legierungsdrift),1.0,CH-NZst-8778,Gießerei Stuttgart
+2024-03-30T21:34:11,GX-29597,endpruefung,Röntgenprüfung zeigt Formversatz in Zone Sandausbruch,1.0,CH-Jjep-8168,Gießerei Leipzig
+2024-07-18T21:33:06,GX-99821,gussfehler,Qualitätsabweichung Handling-Schaden: Kaltlauf | Raueit Ra 6.3 µm | Wärmenachbehandlung eingeleitet,1.0,CH-hNLm-5965,Gießerei Wolfsburg
+2024-11-19T17:44:33,GX-01925,gussfehler,Sandausbruch an Zylinderkopf (GX-01925) | Charge CH-XZAw-3905,1.0,CH-XZAw-3905,Gießerei Wolfsburg
+2024-06-24T03:34:36,GX-06377,gussfehler,Qualitätsabweichung Handling-Schaden: Lunker | Porosität: 1.5 mm²,3.0,CH-QXAH-6294,Gießerei Wolfsburg
+2025-02-07T19:21:07,GX-02043,nachbearbeitung,Maßabweichung Kaltlauf: Kaltlaufmm vs. Kernschale Verschleiß±Kaltlaufmm,2.0,CH-FENt-6464,Gießerei Stuttgart
+2024-10-24T17:05:06,GX-87232,,,,CH-gizd-8843,Gießerei Stuttgart
+2024-05-09T19:28:57,GX-32673,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 657°C,1.0,CH-MyEp-4211,Gießerei Stuttgart
+2024-06-09T07:33:32,GX-23574,formprozess,Formdruckabweichung Kaltlauf bar vs. Sandbindermangel bar | Form FORM-vD38,1.0,CH-QReU-0477,Gießerei Leipzig
+2024-08-04T00:03:59,GX-02799,schmelzprozess,Spektralanalyse zeigt Cu-Mangel | Charge CH-whmr-3675,1.0,CH-whmr-3675,Gießerei Wolfsburg
+2024-03-25T07:21:32,GX-98482,nachbearbeitung,Maßabweichung Sandbindermangel: Kernschale Verschleißmm vs. Kaltlauf±Sandausbruchmm (Verdacht: Legierungsdrift),1.0,CH-UcWO-2416,Gießerei Wolfsburg
+2024-05-10T11:10:21,GX-67887,gussfehler,Kaltlauf an Zylinderkopf (GX-67887); Charge CH-trOl-7032,2.0,CH-trOl-7032,Gießerei Wolfsburg
+2024-07-03T15:06:55,GX-75934,schmelzprozess,Spektralanalyse zeigt Mg-Mangel | Charge CH-TNhX-1311,2.0,CH-TNhX-1311,Gießerei Wolfsburg
+2024-09-26T12:15:09,GX-13869,formprozess,Kernbruch K-1655 | Ursache: Handling-Schaden (Verdacht: Legierungsdrift) | Nacharbeit gemäß VDA 6.3,2.0,CH-YpaL-0890,Gießerei Stuttgart
+2025-01-04T17:27:37,GX-86158,formprozess,Formdruckabweichung Sandbindermangel bar vs. Handling-Schaden bar // Form FORM-FO70 // IATF-Konformität: nicht konform,2.0,CH-NcHu-1237,Gießerei Stuttgart
+2025-02-22T17:57:25,GX-55221,gussfehler,Qualitätsabweichung Kernschale Verschleiß: Handling-Schaden | Dickenmaß: 88.5 mm (Verdacht: Formüberhitzung),1.0,CH-cJqL-8746,Gießerei Stuttgart
+2025-02-06T13:10:11,GX-01092,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-ffHf-1468 | Normabweichung: VDA 6.3 | Wärmenachbehandlung eingeleitet,1.0,CH-ffHf-1468,Gießerei Stuttgart
+2024-06-03T00:42:00,GX-65852,gussfehler,Ausschuss Maßhaltigkeit an Radträger | Ursache: Kaltlauf,1.0,CH-KTgU-6123,Gießerei Wolfsburg
+2024-11-08T04:19:21,GX-62425,schmelzprozess,Spektralanalyse zeigt Si-Mangel | Charge CH-XDIC-0920,2.0,CH-XDIC-0920,Gießerei Wolfsburg
+2025-03-11T13:38:15,GX-66819,nachbearbeitung,Oberflächenrauheit Kaltlauf µm außerhalb Spezifikation,3.0,CH-vnrt-9466,Gießerei Leipzig
+2024-05-26T09:52:59,GX-55721,formprozess,Formdruckabweichung Sandausbruch bar vs. Lunker bar | Form FORM-qM77,1.0,CH-jcnt-7258,Gießerei Wolfsburg
+2024-08-21T09:33:03,GX-36431,nachbearbeitung,Oberflächenrauheit Kaltlauf µm außerhalb Spezifikation,1.0,CH-iZcX-4818,Gießerei Stuttgart
+2024-08-29T16:01:25,GX-42579,endpruefung,Dichtheitsprüfung Fehler: Sandausbruch mbar/min vs. max Kaltlauf | Kernreparatur läuft,1.0,CH-Vlip-0904,Gießerei Leipzig
+2024-05-20T14:16:14,GX-26953,schmelzprozess,Legierungsabweichung Si: Kernschale Verschleiß% vs. Soll Sandbindermangel%,1.0,CH-ernO-1937,Gießerei Wolfsburg
+2025-01-08T12:55:16,GX-01799,gussfehler,"Lunker an Zylinderkopf (GX-01799) | Charge CH-CZAg-4902 | Chargenanalyse: Mg:0.4%, Ti:0.1% | Schleifnacharbeit notwendig",2.0,CH-CZAg-4902,Gießerei Leipzig
+2024-06-08T06:53:56,GX-97324,endpruefung,Dichtheitsprüfung Fehler: Sandbindermangel mbar/min vs. max Kaltlauf | Prüfbericht: PRF-15341 | Gießparameter optimiert,2.0,CH-Mwfa-6043,Gießerei Leipzig
+2024-06-22T12:25:38,GX-98489,endpruefung,Röntgenprüfung zeigt Gasporosität in Zone Handling-Schaden | Normabweichung: ISO 8062 | Nacharbeit gemäß VDA 6.3,2.0,CH-yaTP-7298,Gießerei Stuttgart
+2024-08-03T07:10:03,GX-99259,formprozess,Kernbruch K-1982 // Ursache: Sandbindermangel | Gießparameter optimiert,2.0,CH-nCuh-4768,Gießerei Wolfsburg
+2025-02-04T20:12:06,GX-80782,nachbearbeitung,Maßabweichung Sandausbruch: Lunkermm vs. Kernschale Verschleiß±Lunkermm | Nacharbeit gemäß VDA 6.3,1.0,CH-uEkc-6221,Gießerei Wolfsburg
+2024-03-31T16:24:12,GX-97525,gussfehler,Formversatz an Radträger (GX-97525) | Charge CH-prwG-9551 | Prüfbericht: PRF-95454,2.0,CH-prwG-9551,Gießerei Wolfsburg
+2024-12-17T07:41:31,GX-69441,endpruefung,Dichtheitsprüfung Fehler: Sandbindermangel mbar/min vs. max Sandausbruch | Normabweichung: ISO 8062,1.0,CH-ITap-3085,Gießerei Leipzig
+2024-05-21T04:29:26,GX-75650,schmelzprozess,Legierungsabweichung Mg: Handling-Schaden% vs. Soll Sandausbruch%,1.0,CH-xhbE-6138,Gießerei Wolfsburg
+2024-10-17T20:46:57,GX-91643,formprozess,Formdruckabweichung Sandbindermangel bar vs. Kaltlauf bar | Form FORM-Qc23 | IATF-Konformität: teilkonform | Nacharbeit gemäß VDA 6.3,2.0,CH-vwDJ-8234,Gießerei Stuttgart
+2024-08-01T01:42:37,GX-45713,formprozess,Formdruckabweichung Kernschale Verschleiß bar vs. Sandbindermangel bar | Form FORM-Qa79,1.0,CH-sSGr-2754,Gießerei Wolfsburg
+2024-12-08T15:01:38,GX-02205,endpruefung,Härteprüfung Kaltlauf: Kaltlauf HV vs. Sandbindermangel | IATF-Konformität: konform,1.0,CH-sYaX-0461,Gießerei Stuttgart
+2024-05-18T22:42:33,GX-62878,endpruefung,Härteprüfung Sandausbruch: Lunker HV vs. Lunker (Verdacht: Formüberhitzung),1.0,CH-bexp-4882,Gießerei Wolfsburg
+2024-07-18T13:46:54,GX-81383,nachbearbeitung,Oberflächenrauheit Lunker µm außerhalb Spezifikation (Verdacht: Legierungsdrift),1.0,CH-eSai-7295,Gießerei Leipzig
+2024-04-14T23:06:48,GX-19714,nachbearbeitung,Bearbeitungsfehler Sandausbruch: Sandbindermangel; Teil GX-19714 | Wärmenachbehandlung eingeleitet,1.0,CH-Ansi-7584,Gießerei Stuttgart
+2025-02-03T11:18:33,GX-16986,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 650°C,3.0,CH-zXjW-1819,Gießerei Wolfsburg
+2024-11-14T21:00:39,GX-24594,nachbearbeitung,Maßabweichung Handling-Schaden: Lunkermm vs. Kernschale Verschleiß±Sandbindermangelmm | Gießparameter optimiert,1.0,CH-AApC-7986,Gießerei Wolfsburg
+2024-04-24T11:52:49,GX-31502,formprozess,"Formdruckabweichung Sandausbruch bar vs. Kaltlauf bar | Form FORM-rD79 | Chargenanalyse: C:3.2%, Si:2.1%",1.0,CH-AAlj-2715,Gießerei Stuttgart
+2024-04-18T00:13:35,GX-31015,gussfehler,Qualitätsabweichung Kernschale Verschleiß: Kaltlauf | Dickenmaß: 137.4 mm,2.0,CH-yFjt-0765,Gießerei Stuttgart
+2024-06-21T21:43:12,GX-23756,endpruefung,Röntgenprüfung zeigt Kaltlauf in Zone Kernschale Verschleiß | Prüfbericht: PRF-36336 | Schleifnacharbeit notwendig,1.0,CH-OqMc-3111,Gießerei Stuttgart
+2024-06-23T13:07:20,GX-41528,nachbearbeitung,Maßabweichung Lunker: Lunkermm vs. Sandausbruch±Handling-Schadenmm | Normabweichung: DIN 1681,1.0,CH-myxD-1142,Gießerei Wolfsburg
+2025-03-13T13:50:02,GX-53409,nachbearbeitung,Bearbeitungsfehler Kaltlauf: Sandbindermangel | Teil GX-53409 | Normabweichung: VDA 6.3 | Kernreparatur läuft,1.0,CH-SQvu-1906,Gießerei Leipzig
+2024-12-01T18:15:30,GX-07553,formprozess,Sandfeuchte Lunker% außerhalb Toleranz (2.8-3.2%) | Normabweichung: DIN 1681,1.0,CH-OVUj-5068,Gießerei Leipzig
+2025-01-07T12:56:15,GX-77271,schmelzprozess,Spektralanalyse zeigt Cu-Mangel | Charge CH-XDid-6096 | Normabweichung: DIN 1681,1.0,CH-XDid-6096,Gießerei Stuttgart
+2025-01-27T18:41:23,GX-54804,nachbearbeitung,Maßabweichung Sandausbruch: Sandausbruchmm vs. Handling-Schaden±Lunkermm,1.0,CH-tcNT-1957,Gießerei Wolfsburg
+2024-06-23T18:40:25,GX-28378,endpruefung,Dichtheitsprüfung Fehler: Sandausbruch mbar/min vs. max Sandbindermangel,2.0,CH-WrEY-2832,Gießerei Stuttgart
+2024-08-13T00:12:49,GX-61225,gussfehler,Ausschuss Materialfehler an Getriebegehäuse | Ursache: Handling-Schaden | Kernreparatur läuft,1.0,CH-weUp-4743,Gießerei Wolfsburg
+2024-08-18T01:28:54,GX-32777,schmelzprozess,"Legierungsabweichung Si: Lunker% vs. Soll Kaltlauf% ¦ Chargenanalyse: Mg:0.4%, Ti:0.1%",2.0,CH-bzLT-7069,Gießerei Wolfsburg
+2024-12-12T05:16:02,GX-38592,gussfehler,Qualitätsabweichung Handling-Schaden: Kernschale Verschleiß | Porosität: 2.3 mm²,1.0,CH-friy-3427,Gießerei Leipzig
+2024-12-02T17:35:29,GX-72285,endpruefung,Härteprüfung Lunker: Sandausbruch HV vs. Lunker | Kernreparatur läuft,3.0,CH-CWcH-1723,Gießerei Wolfsburg
+2024-07-17T20:44:32,GX-53459,endpruefung,Röntgenprüfung zeigt Sandausbruch in Zone Sandausbruch // IATF-Konformität: konform | Gießparameter optimiert,1.0,CH-ayKM-0250,Gießerei Wolfsburg
+2025-03-06T19:54:16,GX-49910,endpruefung,Dichtheitsprüfung Fehler: Kaltlauf mbar/min vs. max Handling-Schaden | IATF-Konformität: konform,2.0,CH-KHll-1032,Gießerei Leipzig
+2024-10-04T05:45:57,GX-81307,gussfehler,"Ausschuss Funktionstest an Radträger | Ursache: Gießtemp. zu niedrig (650°C < 720°C) | Chargenanalyse: C:3.2%, Si:2.1% | Wärmenachbehandlung eingeleitet",3.0,CH-lOue-8095,Gießerei Leipzig
+2024-05-24T14:48:23,GX-12611,nachbearbeitung,"Maßabweichung Kernschale Verschleiß: Sandausbruchmm vs. Sandbindermangel±Kaltlaufmm | Chargenanalyse: C:3.2%, Si:2.1%",2.0,CH-lmuM-1467,Gießerei Wolfsburg
+2024-07-06T19:57:31,GX-57051,endpruefung,"Dichtheitsprüfung Fehler: Kaltlauf mbar/min vs. max Kaltlauf | Chargenanalyse: Mg:0.4%, Ti:0.1% | Kernreparatur läuft",2.0,CH-XJWk-7820,Gießerei Stuttgart
+2025-02-19T11:00:09,GX-83642,nachbearbeitung,Oberflächenrauheit Kaltlauf µm außerhalb Spezifikation,1.0,CH-FoZZ-9686,Gießerei Leipzig
+2024-11-09T06:53:52,GX-78131,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-Ygac-8883,2.0,CH-Ygac-8883,Gießerei Leipzig
+2024-11-20T13:15:28,GX-68279,formprozess,Kernbruch K-1748 | Ursache: Handling-Schaden,1.0,CH-EaFy-0484,Gießerei Stuttgart
+2024-07-17T11:59:18,GX-77221,schmelzprozess,Spektralanalyse zeigt Mg-Mangel | Charge CH-sZHp-9893,3.0,CH-sZHp-9893,Gießerei Leipzig
+2024-11-19T12:57:49,GX-62903,formprozess,Kernbruch K-1103 // Ursache: Kernschale Verschleiß,1.0,CH-SnLX-2844,Gießerei Wolfsburg
+2024-11-02T05:15:59,GX-86208,,,,CH-wJkT-1512,Gießerei Wolfsburg
+2024-11-09T00:09:37,GX-22526,schmelzprozess,Spektralanalyse zeigt Ti-Mangel; Charge CH-RlIn-7553,1.0,CH-RlIn-7553,Gießerei Wolfsburg
+2024-04-17T20:14:32,GX-28012,gussfehler,Kokillenriss an Zylinderkopf (GX-28012) // Charge CH-ScPi-4699 // Normabweichung: ISO 8062 | Schleifnacharbeit notwendig,3.0,CH-ScPi-4699,Gießerei Leipzig
+2024-06-26T23:01:46,GX-14787,nachbearbeitung,Maßabweichung Kaltlauf: Handling-Schadenmm vs. Lunker±Sandausbruchmm,1.0,CH-mIga-0877,Gießerei Leipzig
+2024-09-10T10:48:10,GX-79392,gussfehler,Qualitätsabweichung Sandausbruch: Kernschale Verschleiß; Dickenmaß: 94.7 mm; Prüfbericht: PRF-32519 | Wärmenachbehandlung eingeleitet,2.0,CH-WgPk-8975,Gießerei Wolfsburg
+2025-01-30T07:38:01,GX-45980,formprozess,Kernbruch K-1571 | Ursache: Kernschale Verschleiß,2.0,CH-FGSg-4599,Gießerei Stuttgart
+2024-12-18T16:41:16,GX-12522,gussfehler,Qualitätsabweichung Kernschale Verschleiß: Sandausbruch | Dickenmaß: 146.1 mm | Gießparameter optimiert,2.0,CH-zMjr-3540,Gießerei Wolfsburg
+2024-12-30T06:51:39,GX-47776,endpruefung,Röntgenprüfung zeigt Lunker in Zone Lunker | Prüfbericht: PRF-58728,1.0,CH-oUUe-4977,Gießerei Leipzig
+2025-01-02T12:47:45,GX-66287,schmelzprozess,"Spektralanalyse zeigt Ti-Mangel ¦ Charge CH-tmXl-8909 ¦ Chargenanalyse: Mg:0.4%, Ti:0.1% | Wärmenachbehandlung eingeleitet",1.0,CH-tmXl-8909,Gießerei Leipzig
+2024-12-24T20:22:36,GX-81666,gussfehler,Ausschuss Oberflächenfehler an Radträger ¦ Ursache: Sandbindermangel,2.0,CH-Xfco-3575,Gießerei Stuttgart
+2025-02-03T15:12:55,GX-45532,gussfehler,Qualitätsabweichung Handling-Schaden: Kaltlauf // Raueit Ra 11.2 µm // Normabweichung: VDA 6.3,2.0,CH-rOax-2645,Gießerei Stuttgart
+2024-05-04T06:20:55,GX-56472,,,,CH-EcIL-9745,Gießerei Stuttgart
+2024-06-21T15:53:28,GX-36256,gussfehler,Qualitätsabweichung Handling-Schaden: Kernschale Verschleiß | Dickenmaß: 149.0 mm | Prüfbericht: PRF-04485,3.0,CH-bnYg-9357,Gießerei Stuttgart
+2025-02-25T10:15:33,GX-27389,nachbearbeitung,Maßabweichung Handling-Schaden: Kernschale Verschleißmm vs. Sandbindermangel±Kernschale Verschleißmm | IATF-Konformität: konform | Kernreparatur läuft,3.0,CH-GZwb-2310,Gießerei Stuttgart
+2024-04-29T15:39:33,GX-17583,formprozess,Formdruckabweichung Sandbindermangel bar vs. Kernschale Verschleiß bar ¦ Form FORM-Sp30,1.0,CH-CkFp-1470,Gießerei Leipzig
+2024-07-02T05:23:59,GX-07526,gussfehler,Kaltlauf an Radträger (GX-07526) | Charge CH-YCpX-5010 (Verdacht: Formüberhitzung) | Kernreparatur läuft,2.0,CH-YCpX-5010,Gießerei Stuttgart
+2024-08-03T20:20:54,GX-66834,formprozess,Sandfeuchte Kaltlauf% außerhalb Toleranz (2.8-3.2%) | IATF-Konformität: nicht konform | Nacharbeit gemäß VDA 6.3,1.0,CH-wQPa-4315,Gießerei Leipzig
+2024-07-12T08:13:21,GX-20226,gussfehler,Qualitätsabweichung Sandausbruch: Sandausbruch | Raueit Ra 7.7 µm | Kernreparatur läuft,1.0,CH-CAdU-5576,Gießerei Wolfsburg
+2025-03-16T00:48:42,GX-46359,nachbearbeitung,Maßabweichung Handling-Schaden: Lunkermm vs. Kernschale Verschleiß±Sandbindermangelmm | Schleifnacharbeit notwendig,2.0,CH-KAKL-7580,Gießerei Wolfsburg
+2024-04-22T07:39:51,GX-04105,nachbearbeitung,Bearbeitungsfehler Sandausbruch: Handling-Schaden | Teil GX-04105,2.0,CH-sQoe-9787,Gießerei Stuttgart
+2024-12-25T01:17:33,GX-45635,formprozess,Kernbruch K-1808 | Ursache: Kernschale Verschleiß | Wärmenachbehandlung eingeleitet,1.0,CH-QKSP-2953,Gießerei Leipzig
+2024-12-21T04:52:57,GX-55016,formprozess,Formdruckabweichung Kaltlauf bar vs. Kaltlauf bar // Form FORM-rg22 (Verdacht: Formüberhitzung),1.0,CH-UqcB-9023,Gießerei Wolfsburg
+2024-11-27T19:56:31,GX-17621,nachbearbeitung,Oberflächenrauheit Kernschale Verschleiß µm außerhalb Spezifikation | Gießparameter optimiert,1.0,CH-GgWY-8466,Gießerei Wolfsburg
+2024-03-17T18:52:27,GX-48641,formprozess,Sandfeuchte Lunker% außerhalb Toleranz (2.8-3.2%),3.0,CH-Mgfv-2447,Gießerei Wolfsburg
+2025-01-23T10:58:14,GX-78320,formprozess,Formdruckabweichung Sandbindermangel bar vs. Kernschale Verschleiß bar | Form FORM-jo31 | Normabweichung: DIN 1681 | Nacharbeit gemäß VDA 6.3,1.0,CH-jjXd-9971,Gießerei Leipzig
+2024-11-09T16:59:39,GX-89609,endpruefung,Härteprüfung Handling-Schaden: Lunker HV vs. Sandausbruch | Prüfbericht: PRF-37921 | Nacharbeit gemäß VDA 6.3,1.0,CH-splJ-3036,Gießerei Wolfsburg
+2024-12-12T08:31:01,GX-76169,schmelzprozess,Spektralanalyse zeigt Mg-Mangel | Charge CH-crHz-7425 (Verdacht: Sandfeuchteabweichung) | Gießparameter optimiert,2.0,CH-crHz-7425,Gießerei Leipzig
+2024-10-17T04:55:14,GX-17137,formprozess,"Formdruckabweichung Sandausbruch bar vs. Lunker bar ¦ Form FORM-Cs28 ¦ Chargenanalyse: Mg:0.4%, Ti:0.1%",2.0,CH-swLT-9771,Gießerei Stuttgart
+2024-04-25T18:10:09,GX-48257,formprozess,Kernbruch K-1462 | Ursache: Handling-Schaden | IATF-Konformität: nicht konform,2.0,CH-mOcG-7486,Gießerei Wolfsburg
+2024-07-03T09:25:01,GX-58909,formprozess,"Kernbruch K-1897 // Ursache: Sandbindermangel // Chargenanalyse: Mg:0.4%, Ti:0.1%",1.0,CH-BvAa-5505,Gießerei Stuttgart
+2024-10-21T12:43:45,GX-56401,endpruefung,Dichtheitsprüfung Fehler: Kernschale Verschleiß mbar/min vs. max Sandbindermangel | Gießparameter optimiert,2.0,CH-YrPW-7183,Gießerei Leipzig
+2025-02-13T18:10:01,GX-46038,gussfehler,Formversatz an Getriebegehäuse (GX-46038) | Charge CH-jXbD-0762 | Gießparameter optimiert,1.0,CH-jXbD-0762,Gießerei Stuttgart
+2025-03-16T02:51:36,GX-19770,nachbearbeitung,Maßabweichung Lunker: Kernschale Verschleißmm vs. Sandbindermangel±Kernschale Verschleißmm; IATF-Konformität: konform | Wärmenachbehandlung eingeleitet,2.0,CH-JEpI-4320,Gießerei Leipzig
+2025-02-06T17:43:08,GX-64277,formprozess,Formdruckabweichung Sandausbruch bar vs. Kaltlauf bar | Form FORM-so88,1.0,CH-bVvQ-6918,Gießerei Stuttgart
+2024-07-19T05:03:14,GX-94337,gussfehler,Qualitätsabweichung Sandausbruch: Kaltlauf | Raueit Ra 2.5 µm,1.0,CH-uJeq-3221,Gießerei Wolfsburg
+2024-12-04T15:10:15,GX-55099,endpruefung,Härteprüfung Sandausbruch: Kernschale Verschleiß HV vs. Kaltlauf (Verdacht: Formüberhitzung) | Wärmenachbehandlung eingeleitet,3.0,CH-cBmO-5272,Gießerei Stuttgart
+2024-04-01T02:56:55,GX-58556,formprozess,Sandfeuchte Lunker% außerhalb Toleranz (2.8-3.2%) | Gießparameter optimiert,1.0,CH-Lded-1881,Gießerei Wolfsburg
+2024-04-18T07:05:13,GX-06804,gussfehler,Kaltlauf an Zylinderkopf (GX-06804) | Charge CH-QLOJ-0384 | IATF-Konformität: nicht konform | Gießparameter optimiert,1.0,CH-QLOJ-0384,Gießerei Stuttgart
+2024-05-02T06:42:17,GX-14046,gussfehler,Qualitätsabweichung Sandbindermangel: Kaltlauf | Raueit Ra 6.1 µm | Nacharbeit gemäß VDA 6.3,3.0,CH-FprE-6902,Gießerei Wolfsburg
+2024-08-13T07:37:26,GX-00020,endpruefung,Röntgenprüfung zeigt Kokillenriss in Zone Sandausbruch | Kernreparatur läuft,1.0,CH-fzfa-6548,Gießerei Leipzig
+2025-01-23T04:29:31,GX-92699,endpruefung,Röntgenprüfung zeigt Sandausbruch in Zone Sandbindermangel (Verdacht: Formüberhitzung) | Gießparameter optimiert,2.0,CH-YLNy-0321,Gießerei Leipzig
+2024-07-04T05:23:02,GX-94551,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 727°C | Prüfbericht: PRF-32659 | Schleifnacharbeit notwendig,2.0,CH-lVVB-5600,Gießerei Wolfsburg
+2024-07-25T05:07:57,GX-83525,schmelzprozess,Legierungsabweichung Cu: Sandbindermangel% vs. Soll Handling-Schaden% | Prüfbericht: PRF-29291,1.0,CH-oWaJ-4623,Gießerei Wolfsburg
+2024-04-25T11:22:25,GX-94744,gussfehler,Ausschuss Oberflächenfehler an Getriebegehäuse | Ursache: Lunker,2.0,CH-Twmf-3664,Gießerei Wolfsburg
+2024-10-16T14:48:27,GX-00955,formprozess,Kernbruch K-1785 | Ursache: Sandbindermangel (Verdacht: Formüberhitzung) | Kernreparatur läuft,3.0,CH-qQKi-3790,Gießerei Wolfsburg
+2024-11-24T03:54:44,GX-70255,schmelzprozess,Spektralanalyse zeigt Cu-Mangel; Charge CH-ynke-9884; IATF-Konformität: konform,1.0,CH-ynke-9884,Gießerei Stuttgart
+2024-05-22T03:06:20,GX-81629,,,,UNBEKANNT,Gießerei Wolfsburg
+2024-09-10T16:53:03,GX-35566,nachbearbeitung,"Bearbeitungsfehler Kaltlauf: Handling-Schaden; Teil GX-35566; Chargenanalyse: Mg:0.4%, Ti:0.1% | Schleifnacharbeit notwendig",1.0,CH-eeGP-6801,Gießerei Leipzig
+2025-02-12T19:02:24,GX-95329,endpruefung,Dichtheitsprüfung Fehler: Handling-Schaden mbar/min vs. max Kaltlauf | Normabweichung: DIN 1681,2.0,CH-IVBN-2834,Gießerei Stuttgart
+2024-04-29T03:41:42,GX-47028,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-jZhY-7479 | Prüfbericht: PRF-68016,1.0,CH-jZhY-7479,Gießerei Stuttgart
+2024-10-29T17:58:54,GX-16188,schmelzprozess,Spektralanalyse zeigt Si-Mangel // Charge CH-Dbij-9759 // Prüfbericht: PRF-80782,2.0,CH-Dbij-9759,Gießerei Stuttgart
+2025-01-07T10:49:59,GX-98000,formprozess,Kernbruch K-1196 | Ursache: Sandbindermangel (Verdacht: Legierungsdrift),1.0,UNBEKANNT,Gießerei Leipzig
+2024-08-28T08:42:49,GX-93251,formprozess,Kernbruch K-1425 | Ursache: Kernschale Verschleiß,2.0,CH-xWSD-6605,Gießerei Stuttgart
+2024-10-08T18:16:40,GX-21150,endpruefung,Härteprüfung Handling-Schaden: Handling-Schaden HV vs. Lunker | Kernreparatur läuft,2.0,CH-akxf-2220,Gießerei Leipzig
+2025-02-28T03:45:40,GX-43713,,,,CH-sJIE-7173,Gießerei Leipzig
+2024-11-24T09:23:06,GX-48825,schmelzprozess,Legierungsabweichung Mg: Sandausbruch% vs. Soll Sandbindermangel% | Kernreparatur läuft,2.0,CH-iVZi-3205,Gießerei Stuttgart
+2024-05-01T15:49:05,GX-33634,schmelzprozess,Spektralanalyse zeigt Cu-Mangel | Charge CH-FqkD-4698,1.0,CH-FqkD-4698,Gießerei Wolfsburg
+2024-06-14T03:16:54,GX-37838,gussfehler,"Ausschuss Funktionstest an Radträger; Ursache: Sandfeuchte zu hoch (≥3.5%); Chargenanalyse: C:3.2%, Si:2.1%",1.0,CH-GdYi-3724,Gießerei Stuttgart
+2024-09-19T05:09:06,GX-89694,nachbearbeitung,"Oberflächenrauheit Lunker µm außerhalb Spezifikation ¦ Chargenanalyse: C:3.2%, Si:2.1%",3.0,CH-KBoo-2031,Gießerei Stuttgart
+2024-03-24T04:03:19,GX-09567,schmelzprozess,"Spektralanalyse zeigt Cu-Mangel | Charge CH-PwUG-5682 | Chargenanalyse: Mg:0.4%, Ti:0.1%",3.0,CH-PwUG-5682,Gießerei Wolfsburg
+2024-12-29T22:21:12,GX-37727,nachbearbeitung,Maßabweichung Kaltlauf: Kernschale Verschleißmm vs. Lunker±Kernschale Verschleißmm,2.0,CH-wkxQ-7832,Gießerei Wolfsburg
+2024-04-29T10:35:13,GX-51804,endpruefung,Röntgenprüfung zeigt Sandausbruch in Zone Lunker | Schleifnacharbeit notwendig,3.0,CH-ihQt-7708,Gießerei Stuttgart
+2024-06-16T17:20:12,GX-33842,gussfehler,Kokillenriss an Getriebegehäuse (GX-33842) ¦ Charge CH-WrIM-6111 | Nacharbeit gemäß VDA 6.3,1.0,UNBEKANNT,Gießerei Wolfsburg
+2024-12-29T09:44:40,GX-86595,gussfehler,Ausschuss Maßhaltigkeit an Getriebegehäuse | Ursache: Gießtemp. zu niedrig (650°C < 720°C) | Prüfbericht: PRF-31848,2.0,CH-uUjq-4229,Gießerei Stuttgart
+2024-10-30T18:40:57,GX-30056,formprozess,"Sandfeuchte Sandausbruch% außerhalb Toleranz (2.8-3.2%); Chargenanalyse: Mg:0.4%, Ti:0.1%",1.0,CH-Cele-8097,Gießerei Wolfsburg
+2024-05-29T00:25:53,GX-93911,gussfehler,Ausschuss Funktionstest an Getriebegehäuse | Ursache: Sandausbruch | Nacharbeit gemäß VDA 6.3,1.0,CH-IvxU-5781,Gießerei Stuttgart
+2025-02-06T00:27:46,GX-87060,nachbearbeitung,Maßabweichung Handling-Schaden: Kernschale Verschleißmm vs. Handling-Schaden±Lunkermm (Verdacht: Sandfeuchteabweichung) | Nacharbeit gemäß VDA 6.3,2.0,CH-dZfr-0276,Gießerei Stuttgart
+2024-08-06T21:28:22,GX-91325,endpruefung,Härteprüfung Handling-Schaden: Handling-Schaden HV vs. Lunker,1.0,CH-OzWp-2436,Gießerei Leipzig
+2025-01-30T06:00:14,GX-90586,endpruefung,Dichtheitsprüfung Fehler: Kaltlauf mbar/min vs. max Handling-Schaden,1.0,CH-QdkQ-7847,Gießerei Wolfsburg
+2024-12-23T00:20:59,GX-50688,,,,UNBEKANNT,Gießerei Wolfsburg
+2024-05-05T18:42:13,GX-07272,endpruefung,Härteprüfung Handling-Schaden: Lunker HV vs. Sandbindermangel | Schleifnacharbeit notwendig,1.0,CH-TgRE-5621,Gießerei Leipzig
+2025-02-01T02:22:35,GX-06508,,,,CH-nwAH-7091,Gießerei Stuttgart
+2024-12-29T20:19:10,GX-62624,endpruefung,Dichtheitsprüfung Fehler: Sandausbruch mbar/min vs. max Kernschale Verschleiß,1.0,CH-mCrg-3434,Gießerei Stuttgart
+2024-08-29T16:05:35,GX-34484,formprozess,Sandfeuchte Kaltlauf% außerhalb Toleranz (2.8-3.2%) | IATF-Konformität: teilkonform,1.0,CH-rWKG-3493,Gießerei Leipzig
+2024-05-30T01:45:04,GX-32806,nachbearbeitung,Maßabweichung Lunker: Lunkermm vs. Sandbindermangel±Handling-Schadenmm,1.0,CH-URLf-3569,Gießerei Leipzig
+2024-05-01T03:47:30,GX-88484,nachbearbeitung,Bearbeitungsfehler Kernschale Verschleiß: Lunker | Teil GX-88484 (Verdacht: Sandfeuchteabweichung),2.0,CH-nOQR-9879,Gießerei Wolfsburg
+2024-11-02T01:36:19,GX-00434,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 723°C | Kernreparatur läuft,1.0,CH-QIYe-6389,Gießerei Wolfsburg
+2024-07-12T08:36:20,GX-72743,nachbearbeitung,Maßabweichung Lunker: Kernschale Verschleißmm vs. Sandbindermangel±Lunkermm | Prüfbericht: PRF-98478,1.0,CH-Wleq-7049,Gießerei Leipzig
+2024-11-09T21:43:30,GX-65489,formprozess,Formdruckabweichung Sandbindermangel bar vs. Kernschale Verschleiß bar ¦ Form FORM-Oy36 (Verdacht: Sandfeuchteabweichung),2.0,CH-nOjb-5051,Gießerei Stuttgart
+2024-03-30T00:42:03,GX-33886,nachbearbeitung,Bearbeitungsfehler Handling-Schaden: Sandbindermangel | Teil GX-33886 | Normabweichung: ISO 8062,1.0,CH-cTCN-6276,Gießerei Stuttgart
+2025-02-13T21:37:25,GX-96601,formprozess,Sandfeuchte Kaltlauf% außerhalb Toleranz (2.8-3.2%) | Prüfbericht: PRF-11822,2.0,CH-xZJl-8085,Gießerei Stuttgart
+2024-05-17T06:47:51,GX-64480,nachbearbeitung,Maßabweichung Kaltlauf: Sandausbruchmm vs. Sandbindermangel±Sandbindermangelmm,1.0,CH-JYbT-5843,Gießerei Leipzig
+2024-12-12T13:13:02,GX-22004,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-vcRW-9858 | Normabweichung: DIN 1681 | Kernreparatur läuft,1.0,CH-vcRW-9858,Gießerei Leipzig
+2024-12-04T21:14:40,GX-72447,endpruefung,Dichtheitsprüfung Fehler: Sandausbruch mbar/min vs. max Sandausbruch | Normabweichung: ISO 8062 | Schleifnacharbeit notwendig,3.0,CH-JDWr-7783,Gießerei Leipzig
+2024-07-04T08:15:29,GX-45390,gussfehler,Qualitätsabweichung Sandbindermangel: Kaltlauf | Porosität: 2.6 mm² | IATF-Konformität: konform,1.0,CH-JezI-4091,Gießerei Leipzig
+2024-09-08T08:40:57,GX-11056,schmelzprozess,Spektralanalyse zeigt Si-Mangel | Charge CH-ITEZ-7207 | Normabweichung: ISO 8062 | Wärmenachbehandlung eingeleitet,1.0,CH-ITEZ-7207,Gießerei Wolfsburg
+2025-01-11T10:17:04,GX-57813,schmelzprozess,Spektralanalyse zeigt Cu-Mangel; Charge CH-OLvR-0071 | Wärmenachbehandlung eingeleitet,1.0,CH-OLvR-0071,Gießerei Leipzig
+2024-04-21T13:08:30,GX-46807,endpruefung,,1.0,CH-ZJPS-2902,Gießerei Stuttgart
+2024-08-31T13:07:16,GX-53951,nachbearbeitung,Oberflächenrauheit Kaltlauf µm außerhalb Spezifikation,1.0,CH-ibVY-9060,Gießerei Wolfsburg
+2024-12-09T22:04:46,GX-89710,gussfehler,Qualitätsabweichung Handling-Schaden: Handling-Schaden | Dickenmaß: 149.5 mm | IATF-Konformität: konform | Kernreparatur läuft,1.0,CH-HBiH-1925,Gießerei Stuttgart
+2024-03-30T01:42:09,GX-45548,nachbearbeitung,Oberflächenrauheit Kernschale Verschleiß µm außerhalb Spezifikation | Prüfbericht: PRF-32915,1.0,CH-Ikga-1302,Gießerei Wolfsburg
+2024-05-29T03:30:09,GX-42967,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 670°C (Verdacht: Sandfeuchteabweichung),1.0,CH-ngag-8112,Gießerei Leipzig
+2024-11-26T11:11:17,GX-43592,formprozess,Kernbruch K-1296 | Ursache: Handling-Schaden,1.0,CH-uWMy-7112,Gießerei Leipzig
+2024-03-20T02:59:30,GX-59358,formprozess,"Kernbruch K-1765 | Ursache: Handling-Schaden | Chargenanalyse: Mg:0.4%, Ti:0.1%",2.0,CH-hqmf-2134,Gießerei Wolfsburg
+2024-07-27T13:57:13,GX-24413,nachbearbeitung,Bearbeitungsfehler Sandausbruch: Kaltlauf | Teil GX-24413,1.0,CH-mcmU-8042,Gießerei Wolfsburg
+2024-09-16T23:22:02,GX-97461,gussfehler,Lunker an Radträger (GX-97461) | Charge CH-PwSn-4106 | Normabweichung: DIN 1681,2.0,CH-PwSn-4106,Gießerei Leipzig
+2024-09-29T08:47:41,GX-11245,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-VDrs-1237 (Verdacht: Legierungsdrift) | Wärmenachbehandlung eingeleitet,1.0,CH-VDrs-1237,Gießerei Stuttgart
+2024-11-13T23:33:46,GX-93898,formprozess,Formdruckabweichung Sandausbruch bar vs. Kaltlauf bar ¦ Form FORM-QS00 ¦ IATF-Konformität: konform,1.0,CH-asPB-6200,Gießerei Stuttgart
+2024-07-27T19:01:45,GX-97017,schmelzprozess,Spektralanalyse zeigt Cu-Mangel | Charge CH-RRnE-1394 | Prüfbericht: PRF-10182,2.0,CH-RRnE-1394,Gießerei Wolfsburg
+2024-08-04T21:33:21,GX-28631,schmelzprozess,"Legierungsabweichung Ti: Sandausbruch% vs. Soll Kaltlauf% | Chargenanalyse: Mg:0.4%, Ti:0.1% | Wärmenachbehandlung eingeleitet",1.0,CH-QTZe-4391,Gießerei Leipzig
+2024-04-26T16:22:50,GX-11584,nachbearbeitung,Maßabweichung Kaltlauf: Lunkermm vs. Lunker±Kaltlaufmm | Wärmenachbehandlung eingeleitet,1.0,CH-ZASb-9429,Gießerei Leipzig
+2025-02-06T18:50:14,GX-63585,nachbearbeitung,Bearbeitungsfehler Sandbindermangel: Sandausbruch | Teil GX-63585 | Wärmenachbehandlung eingeleitet,2.0,CH-MSZI-2499,Gießerei Wolfsburg
+2024-08-04T06:58:06,GX-67091,nachbearbeitung,Maßabweichung Lunker: Handling-Schadenmm vs. Sandbindermangel±Kernschale Verschleißmm (Verdacht: Legierungsdrift) | Schleifnacharbeit notwendig,2.0,UNBEKANNT,Gießerei Wolfsburg
+2024-03-23T08:24:11,GX-67008,nachbearbeitung,Maßabweichung Sandausbruch: Lunkermm vs. Sandausbruch±Kernschale Verschleißmm,1.0,CH-zioK-9383,Gießerei Stuttgart
+2024-05-26T10:46:05,GX-78652,nachbearbeitung,Oberflächenrauheit Kaltlauf µm außerhalb Spezifikation,2.0,CH-HYUk-2201,Gießerei Stuttgart
+2024-04-19T18:17:45,GX-67446,endpruefung,Dichtheitsprüfung Fehler: Lunker mbar/min vs. max Handling-Schaden | Prüfbericht: PRF-50250 | Kernreparatur läuft,1.0,CH-sUVM-3628,Gießerei Wolfsburg
+2024-11-07T22:45:54,GX-94951,endpruefung,"Dichtheitsprüfung Fehler: Lunker mbar/min vs. max Sandausbruch | Chargenanalyse: Mg:0.4%, Ti:0.1%",1.0,CH-UMON-3879,Gießerei Stuttgart
+2024-12-28T08:24:05,GX-77226,formprozess,Sandfeuchte Handling-Schaden% außerhalb Toleranz (2.8-3.2%),2.0,CH-KfOC-7047,Gießerei Stuttgart
+2024-09-03T06:44:15,GX-02259,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 668°C,2.0,CH-QYsY-7784,Gießerei Stuttgart
+2024-07-25T18:57:15,GX-68301,endpruefung,Dichtheitsprüfung Fehler: Lunker mbar/min vs. max Lunker | IATF-Konformität: teilkonform | Kernreparatur läuft,1.0,CH-zvKm-6952,Gießerei Leipzig
+2024-08-05T14:23:22,GX-59818,endpruefung,Härteprüfung Sandausbruch: Sandausbruch HV vs. Kernschale Verschleiß | Nacharbeit gemäß VDA 6.3,2.0,CH-VcMp-1794,Gießerei Wolfsburg
+2024-05-12T16:57:35,GX-66874,gussfehler,Qualitätsabweichung Kernschale Verschleiß: Lunker | Dickenmaß: 51.5 mm | Prüfbericht: PRF-77277 | Kernreparatur läuft,3.0,CH-ZfDe-6142,Gießerei Leipzig
+2024-12-12T02:39:23,GX-40778,gussfehler,Qualitätsabweichung Lunker: Kernschale Verschleiß | Raueit Ra 12.3 µm,1.0,CH-miuG-0373,Gießerei Wolfsburg
+2025-01-04T15:15:33,GX-29341,schmelzprozess,Legierungsabweichung Cu: Lunker% vs. Soll Kaltlauf% | Normabweichung: VDA 6.3 | Kernreparatur läuft,2.0,CH-yooc-6377,Gießerei Stuttgart
+2024-07-12T18:11:10,GX-45141,gussfehler,Qualitätsabweichung Sandbindermangel: Lunker | Raueit Ra 4.8 µm,2.0,CH-poeA-4524,Gießerei Wolfsburg
+2024-04-14T10:38:02,GX-77503,,,,CH-ohfq-0987,Gießerei Wolfsburg
+2025-01-11T18:35:13,GX-47478,,,,CH-rDGF-2552,Gießerei Wolfsburg
+2024-06-01T16:54:24,GX-85183,gussfehler,Lunker an Getriebegehäuse (GX-85183) | Charge CH-SYnZ-0642 | Nacharbeit gemäß VDA 6.3,1.0,CH-SYnZ-0642,Gießerei Leipzig
+2025-03-08T09:27:56,GX-99052,gussfehler,Qualitätsabweichung Sandbindermangel: Kaltlauf; Porosität: 2.4 mm²,1.0,CH-vwVU-3825,Gießerei Stuttgart
+2024-11-27T13:28:28,GX-71252,endpruefung,Dichtheitsprüfung Fehler: Handling-Schaden mbar/min vs. max Sandausbruch | Gießparameter optimiert,1.0,CH-lCgZ-1063,Gießerei Stuttgart
+2024-09-13T13:39:23,GX-87405,gussfehler,Gasporosität an Radträger (GX-87405) | Charge CH-DeuP-3893 (Verdacht: Formüberhitzung) | Wärmenachbehandlung eingeleitet,1.0,CH-DeuP-3893,Gießerei Stuttgart
+2024-11-10T15:39:37,GX-11580,gussfehler,Ausschuss Materialfehler an Radträger | Ursache: Sandfeuchte zu hoch (≥3.5%) | Prüfbericht: PRF-46214 | Nacharbeit gemäß VDA 6.3,2.0,CH-YEvL-6827,Gießerei Stuttgart
+2024-12-20T13:32:07,GX-49675,formprozess,,1.0,CH-zLqD-2471,Gießerei Stuttgart
+2024-05-25T14:29:09,GX-02724,nachbearbeitung,Maßabweichung Sandausbruch: Lunkermm vs. Sandausbruch±Handling-Schadenmm,1.0,CH-bNYs-4704,Gießerei Leipzig
+2024-11-23T05:46:03,GX-11812,nachbearbeitung,Oberflächenrauheit Sandbindermangel µm außerhalb Spezifikation; Prüfbericht: PRF-70211 | Nacharbeit gemäß VDA 6.3,1.0,CH-MWJn-0277,Gießerei Stuttgart
+2024-12-17T10:39:41,GX-53932,gussfehler,Ausschuss Materialfehler an Zylinderkopf | Ursache: Sandfeuchte zu hoch (≥3.5%) (Verdacht: Formüberhitzung),1.0,CH-iPaZ-4465,Gießerei Wolfsburg
+2025-03-11T14:30:54,GX-55534,gussfehler,"Ausschuss Oberflächenfehler an Zylinderkopf | Ursache: Gießtemp. zu niedrig (650°C < 720°C) | Chargenanalyse: C:3.2%, Si:2.1%",2.0,CH-xykg-1826,Gießerei Wolfsburg
+2024-06-10T15:04:59,GX-51634,gussfehler,Gasporosität an Radträger (GX-51634) | Charge CH-grZh-5912 | Normabweichung: DIN 1681,1.0,CH-grZh-5912,Gießerei Stuttgart
+2024-07-21T07:34:14,GX-90125,gussfehler,Sandausbruch an Radträger (GX-90125) | Charge CH-Jrgg-9462,2.0,CH-Jrgg-9462,Gießerei Leipzig
+2024-11-13T23:59:51,GX-62133,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 696°C,2.0,CH-OIpg-9425,Gießerei Leipzig
+2024-11-19T15:07:46,GX-58497,endpruefung,Härteprüfung Kaltlauf: Kaltlauf HV vs. Kernschale Verschleiß (Verdacht: Legierungsdrift),3.0,CH-NiZc-9582,Gießerei Stuttgart
+2024-09-18T14:03:56,GX-81143,,,,CH-bNIH-1768,Gießerei Leipzig
+2024-05-30T13:14:31,GX-75673,gussfehler,Kokillenriss an Zylinderkopf (GX-75673) | Charge CH-NRKO-1527 | IATF-Konformität: konform,1.0,CH-NRKO-1527,Gießerei Leipzig
+2025-02-16T05:59:38,GX-11793,nachbearbeitung,"Maßabweichung Lunker: Sandausbruchmm vs. Sandbindermangel±Kaltlaufmm; Chargenanalyse: C:3.2%, Si:2.1%",2.0,CH-twsT-4538,Gießerei Stuttgart
+2024-06-04T08:22:32,GX-32007,nachbearbeitung,"Maßabweichung Handling-Schaden: Sandausbruchmm vs. Kernschale Verschleiß±Sandausbruchmm | Chargenanalyse: C:3.2%, Si:2.1%",1.0,CH-pIGe-9091,Gießerei Wolfsburg
+2024-05-09T22:55:58,GX-21118,,,,CH-MXIE-8130,Gießerei Wolfsburg
+2025-01-14T22:46:39,GX-98047,,,,CH-pCLP-1928,Gießerei Leipzig
+2025-02-10T18:51:55,GX-98203,formprozess,"Kernbruch K-1257; Ursache: Kernschale Verschleiß; Chargenanalyse: Mg:0.4%, Ti:0.1% | Wärmenachbehandlung eingeleitet",2.0,CH-Dcpp-3834,Gießerei Leipzig
+2024-10-31T13:26:46,GX-10604,endpruefung,Röntgenprüfung zeigt Lunker in Zone Kaltlauf | IATF-Konformität: konform | Gießparameter optimiert,2.0,CH-uEwT-2997,Gießerei Wolfsburg
+2024-08-21T10:49:44,GX-51338,formprozess,Kernbruch K-1535 | Ursache: Kernschale Verschleiß,2.0,CH-NIJS-9740,Gießerei Wolfsburg
+2025-03-02T01:12:51,GX-74481,endpruefung,Dichtheitsprüfung Fehler: Kernschale Verschleiß mbar/min vs. max Kaltlauf,2.0,CH-Hwdj-3642,Gießerei Stuttgart
+2024-08-01T22:54:25,GX-33883,endpruefung,"Härteprüfung Handling-Schaden: Sandausbruch HV vs. Lunker | Chargenanalyse: C:3.2%, Si:2.1%",1.0,CH-Ylty-4593,Gießerei Stuttgart
+2025-01-15T04:18:34,GX-26118,gussfehler,Sandausbruch an Radträger (GX-26118) | Charge CH-lDsd-5346 | IATF-Konformität: teilkonform | Gießparameter optimiert,3.0,CH-lDsd-5346,Gießerei Stuttgart
+2025-02-28T21:24:10,GX-34170,endpruefung,"Härteprüfung Handling-Schaden: Lunker HV vs. Kaltlauf | Chargenanalyse: C:3.2%, Si:2.1% | Schleifnacharbeit notwendig",2.0,CH-XLwP-8525,Gießerei Stuttgart
+2024-08-07T10:07:13,GX-76826,schmelzprozess,Spektralanalyse zeigt Mg-Mangel | Charge CH-LFUT-0650 (Verdacht: Formüberhitzung),1.0,CH-LFUT-0650,Gießerei Wolfsburg
+2025-01-16T09:46:42,GX-39082,schmelzprozess,Legierungsabweichung Ti: Sandausbruch% vs. Soll Handling-Schaden% // IATF-Konformität: konform,1.0,CH-fhVS-4283,Gießerei Wolfsburg
+2025-01-13T09:33:48,GX-94893,gussfehler,Kokillenriss an Radträger (GX-94893) | Charge CH-JgGJ-6711 | IATF-Konformität: konform,2.0,CH-JgGJ-6711,Gießerei Leipzig
+2024-12-27T11:08:50,GX-50790,schmelzprozess,"Legierungsabweichung Ti: Kernschale Verschleiß% vs. Soll Handling-Schaden%; Chargenanalyse: Mg:0.4%, Ti:0.1%",2.0,CH-dYUS-0100,Gießerei Leipzig
+2024-08-26T13:07:29,GX-01770,formprozess,Formdruckabweichung Sandausbruch bar vs. Kaltlauf bar // Form FORM-QX69 // Normabweichung: VDA 6.3 | Gießparameter optimiert,1.0,CH-oqae-2907,Gießerei Stuttgart
+2025-03-06T07:32:03,GX-74172,schmelzprozess,Legierungsabweichung Si: Kernschale Verschleiß% vs. Soll Kaltlauf% | Gießparameter optimiert,1.0,CH-KEHC-1805,Gießerei Leipzig
+2024-08-23T04:05:28,GX-01591,nachbearbeitung,Oberflächenrauheit Handling-Schaden µm außerhalb Spezifikation | Normabweichung: ISO 8062 | Gießparameter optimiert,2.0,CH-LUoh-7239,Gießerei Stuttgart
+2024-06-03T10:51:03,GX-19935,endpruefung,Dichtheitsprüfung Fehler: Handling-Schaden mbar/min vs. max Kernschale Verschleiß | Prüfbericht: PRF-72931 | Nacharbeit gemäß VDA 6.3,1.0,CH-RhOf-6331,Gießerei Leipzig
+2025-02-09T18:47:06,GX-98513,formprozess,Formdruckabweichung Sandausbruch bar vs. Handling-Schaden bar | Form FORM-Jn43 | Normabweichung: VDA 6.3 | Wärmenachbehandlung eingeleitet,1.0,CH-AXis-4695,Gießerei Stuttgart
+2025-02-20T06:13:44,GX-30911,formprozess,Kernbruch K-1221 | Ursache: Sandbindermangel | IATF-Konformität: teilkonform | Gießparameter optimiert,1.0,CH-NqKW-0236,Gießerei Stuttgart
+2024-05-11T11:09:17,GX-35597,endpruefung,Dichtheitsprüfung Fehler: Sandausbruch mbar/min vs. max Sandausbruch | Kernreparatur läuft,2.0,CH-mVgr-0056,Gießerei Leipzig
+2024-07-07T04:14:50,GX-78451,nachbearbeitung,Maßabweichung Handling-Schaden: Kaltlaufmm vs. Kernschale Verschleiß±Handling-Schadenmm,2.0,CH-QQXR-0637,Gießerei Leipzig
+2024-11-30T00:21:44,GX-57453,formprozess,Sandfeuchte Kaltlauf% außerhalb Toleranz (2.8-3.2%),1.0,CH-mbmE-6216,Gießerei Leipzig
+2024-11-20T18:02:31,GX-13354,nachbearbeitung,"Bearbeitungsfehler Handling-Schaden: Sandausbruch | Teil GX-13354 | Chargenanalyse: Mg:0.4%, Ti:0.1% | Gießparameter optimiert",1.0,CH-vWlE-1529,Gießerei Leipzig
+2025-01-24T15:33:59,GX-83473,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 733°C | Prüfbericht: PRF-09794 | Gießparameter optimiert,1.0,CH-dqpM-5147,Gießerei Stuttgart
+2024-11-11T15:25:57,GX-64621,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 696°C | IATF-Konformität: konform,1.0,CH-fEqi-2372,Gießerei Leipzig
+2024-05-16T08:06:05,GX-25677,nachbearbeitung,Oberflächenrauheit Sandausbruch µm außerhalb Spezifikation (Verdacht: Formüberhitzung),1.0,CH-ECjb-9563,Gießerei Stuttgart
+2025-02-18T01:10:25,GX-39269,endpruefung,Härteprüfung Kernschale Verschleiß: Kaltlauf HV vs. Sandausbruch,1.0,CH-Hrgr-8021,Gießerei Leipzig
+2024-04-01T04:53:04,GX-96760,nachbearbeitung,Oberflächenrauheit Handling-Schaden µm außerhalb Spezifikation | Kernreparatur läuft,1.0,CH-MtsV-7163,Gießerei Stuttgart
+2024-12-06T21:31:49,GX-66662,gussfehler,Kaltlauf an Getriebegehäuse (GX-66662) | Charge CH-hKji-9109 | Prüfbericht: PRF-43449,1.0,CH-hKji-9109,Gießerei Leipzig
+2024-08-30T09:28:56,GX-25391,nachbearbeitung,Maßabweichung Lunker: Lunkermm vs. Kaltlauf±Handling-Schadenmm | Prüfbericht: PRF-49368 | Wärmenachbehandlung eingeleitet,2.0,CH-omOn-9833,Gießerei Wolfsburg
+2024-05-04T04:56:19,GX-47559,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 708°C | Prüfbericht: PRF-32584,1.0,CH-Xwks-8060,Gießerei Leipzig
+2024-05-27T06:46:00,GX-07666,gussfehler,Qualitätsabweichung Sandausbruch: Kernschale Verschleiß | Raueit Ra 5.4 µm,2.0,CH-aZMl-3132,Gießerei Stuttgart
+2024-12-02T02:43:18,GX-40622,gussfehler,Formversatz an Getriebegehäuse (GX-40622) | Charge CH-qlof-7466 | Kernreparatur läuft,3.0,CH-qlof-7466,Gießerei Stuttgart
+2024-08-12T05:42:00,GX-53096,formprozess,Kernbruch K-1376 | Ursache: Sandbindermangel | Normabweichung: VDA 6.3,1.0,CH-ZDhw-7161,Gießerei Stuttgart
+2024-10-15T11:43:51,GX-50316,formprozess,Formdruckabweichung Sandausbruch bar vs. Kernschale Verschleiß bar | Form FORM-wd52,3.0,CH-pppp-2795,Gießerei Stuttgart
+2024-04-25T18:39:09,GX-29510,schmelzprozess,Legierungsabweichung Mg: Kaltlauf% vs. Soll Kernschale Verschleiß% | Gießparameter optimiert,2.0,CH-yRkD-9989,Gießerei Wolfsburg
+2024-12-17T20:29:50,GX-38712,formprozess,Kernbruch K-1233 | Ursache: Kernschale Verschleiß | Nacharbeit gemäß VDA 6.3,1.0,CH-FBbg-5321,Gießerei Stuttgart
+2025-01-15T17:11:22,GX-51901,endpruefung,Dichtheitsprüfung Fehler: Kaltlauf mbar/min vs. max Handling-Schaden,1.0,CH-CCNa-3561,Gießerei Leipzig
+2024-05-25T07:56:05,GX-52673,nachbearbeitung,Bearbeitungsfehler Kaltlauf: Lunker | Teil GX-52673 (Verdacht: Formüberhitzung),1.0,CH-inJS-3660,Gießerei Stuttgart
+2024-09-16T12:58:35,GX-82013,gussfehler,Ausschuss Funktionstest an Getriebegehäuse | Ursache: Kaltlauf,1.0,CH-mpqe-0432,Gießerei Stuttgart
+2024-06-21T19:12:06,GX-49844,endpruefung,Röntgenprüfung zeigt Sandausbruch in Zone Kaltlauf | Gießparameter optimiert,2.0,CH-RPQE-7333,Gießerei Leipzig
+2024-04-01T03:13:23,GX-40797,formprozess,Formdruckabweichung Sandbindermangel bar vs. Sandbindermangel bar | Form FORM-SI76 | Wärmenachbehandlung eingeleitet,2.0,CH-lwpi-2970,Gießerei Stuttgart
+2024-12-09T01:54:44,GX-01788,schmelzprozess,Legierungsabweichung Si: Kernschale Verschleiß% vs. Soll Kaltlauf%,1.0,CH-UEzG-9763,Gießerei Leipzig
+2025-02-06T06:09:15,GX-11373,gussfehler,Qualitätsabweichung Sandbindermangel: Kaltlauf | Raueit Ra 11.1 µm (Verdacht: Sandfeuchteabweichung),3.0,CH-AGRC-8438,Gießerei Stuttgart
+2025-01-21T08:59:17,GX-48491,schmelzprozess,Spektralanalyse zeigt Si-Mangel | Charge CH-jApV-7922 | Gießparameter optimiert,1.0,CH-jApV-7922,Gießerei Leipzig
+2024-10-12T04:03:01,GX-93044,endpruefung,,2.0,CH-dnDU-0700,Gießerei Leipzig
+2024-07-07T23:22:04,GX-89844,,,,CH-Mxas-3952,Gießerei Leipzig
+2024-04-28T09:50:50,GX-69216,endpruefung,Härteprüfung Kaltlauf: Handling-Schaden HV vs. Handling-Schaden ¦ Prüfbericht: PRF-14385,1.0,CH-UBcT-0338,Gießerei Stuttgart
+2024-09-06T19:45:54,GX-50149,endpruefung,Röntgenprüfung zeigt Formversatz in Zone Kernschale Verschleiß,3.0,CH-vCkn-0154,Gießerei Stuttgart
+2024-07-30T05:10:58,GX-00154,gussfehler,Formversatz an Getriebegehäuse (GX-00154) | Charge CH-pIkG-5188 | IATF-Konformität: teilkonform | Nacharbeit gemäß VDA 6.3,3.0,CH-pIkG-5188,Gießerei Stuttgart
+2024-05-22T14:55:44,GX-08799,gussfehler,,1.0,CH-HnBN-9210,Gießerei Leipzig
+2024-04-27T16:01:24,GX-66770,formprozess,Sandfeuchte Sandausbruch% außerhalb Toleranz (2.8-3.2%) | Normabweichung: DIN 1681,2.0,CH-iyzW-4199,Gießerei Leipzig
+2024-05-24T15:20:08,GX-75678,endpruefung,Dichtheitsprüfung Fehler: Sandausbruch mbar/min vs. max Sandausbruch,2.0,CH-JQQM-1413,Gießerei Wolfsburg
+2024-06-17T21:27:54,GX-63920,endpruefung,Härteprüfung Sandausbruch: Kernschale Verschleiß HV vs. Lunker,1.0,CH-TZGt-1411,Gießerei Wolfsburg
+2025-02-01T17:45:40,GX-54199,formprozess,Formdruckabweichung Kaltlauf bar vs. Kernschale Verschleiß bar ¦ Form FORM-LA20,1.0,CH-oedU-6807,Gießerei Stuttgart
+2025-02-05T03:27:48,GX-54700,schmelzprozess,Legierungsabweichung Si: Sandausbruch% vs. Soll Kernschale Verschleiß% | IATF-Konformität: teilkonform | Schleifnacharbeit notwendig,2.0,CH-yZOq-2002,Gießerei Stuttgart
+2024-12-29T13:54:31,GX-98410,schmelzprozess,Legierungsabweichung Mg: Sandbindermangel% vs. Soll Lunker% (Verdacht: Legierungsdrift) | Nacharbeit gemäß VDA 6.3,1.0,CH-xdPm-2412,Gießerei Leipzig
+2024-08-07T23:55:46,GX-37478,nachbearbeitung,"Bearbeitungsfehler Sandausbruch: Sandbindermangel | Teil GX-37478 | Chargenanalyse: C:3.2%, Si:2.1%",1.0,CH-fvte-2980,Gießerei Stuttgart
+2024-11-02T05:46:52,GX-34324,nachbearbeitung,Maßabweichung Sandausbruch: Lunkermm vs. Handling-Schaden±Sandbindermangelmm,1.0,CH-WWjC-0686,Gießerei Leipzig
+2024-08-26T11:34:30,GX-37428,nachbearbeitung,"Oberflächenrauheit Lunker µm außerhalb Spezifikation | Chargenanalyse: Mg:0.4%, Ti:0.1%",1.0,CH-WWIv-1719,Gießerei Wolfsburg
+2024-11-20T10:02:25,GX-41710,formprozess,Formdruckabweichung Kernschale Verschleiß bar vs. Lunker bar | Form FORM-ZX24 | Normabweichung: ISO 8062 | Nacharbeit gemäß VDA 6.3,1.0,CH-Plrc-6221,Gießerei Stuttgart
+2024-05-27T17:24:01,GX-04677,endpruefung,Härteprüfung Kernschale Verschleiß: Sandausbruch HV vs. Handling-Schaden | Prüfbericht: PRF-79981 | Kernreparatur läuft,1.0,CH-Hrgj-6529,Gießerei Leipzig
+2024-11-21T23:47:50,GX-90126,formprozess,Sandfeuchte Kernschale Verschleiß% außerhalb Toleranz (2.8-3.2%) | Wärmenachbehandlung eingeleitet,1.0,CH-Zeds-4655,Gießerei Wolfsburg
+2024-05-25T14:55:13,GX-06840,endpruefung,"Härteprüfung Sandbindermangel: Sandausbruch HV vs. Handling-Schaden | Chargenanalyse: Mg:0.4%, Ti:0.1%",1.0,CH-YMgn-4035,Gießerei Wolfsburg
+2025-01-02T08:40:58,GX-39811,nachbearbeitung,Bearbeitungsfehler Sandausbruch: Kaltlauf | Teil GX-39811,2.0,CH-NHMu-8167,Gießerei Leipzig
+2024-08-14T07:20:40,GX-17652,schmelzprozess,Legierungsabweichung Ti: Handling-Schaden% vs. Soll Sandausbruch% | IATF-Konformität: konform,1.0,CH-CXQM-7699,Gießerei Stuttgart
+2024-12-06T16:47:24,GX-01849,nachbearbeitung,Bearbeitungsfehler Handling-Schaden: Lunker | Teil GX-01849,1.0,CH-qiny-9784,Gießerei Wolfsburg
+2024-12-31T18:08:42,GX-16520,formprozess,Sandfeuchte Kaltlauf% außerhalb Toleranz (2.8-3.2%) | Gießparameter optimiert,1.0,CH-bxtn-3822,Gießerei Wolfsburg
+2024-05-25T06:01:43,GX-52842,gussfehler,Sandausbruch an Getriebegehäuse (GX-52842) // Charge CH-Osnr-2593 // Prüfbericht: PRF-86658 | Schleifnacharbeit notwendig,2.0,CH-Osnr-2593,Gießerei Leipzig
+2024-05-21T16:08:13,GX-90479,endpruefung,,2.0,CH-ZbDz-9583,Gießerei Stuttgart
+2024-11-28T19:40:15,GX-23527,nachbearbeitung,Oberflächenrauheit Sandbindermangel µm außerhalb Spezifikation,1.0,CH-ybMb-9305,Gießerei Leipzig
+2024-09-23T00:40:09,GX-88816,formprozess,Kernbruch K-1945 | Ursache: Kernschale Verschleiß,1.0,CH-gNfy-5542,Gießerei Stuttgart
+2024-10-19T12:44:46,GX-31494,schmelzprozess,Spektralanalyse zeigt Si-Mangel | Charge CH-adrJ-9178 | Wärmenachbehandlung eingeleitet,3.0,CH-adrJ-9178,Gießerei Wolfsburg
+2024-10-07T01:44:30,GX-12220,endpruefung,,1.0,CH-SWmb-9121,Gießerei Leipzig
+2024-11-08T23:52:30,GX-25273,nachbearbeitung,Maßabweichung Lunker: Kaltlaufmm vs. Sandausbruch±Sandausbruchmm,3.0,CH-uITg-7765,Gießerei Wolfsburg
+2024-07-22T10:34:41,GX-68068,endpruefung,Dichtheitsprüfung Fehler: Sandbindermangel mbar/min vs. max Kaltlauf | Prüfbericht: PRF-64184 | Nacharbeit gemäß VDA 6.3,1.0,CH-aTMF-5342,Gießerei Leipzig
+2024-07-31T10:02:51,GX-92884,gussfehler,Ausschuss Funktionstest an Radträger | Ursache: Sandausbruch | Wärmenachbehandlung eingeleitet,1.0,CH-Ywga-5968,Gießerei Leipzig
+2024-12-17T03:50:06,GX-72339,schmelzprozess,Spektralanalyse zeigt Cu-Mangel | Charge CH-CMve-8226,1.0,CH-CMve-8226,Gießerei Leipzig
+2024-12-11T18:28:05,GX-97136,nachbearbeitung,Oberflächenrauheit Handling-Schaden µm außerhalb Spezifikation,1.0,UNBEKANNT,Gießerei Wolfsburg
+2024-12-06T13:53:31,GX-20411,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 715°C | Prüfbericht: PRF-83434 | Gießparameter optimiert,2.0,CH-MCET-8803,Gießerei Leipzig
+2024-11-14T08:24:44,GX-73910,schmelzprozess,Spektralanalyse zeigt Si-Mangel | Charge CH-pfDp-7480 | Wärmenachbehandlung eingeleitet,1.0,CH-pfDp-7480,Gießerei Stuttgart
+2024-04-20T18:18:52,GX-11090,formprozess,Sandfeuchte Kernschale Verschleiß% außerhalb Toleranz (2.8-3.2%); IATF-Konformität: konform,1.0,CH-duxC-0347,Gießerei Leipzig
+2024-10-27T03:07:19,GX-86322,,,,CH-iRHP-7734,Gießerei Leipzig
+2025-01-11T13:33:51,GX-31703,schmelzprozess,,1.0,CH-bcbV-8939,Gießerei Leipzig
+2024-08-05T16:55:57,GX-83917,formprozess,Formdruckabweichung Lunker bar vs. Sandbindermangel bar | Form FORM-bk40 | Normabweichung: VDA 6.3,1.0,CH-fNDQ-2675,Gießerei Wolfsburg
+2025-02-22T00:53:11,GX-42712,endpruefung,Röntgenprüfung zeigt Sandausbruch in Zone Sandausbruch | Prüfbericht: PRF-05606 | Wärmenachbehandlung eingeleitet,1.0,CH-KaSG-5151,Gießerei Leipzig
+2024-03-18T19:29:27,GX-81348,gussfehler,Qualitätsabweichung Kernschale Verschleiß: Sandausbruch | Raueit Ra 12.3 µm | Kernreparatur läuft,2.0,CH-ACqY-7807,Gießerei Wolfsburg
+2024-11-24T11:37:13,GX-75040,nachbearbeitung,Oberflächenrauheit Handling-Schaden µm außerhalb Spezifikation | Prüfbericht: PRF-26457 | Kernreparatur läuft,2.0,CH-LHkH-0634,Gießerei Leipzig
+2025-02-19T04:47:38,GX-52937,formprozess,Kernbruch K-1727 // Ursache: Kernschale Verschleiß // IATF-Konformität: konform,1.0,CH-pGRd-7634,Gießerei Wolfsburg
+2025-02-13T00:16:06,GX-04915,formprozess,Sandfeuchte Kernschale Verschleiß% außerhalb Toleranz (2.8-3.2%) | Normabweichung: ISO 8062 | Schleifnacharbeit notwendig,1.0,CH-ZGjy-1745,Gießerei Wolfsburg
+2024-09-18T11:29:06,GX-27741,endpruefung,Röntgenprüfung zeigt Gasporosität in Zone Sandausbruch,1.0,CH-UtGG-4718,Gießerei Leipzig
+2025-03-07T10:58:53,GX-49834,schmelzprozess,Legierungsabweichung Si: Sandausbruch% vs. Soll Handling-Schaden%; Prüfbericht: PRF-07059,1.0,CH-XhtH-3141,Gießerei Leipzig
+2024-06-20T08:39:35,GX-62188,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 703°C | Gießparameter optimiert,1.0,CH-Ahjp-2233,Gießerei Stuttgart
+2024-03-18T22:56:28,GX-31694,gussfehler,Qualitätsabweichung Kaltlauf: Kernschale Verschleiß | Raueit Ra 2.7 µm | Normabweichung: ISO 8062 | Gießparameter optimiert,1.0,CH-hBOg-1575,Gießerei Stuttgart
+2025-03-13T16:12:21,GX-31906,nachbearbeitung,Oberflächenrauheit Lunker µm außerhalb Spezifikation,2.0,CH-GIRv-0597,Gießerei Leipzig
+2024-07-08T10:52:38,GX-80515,nachbearbeitung,Oberflächenrauheit Kernschale Verschleiß µm außerhalb Spezifikation (Verdacht: Formüberhitzung) | Nacharbeit gemäß VDA 6.3,2.0,CH-wZgW-1203,Gießerei Leipzig
+2024-04-26T08:24:56,GX-55934,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-QFoH-2456 (Verdacht: Legierungsdrift) | Nacharbeit gemäß VDA 6.3,2.0,CH-QFoH-2456,Gießerei Leipzig
+2024-12-23T08:01:56,GX-91259,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 653°C | Normabweichung: ISO 8062,2.0,CH-kcBM-0836,Gießerei Stuttgart
+2024-08-21T12:28:12,GX-48772,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 738°C,1.0,CH-eIki-6394,Gießerei Wolfsburg
+2024-12-31T11:47:08,GX-22777,endpruefung,Härteprüfung Sandbindermangel: Lunker HV vs. Kernschale Verschleiß | Normabweichung: DIN 1681,1.0,CH-jqTD-1603,Gießerei Leipzig
+2024-08-16T16:00:24,GX-64778,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 743°C | Kernreparatur läuft,1.0,CH-Ltsi-0253,Gießerei Leipzig
+2024-12-25T17:11:13,GX-97042,schmelzprozess,Legierungsabweichung Mg: Kaltlauf% vs. Soll Sandausbruch%,2.0,CH-cYnG-6859,Gießerei Stuttgart
+2024-06-27T13:24:47,GX-23268,nachbearbeitung,"Oberflächenrauheit Sandausbruch µm außerhalb Spezifikation | Chargenanalyse: Mg:0.4%, Ti:0.1%",1.0,CH-quxr-9236,Gießerei Leipzig
+2025-02-27T13:23:12,GX-69133,gussfehler,Qualitätsabweichung Lunker: Kaltlauf | Raueit Ra 2.2 µm | Prüfbericht: PRF-79315,1.0,CH-dvlv-1138,Gießerei Stuttgart
+2024-09-22T14:12:48,GX-28809,nachbearbeitung,Maßabweichung Sandbindermangel: Kernschale Verschleißmm vs. Handling-Schaden±Kernschale Verschleißmm,1.0,CH-PAZk-5537,Gießerei Leipzig
+2024-05-07T12:19:59,GX-87284,nachbearbeitung,Bearbeitungsfehler Lunker: Lunker | Teil GX-87284,1.0,CH-RbdG-3299,Gießerei Stuttgart
+2025-01-08T07:34:56,GX-25062,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 739°C | Normabweichung: DIN 1681 | Wärmenachbehandlung eingeleitet,2.0,CH-gprC-3883,Gießerei Leipzig
+2024-06-01T14:10:59,GX-86280,gussfehler,Ausschuss Funktionstest an Getriebegehäuse | Ursache: Sandausbruch,1.0,CH-DIzJ-1065,Gießerei Stuttgart
+2024-06-04T21:11:32,GX-87382,formprozess,Sandfeuchte Kernschale Verschleiß% außerhalb Toleranz (2.8-3.2%) | Nacharbeit gemäß VDA 6.3,1.0,CH-yvRo-1799,Gießerei Stuttgart
+2025-01-23T23:44:17,GX-54483,formprozess,Sandfeuchte Kernschale Verschleiß% außerhalb Toleranz (2.8-3.2%) | Normabweichung: ISO 8062 | Gießparameter optimiert,1.0,CH-SfHz-1740,Gießerei Wolfsburg
+2025-01-09T23:45:00,GX-76418,gussfehler,Ausschuss Oberflächenfehler an Radträger | Ursache: Kernschale Verschleiß | Schleifnacharbeit notwendig,1.0,CH-avUH-0805,Gießerei Leipzig
+2024-09-11T02:04:16,GX-34157,nachbearbeitung,,2.0,CH-HynX-8927,Gießerei Wolfsburg
+2025-01-01T22:41:21,GX-68271,formprozess,Kernbruch K-1772 | Ursache: Handling-Schaden (Verdacht: Formüberhitzung) | Schleifnacharbeit notwendig,2.0,CH-InvD-3289,Gießerei Leipzig
+2025-01-09T05:01:20,GX-82752,schmelzprozess,Spektralanalyse zeigt Mg-Mangel | Charge CH-BrtR-3466,1.0,CH-BrtR-3466,Gießerei Leipzig
+2024-04-13T06:00:21,GX-20373,formprozess,Formdruckabweichung Kaltlauf bar vs. Sandausbruch bar | Form FORM-tj79,1.0,UNBEKANNT,Gießerei Stuttgart
+2024-04-29T11:06:12,GX-86209,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 679°C | Normabweichung: VDA 6.3,1.0,CH-QCfU-6872,Gießerei Leipzig
+2024-10-22T12:29:12,GX-62632,endpruefung,Härteprüfung Handling-Schaden: Kernschale Verschleiß HV vs. Lunker | IATF-Konformität: nicht konform,1.0,CH-hPUz-3572,Gießerei Wolfsburg
+2024-11-18T06:55:48,GX-01685,formprozess,Formdruckabweichung Kernschale Verschleiß bar vs. Kernschale Verschleiß bar | Form FORM-zK45 (Verdacht: Sandfeuchteabweichung),2.0,CH-dAuA-8470,Gießerei Wolfsburg
+2024-10-03T00:28:46,GX-47030,,,,CH-tnlt-8069,Gießerei Stuttgart
+2024-09-07T15:02:07,GX-74742,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 727°C | Gießparameter optimiert,1.0,CH-ynTd-3183,Gießerei Leipzig
+2025-01-22T19:20:34,GX-92649,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 716°C,1.0,CH-GbeC-6922,Gießerei Stuttgart
+2025-01-02T10:49:51,GX-25200,formprozess,Formdruckabweichung Sandausbruch bar vs. Sandausbruch bar | Form FORM-nf56 | Kernreparatur läuft,1.0,CH-ckjm-3338,Gießerei Wolfsburg
+2025-02-02T15:30:23,GX-32223,endpruefung,Röntgenprüfung zeigt Lunker in Zone Lunker; IATF-Konformität: teilkonform | Wärmenachbehandlung eingeleitet,1.0,CH-qFZt-6738,Gießerei Leipzig
+2024-07-24T04:06:22,GX-39234,nachbearbeitung,Oberflächenrauheit Kaltlauf µm außerhalb Spezifikation,1.0,UNBEKANNT,Gießerei Wolfsburg
+2024-07-14T03:32:04,GX-23975,nachbearbeitung,Maßabweichung Lunker: Sandausbruchmm vs. Kernschale Verschleiß±Kernschale Verschleißmm // Normabweichung: ISO 8062 | Schleifnacharbeit notwendig,2.0,CH-pBAH-3156,Gießerei Stuttgart
+2025-02-11T06:54:30,GX-69635,nachbearbeitung,Oberflächenrauheit Sandbindermangel µm außerhalb Spezifikation,1.0,CH-WbiL-6662,Gießerei Wolfsburg
+2024-10-06T03:08:27,GX-55047,endpruefung,Härteprüfung Sandbindermangel: Lunker HV vs. Kaltlauf | Schleifnacharbeit notwendig,1.0,CH-eqZB-8242,Gießerei Stuttgart
+2024-09-19T14:59:47,GX-08871,gussfehler,Kaltlauf an Radträger (GX-08871) | Charge CH-xaHe-9134 | Wärmenachbehandlung eingeleitet,1.0,CH-xaHe-9134,Gießerei Stuttgart
+2024-04-17T06:56:34,GX-70742,nachbearbeitung,Maßabweichung Handling-Schaden: Kaltlaufmm vs. Kernschale Verschleiß±Handling-Schadenmm | Prüfbericht: PRF-05189,2.0,CH-OyIW-7404,Gießerei Wolfsburg
+2024-07-19T04:51:20,GX-45634,formprozess,Sandfeuchte Sandbindermangel% außerhalb Toleranz (2.8-3.2%),3.0,CH-iOkM-8444,Gießerei Wolfsburg
+2024-08-31T20:40:12,GX-35239,endpruefung,Härteprüfung Lunker: Sandbindermangel HV vs. Lunker | Schleifnacharbeit notwendig,1.0,CH-mYMB-0545,Gießerei Wolfsburg
+2025-01-31T01:33:03,GX-99042,nachbearbeitung,Bearbeitungsfehler Lunker: Kernschale Verschleiß // Teil GX-99042,1.0,CH-Pcpb-1356,Gießerei Wolfsburg
+2024-12-04T12:02:47,GX-59768,formprozess,"Formdruckabweichung Kaltlauf bar vs. Kaltlauf bar ¦ Form FORM-fV99 ¦ Chargenanalyse: Mg:0.4%, Ti:0.1% | Nacharbeit gemäß VDA 6.3",2.0,UNBEKANNT,Gießerei Stuttgart
+2024-06-17T12:45:42,GX-25952,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-Qudb-7566,3.0,CH-Qudb-7566,Gießerei Wolfsburg
+2025-02-23T01:49:18,GX-10615,schmelzprozess,Legierungsabweichung Cu: Handling-Schaden% vs. Soll Handling-Schaden% // IATF-Konformität: konform,1.0,CH-eLsK-9615,Gießerei Stuttgart
+2024-10-23T21:42:03,GX-64880,gussfehler,Ausschuss Funktionstest an Getriebegehäuse | Ursache: Lunker,2.0,CH-hOUO-8803,Gießerei Stuttgart
+2024-10-18T18:23:26,GX-86713,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 715°C ¦ Normabweichung: DIN 1681,1.0,CH-fcYE-4465,Gießerei Wolfsburg
+2024-07-31T00:11:14,GX-57647,formprozess,Formdruckabweichung Kernschale Verschleiß bar vs. Handling-Schaden bar | Form FORM-cB05 | Wärmenachbehandlung eingeleitet,1.0,CH-cUHt-3001,Gießerei Leipzig
+2025-02-18T02:58:46,GX-58113,formprozess,Kernbruch K-1532 | Ursache: Kernschale Verschleiß,2.0,CH-TpaM-9889,Gießerei Leipzig
+2024-10-16T10:47:18,GX-51937,formprozess,Sandfeuchte Kaltlauf% außerhalb Toleranz (2.8-3.2%),2.0,CH-cQuH-0379,Gießerei Wolfsburg
+2025-03-01T18:55:26,GX-26900,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 689°C,1.0,CH-QMPt-4459,Gießerei Wolfsburg
+2024-07-16T10:28:18,GX-19297,endpruefung,Dichtheitsprüfung Fehler: Kernschale Verschleiß mbar/min vs. max Sandbindermangel (Verdacht: Legierungsdrift),3.0,CH-OhSo-3476,Gießerei Wolfsburg
+2024-08-10T08:40:47,GX-35015,endpruefung,"Härteprüfung Kaltlauf: Sandbindermangel HV vs. Lunker | Chargenanalyse: Mg:0.4%, Ti:0.1%",2.0,CH-GUEU-0006,Gießerei Wolfsburg
+2024-04-13T11:48:51,GX-72864,nachbearbeitung,Oberflächenrauheit Sandbindermangel µm außerhalb Spezifikation // Normabweichung: VDA 6.3,3.0,CH-cEGV-9906,Gießerei Leipzig
+2024-08-14T03:34:26,GX-62872,formprozess,Kernbruch K-1920 | Ursache: Sandbindermangel,2.0,CH-jyiw-0203,Gießerei Leipzig
+2024-09-02T01:09:56,GX-68211,formprozess,Kernbruch K-1281 | Ursache: Sandbindermangel | Prüfbericht: PRF-39667 | Wärmenachbehandlung eingeleitet,1.0,CH-lztb-5474,Gießerei Wolfsburg
+2024-08-01T15:54:33,GX-66719,endpruefung,Röntgenprüfung zeigt Kaltlauf in Zone Sandbindermangel | Nacharbeit gemäß VDA 6.3,1.0,CH-yrvF-9416,Gießerei Leipzig
+2024-04-10T05:43:36,GX-68231,formprozess,Kernbruch K-1771 | Ursache: Kernschale Verschleiß,1.0,CH-vTAG-9375,Gießerei Leipzig
+2024-04-04T08:11:48,GX-83411,endpruefung,Dichtheitsprüfung Fehler: Lunker mbar/min vs. max Handling-Schaden,2.0,CH-LWcv-1070,Gießerei Stuttgart
+2024-08-30T22:04:06,GX-34379,schmelzprozess,Spektralanalyse zeigt Si-Mangel | Charge CH-Stda-3658 | Wärmenachbehandlung eingeleitet,1.0,CH-Stda-3658,Gießerei Stuttgart
+2024-04-19T08:28:04,GX-56190,formprozess,Kernbruch K-1585 | Ursache: Handling-Schaden,2.0,CH-kmzU-9019,Gießerei Leipzig
+2024-05-20T14:23:20,GX-95745,gussfehler,Ausschuss Materialfehler an Radträger | Ursache: Lunker,1.0,CH-gflj-3671,Gießerei Leipzig
+2025-01-06T00:39:57,GX-97304,nachbearbeitung,Maßabweichung Sandausbruch: Sandbindermangelmm vs. Kaltlauf±Sandbindermangelmm (Verdacht: Sandfeuchteabweichung) | Wärmenachbehandlung eingeleitet,1.0,CH-LnOV-2312,Gießerei Wolfsburg
+2025-01-18T13:45:24,GX-14363,endpruefung,Röntgenprüfung zeigt Kaltlauf in Zone Sandausbruch,1.0,CH-DNDx-6874,Gießerei Wolfsburg
+2024-10-04T07:28:02,GX-23851,nachbearbeitung,Oberflächenrauheit Kernschale Verschleiß µm außerhalb Spezifikation | Prüfbericht: PRF-35752,1.0,CH-tKRz-6187,Gießerei Stuttgart
+2024-10-15T16:08:18,GX-09667,gussfehler,Formversatz an Getriebegehäuse (GX-09667) | Charge CH-Xksf-4596,1.0,CH-Xksf-4596,Gießerei Leipzig
+2025-02-10T15:40:26,GX-41755,nachbearbeitung,Maßabweichung Kaltlauf: Handling-Schadenmm vs. Sandbindermangel±Sandbindermangelmm | Gießparameter optimiert,1.0,CH-cvRZ-4304,Gießerei Wolfsburg
+2024-05-10T10:25:12,GX-04074,formprozess,Kernbruch K-1164 | Ursache: Sandbindermangel | Nacharbeit gemäß VDA 6.3,3.0,CH-huEq-6868,Gießerei Stuttgart
+2024-09-18T01:59:55,GX-24984,endpruefung,Härteprüfung Sandbindermangel: Sandbindermangel HV vs. Lunker; IATF-Konformität: konform,1.0,CH-RtlX-6125,Gießerei Wolfsburg
+2024-04-07T12:03:00,GX-35420,endpruefung,Härteprüfung Kernschale Verschleiß: Lunker HV vs. Kernschale Verschleiß | Prüfbericht: PRF-64260,1.0,CH-EPqJ-9646,Gießerei Leipzig
+2025-03-04T23:47:52,GX-20894,,,,UNBEKANNT,Gießerei Leipzig
+2024-10-29T11:20:52,GX-04413,gussfehler,Kokillenriss an Radträger (GX-04413) | Charge CH-nRyL-0289 | Prüfbericht: PRF-12611 | Wärmenachbehandlung eingeleitet,1.0,CH-nRyL-0289,Gießerei Wolfsburg
+2024-12-11T17:20:13,GX-37421,endpruefung,Härteprüfung Handling-Schaden: Kaltlauf HV vs. Handling-Schaden | Prüfbericht: PRF-46899,1.0,CH-yarx-9472,Gießerei Wolfsburg
+2024-03-30T16:13:48,GX-34281,nachbearbeitung,Maßabweichung Kernschale Verschleiß: Sandbindermangelmm vs. Lunker±Kernschale Verschleißmm | IATF-Konformität: konform,1.0,CH-Grpt-3739,Gießerei Leipzig
+2024-06-15T21:03:43,GX-76184,endpruefung,Dichtheitsprüfung Fehler: Sandausbruch mbar/min vs. max Sandausbruch | Gießparameter optimiert,1.0,CH-qDRY-7962,Gießerei Stuttgart
+2024-04-29T17:44:55,GX-02103,gussfehler,Ausschuss Maßhaltigkeit an Radträger | Ursache: Sandbindermangel | Nacharbeit gemäß VDA 6.3,1.0,CH-ICCV-9722,Gießerei Stuttgart
+2025-01-29T20:25:48,GX-95359,endpruefung,Röntgenprüfung zeigt Sandausbruch in Zone Handling-Schaden | Wärmenachbehandlung eingeleitet,1.0,CH-VaXg-8534,Gießerei Wolfsburg
+2024-06-06T08:34:11,GX-34584,formprozess,Kernbruch K-1668 | Ursache: Sandbindermangel | IATF-Konformität: teilkonform | Gießparameter optimiert,1.0,CH-mqIx-4192,Gießerei Leipzig
+2024-11-21T21:57:11,GX-52122,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 712°C | Wärmenachbehandlung eingeleitet,1.0,CH-VYYN-4420,Gießerei Wolfsburg
+2024-04-21T07:47:53,GX-22673,formprozess,Kernbruch K-1000 | Ursache: Kernschale Verschleiß | Normabweichung: ISO 8062,2.0,CH-vrNf-3178,Gießerei Leipzig
+2024-06-21T19:29:30,GX-99544,formprozess,Kernbruch K-1587 | Ursache: Kernschale Verschleiß | Kernreparatur läuft,1.0,CH-gqCD-0152,Gießerei Wolfsburg
+2024-08-05T05:56:04,GX-25485,,,,CH-VCsX-8490,Gießerei Wolfsburg
+2025-03-11T09:39:34,GX-49642,,,,CH-Srsh-6716,Gießerei Stuttgart
+2024-10-30T14:20:16,GX-74307,nachbearbeitung,Oberflächenrauheit Lunker µm außerhalb Spezifikation ¦ Normabweichung: DIN 1681,1.0,CH-CaIG-3442,Gießerei Leipzig
+2024-05-22T23:49:01,GX-23889,endpruefung,Dichtheitsprüfung Fehler: Lunker mbar/min vs. max Handling-Schaden | Kernreparatur läuft,1.0,CH-sXnn-5898,Gießerei Wolfsburg
+2024-10-01T22:45:01,GX-07001,endpruefung,Härteprüfung Lunker: Kernschale Verschleiß HV vs. Sandbindermangel; Prüfbericht: PRF-60515 | Schleifnacharbeit notwendig,2.0,CH-RHVf-6397,Gießerei Stuttgart
+2025-01-16T03:53:22,GX-52972,formprozess,Formdruckabweichung Sandbindermangel bar vs. Kaltlauf bar | Form FORM-NS72 (Verdacht: Sandfeuchteabweichung),2.0,CH-wvhT-3709,Gießerei Stuttgart
+2024-11-06T19:31:34,GX-08815,endpruefung,Röntgenprüfung zeigt Lunker in Zone Kernschale Verschleiß | IATF-Konformität: konform,1.0,CH-lUwI-2389,Gießerei Stuttgart
+2024-05-19T10:23:10,GX-15707,schmelzprozess,Spektralanalyse zeigt Si-Mangel | Charge CH-aYGE-6249 | IATF-Konformität: nicht konform,2.0,CH-aYGE-6249,Gießerei Stuttgart
+2024-11-26T16:01:47,GX-95814,nachbearbeitung,Oberflächenrauheit Sandbindermangel µm außerhalb Spezifikation | Prüfbericht: PRF-81238 | Schleifnacharbeit notwendig,1.0,CH-ntYy-8915,Gießerei Stuttgart
+2024-08-26T01:20:07,GX-93359,gussfehler,Ausschuss Funktionstest an Zylinderkopf; Ursache: Sandfeuchte zu hoch (≥3.5%) (Verdacht: Sandfeuchteabweichung),2.0,CH-Maac-3424,Gießerei Leipzig
+2025-03-14T18:58:19,GX-53855,endpruefung,Härteprüfung Sandbindermangel: Kaltlauf HV vs. Kernschale Verschleiß; Normabweichung: ISO 8062,3.0,CH-Tjwx-8586,Gießerei Leipzig
+2024-06-09T00:02:24,GX-56786,endpruefung,Röntgenprüfung zeigt Kokillenriss in Zone Lunker | Gießparameter optimiert,2.0,CH-YWiW-9142,Gießerei Leipzig
+2024-05-05T10:17:04,GX-56520,gussfehler,,1.0,CH-ragE-5599,Gießerei Leipzig
+2024-05-30T06:51:32,GX-31552,nachbearbeitung,Bearbeitungsfehler Kernschale Verschleiß: Kernschale Verschleiß; Teil GX-31552; IATF-Konformität: teilkonform | Wärmenachbehandlung eingeleitet,1.0,CH-LjfY-6166,Gießerei Stuttgart
+2024-09-11T02:56:34,GX-28447,gussfehler,Kaltlauf an Radträger (GX-28447) ¦ Charge CH-vwXP-1025,2.0,CH-vwXP-1025,Gießerei Leipzig
+2024-05-30T06:18:03,GX-40942,gussfehler,Sandausbruch an Radträger (GX-40942) | Charge CH-Mlmd-9195,1.0,CH-Mlmd-9195,Gießerei Wolfsburg
+2024-03-25T04:43:04,GX-65505,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-FvkG-1651,2.0,CH-FvkG-1651,Gießerei Stuttgart
+2024-07-17T15:57:12,GX-54403,endpruefung,Härteprüfung Lunker: Sandausbruch HV vs. Kernschale Verschleiß,2.0,CH-ZSfc-4569,Gießerei Stuttgart
+2024-07-19T17:37:58,GX-88279,endpruefung,Röntgenprüfung zeigt Kaltlauf in Zone Handling-Schaden | Wärmenachbehandlung eingeleitet,1.0,CH-IBLn-0860,Gießerei Wolfsburg
+2024-04-09T04:47:04,GX-67552,schmelzprozess,Spektralanalyse zeigt Si-Mangel | Charge CH-uQLz-8065 | Prüfbericht: PRF-07094,2.0,CH-uQLz-8065,Gießerei Stuttgart
+2025-03-06T11:40:46,GX-98868,formprozess,"Formdruckabweichung Kernschale Verschleiß bar vs. Kaltlauf bar | Form FORM-sm63 | Chargenanalyse: C:3.2%, Si:2.1%",1.0,CH-hfOP-8728,Gießerei Leipzig
+2024-11-22T08:47:21,GX-17440,formprozess,Formdruckabweichung Sandausbruch bar vs. Lunker bar | Form FORM-KW73 (Verdacht: Legierungsdrift),1.0,CH-rjWN-7162,Gießerei Stuttgart
+2024-12-04T08:06:35,GX-39445,endpruefung,Röntgenprüfung zeigt Kokillenriss in Zone Sandbindermangel | Prüfbericht: PRF-04832 | Schleifnacharbeit notwendig,1.0,CH-JTqg-3076,Gießerei Wolfsburg
+2025-03-02T05:19:15,GX-45706,endpruefung,Härteprüfung Sandausbruch: Lunker HV vs. Kaltlauf | Gießparameter optimiert,2.0,CH-quGp-6274,Gießerei Stuttgart
+2024-11-12T15:27:53,GX-12808,gussfehler,Qualitätsabweichung Sandausbruch: Kernschale Verschleiß | Raueit Ra 8.3 µm (Verdacht: Legierungsdrift),1.0,CH-tMoE-5684,Gießerei Stuttgart
+2024-06-03T18:20:12,GX-71551,endpruefung,Härteprüfung Sandbindermangel: Lunker HV vs. Sandausbruch,1.0,CH-mzBF-0624,Gießerei Wolfsburg
+2025-02-07T11:20:42,GX-11836,endpruefung,Härteprüfung Lunker: Sandausbruch HV vs. Kernschale Verschleiß,2.0,CH-FnHp-0328,Gießerei Wolfsburg
+2024-04-10T05:51:13,GX-72723,endpruefung,Dichtheitsprüfung Fehler: Kernschale Verschleiß mbar/min vs. max Lunker; IATF-Konformität: nicht konform | Schleifnacharbeit notwendig,3.0,CH-ymas-5585,Gießerei Stuttgart
+2024-10-07T07:49:08,GX-52853,nachbearbeitung,Oberflächenrauheit Lunker µm außerhalb Spezifikation,1.0,CH-yDnP-1062,Gießerei Wolfsburg
+2024-07-12T10:23:19,GX-63185,gussfehler,Ausschuss Materialfehler an Getriebegehäuse // Ursache: Kernschale Verschleiß,1.0,CH-zhEQ-6181,Gießerei Leipzig
+2025-03-09T21:52:23,GX-83614,nachbearbeitung,Maßabweichung Kernschale Verschleiß: Sandausbruchmm vs. Sandausbruch±Handling-Schadenmm | Normabweichung: ISO 8062 | Kernreparatur läuft,1.0,CH-xYsI-1729,Gießerei Stuttgart
+2024-08-21T02:41:40,GX-14127,nachbearbeitung,Maßabweichung Kaltlauf: Sandausbruchmm vs. Lunker±Kernschale Verschleißmm,1.0,CH-ONZI-8636,Gießerei Stuttgart
+2025-03-15T00:44:38,GX-94308,endpruefung,Dichtheitsprüfung Fehler: Handling-Schaden mbar/min vs. max Sandausbruch | IATF-Konformität: nicht konform | Schleifnacharbeit notwendig,1.0,CH-Opbq-7492,Gießerei Leipzig
+2024-09-11T11:23:24,GX-10081,formprozess,Formdruckabweichung Kaltlauf bar vs. Sandausbruch bar | Form FORM-Cy84 | Prüfbericht: PRF-77825 | Schleifnacharbeit notwendig,1.0,CH-mFBj-8891,Gießerei Leipzig
+2024-06-28T16:53:01,GX-50005,formprozess,Kernbruch K-1805 // Ursache: Handling-Schaden | Gießparameter optimiert,2.0,CH-zCZI-8108,Gießerei Wolfsburg
+2024-03-31T19:26:13,GX-74410,,,,CH-aXTs-9573,Gießerei Leipzig
+2024-05-18T04:14:58,GX-06787,formprozess,Sandfeuchte Kernschale Verschleiß% außerhalb Toleranz (2.8-3.2%),1.0,CH-RcZs-8133,Gießerei Stuttgart
+2024-03-29T03:27:54,GX-55610,gussfehler,Ausschuss Materialfehler an Radträger | Ursache: Legierungsabweichung Si+0.3% (Verdacht: Sandfeuchteabweichung),1.0,CH-rQYt-9172,Gießerei Wolfsburg
+2024-04-14T06:03:37,GX-30892,schmelzprozess,"Spektralanalyse zeigt Mg-Mangel | Charge CH-fciG-6628 | Chargenanalyse: C:3.2%, Si:2.1% | Wärmenachbehandlung eingeleitet",1.0,CH-fciG-6628,Gießerei Stuttgart
+2024-12-30T07:54:47,GX-92462,endpruefung,Dichtheitsprüfung Fehler: Kernschale Verschleiß mbar/min vs. max Handling-Schaden,1.0,CH-nxfG-5487,Gießerei Leipzig
+2024-12-12T13:28:12,GX-86606,endpruefung,Härteprüfung Kernschale Verschleiß: Kaltlauf HV vs. Sandbindermangel | Gießparameter optimiert,2.0,CH-XCTE-6793,Gießerei Stuttgart
+2024-09-26T13:26:05,GX-98142,formprozess,Kernbruch K-1604 // Ursache: Kernschale Verschleiß,1.0,CH-JjzM-4203,Gießerei Stuttgart
+2024-03-17T09:32:11,GX-28161,gussfehler,Qualitätsabweichung Sandausbruch: Kernschale Verschleiß | Porosität: 0.8 mm²,3.0,CH-wIZE-8632,Gießerei Leipzig
+2024-10-30T00:04:05,GX-95345,nachbearbeitung,"Oberflächenrauheit Lunker µm außerhalb Spezifikation | Chargenanalyse: C:3.2%, Si:2.1%",1.0,CH-Umch-8645,Gießerei Stuttgart
+2025-02-23T06:32:04,GX-58893,formprozess,Sandfeuchte Kernschale Verschleiß% außerhalb Toleranz (2.8-3.2%) | Schleifnacharbeit notwendig,1.0,CH-tJIn-5829,Gießerei Leipzig
+2024-04-19T16:11:02,GX-76886,endpruefung,Röntgenprüfung zeigt Gasporosität in Zone Sandbindermangel (Verdacht: Sandfeuchteabweichung),1.0,CH-oulN-2604,Gießerei Stuttgart
+2024-05-28T16:29:44,GX-80319,nachbearbeitung,Maßabweichung Handling-Schaden: Kaltlaufmm vs. Sandausbruch±Kernschale Verschleißmm | Prüfbericht: PRF-98421,2.0,CH-UUFf-5452,Gießerei Wolfsburg
+2024-09-11T18:40:50,GX-64385,endpruefung,Röntgenprüfung zeigt Formversatz in Zone Lunker; IATF-Konformität: teilkonform,3.0,CH-qmbJ-1279,Gießerei Leipzig
+2024-03-20T22:25:39,GX-10223,endpruefung,"Dichtheitsprüfung Fehler: Sandbindermangel mbar/min vs. max Handling-Schaden | Chargenanalyse: Mg:0.4%, Ti:0.1%",3.0,CH-iqPs-4737,Gießerei Leipzig
+2024-11-26T13:56:44,GX-92526,schmelzprozess,Legierungsabweichung Mg: Lunker% vs. Soll Handling-Schaden%,1.0,CH-yEBD-1692,Gießerei Wolfsburg
+2024-06-24T17:57:05,GX-09840,gussfehler,Kaltlauf an Zylinderkopf (GX-09840) | Charge CH-jBgP-2839,1.0,CH-jBgP-2839,Gießerei Leipzig
+2024-03-17T23:38:22,GX-39983,gussfehler,Qualitätsabweichung Kernschale Verschleiß: Kaltlauf | Dickenmaß: 140.8 mm | IATF-Konformität: nicht konform,3.0,CH-rvOH-9727,Gießerei Stuttgart
+2024-04-21T12:07:09,GX-99963,formprozess,Formdruckabweichung Sandbindermangel bar vs. Handling-Schaden bar | Form FORM-QS02 | IATF-Konformität: konform,2.0,CH-aCGU-6584,Gießerei Leipzig
+2024-10-26T02:01:33,GX-72301,formprozess,Sandfeuchte Sandbindermangel% außerhalb Toleranz (2.8-3.2%) | Schleifnacharbeit notwendig,1.0,CH-YeEd-9936,Gießerei Stuttgart
+2025-02-25T08:54:25,GX-54610,endpruefung,Härteprüfung Lunker: Kaltlauf HV vs. Sandausbruch | Normabweichung: DIN 1681,3.0,CH-layP-2934,Gießerei Leipzig
+2024-11-12T21:22:21,GX-41369,gussfehler,Qualitätsabweichung Kernschale Verschleiß: Handling-Schaden | Dickenmaß: 100.4 mm | Normabweichung: DIN 1681 | Wärmenachbehandlung eingeleitet,1.0,CH-acOr-2502,Gießerei Stuttgart
+2024-11-06T08:16:41,GX-68691,schmelzprozess,Legierungsabweichung Cu: Sandausbruch% vs. Soll Sandbindermangel% (Verdacht: Formüberhitzung) | Nacharbeit gemäß VDA 6.3,1.0,CH-GsRr-1635,Gießerei Stuttgart
+2024-04-18T11:33:14,GX-90829,nachbearbeitung,Oberflächenrauheit Kernschale Verschleiß µm außerhalb Spezifikation ¦ Normabweichung: DIN 1681 | Nacharbeit gemäß VDA 6.3,1.0,CH-qHaa-3062,Gießerei Stuttgart
+2024-08-09T23:14:16,GX-64707,schmelzprozess,Spektralanalyse zeigt Mg-Mangel | Charge CH-GAdZ-5274,2.0,CH-GAdZ-5274,Gießerei Wolfsburg
+2024-03-19T00:09:30,GX-85821,formprozess,Sandfeuchte Lunker% außerhalb Toleranz (2.8-3.2%) | IATF-Konformität: konform | Schleifnacharbeit notwendig,2.0,CH-hUiB-9019,Gießerei Leipzig
+2025-02-22T13:21:52,GX-30258,endpruefung,Dichtheitsprüfung Fehler: Sandausbruch mbar/min vs. max Kernschale Verschleiß,1.0,CH-WQRN-6863,Gießerei Leipzig
+2024-06-09T02:25:05,GX-81391,gussfehler,Ausschuss Oberflächenfehler an Zylinderkopf | Ursache: Sandfeuchte zu hoch (≥3.5%) | Prüfbericht: PRF-70165 | Schleifnacharbeit notwendig,1.0,CH-bwpr-3194,Gießerei Wolfsburg
+2024-11-23T12:05:43,GX-77340,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-hKic-7418 (Verdacht: Legierungsdrift),2.0,CH-hKic-7418,Gießerei Leipzig
+2024-11-12T08:12:40,GX-58842,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-hVvS-5322 | Wärmenachbehandlung eingeleitet,1.0,CH-hVvS-5322,Gießerei Wolfsburg
+2024-08-21T20:32:03,GX-99161,formprozess,Sandfeuchte Lunker% außerhalb Toleranz (2.8-3.2%),3.0,CH-HMFA-1283,Gießerei Wolfsburg
+2024-06-20T13:44:13,GX-99550,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-ebzu-2421 | Prüfbericht: PRF-30925,2.0,CH-ebzu-2421,Gießerei Wolfsburg
+2024-10-12T17:09:49,GX-46939,formprozess,Kernbruch K-1805 | Ursache: Handling-Schaden,1.0,CH-rjom-8752,Gießerei Stuttgart
+2024-11-16T04:54:04,GX-67204,schmelzprozess,Legierungsabweichung Si: Lunker% vs. Soll Sandbindermangel% | Normabweichung: VDA 6.3,1.0,CH-ZWAZ-0424,Gießerei Wolfsburg
+2024-04-14T20:41:38,GX-91225,endpruefung,Härteprüfung Lunker: Handling-Schaden HV vs. Lunker,1.0,CH-xjES-1187,Gießerei Stuttgart
+2024-10-17T22:27:10,GX-50966,nachbearbeitung,,1.0,CH-qrrz-6150,Gießerei Stuttgart
+2024-03-22T22:03:28,GX-42194,formprozess,Formdruckabweichung Sandbindermangel bar vs. Handling-Schaden bar | Form FORM-Te98 | IATF-Konformität: teilkonform,1.0,CH-lfMA-8203,Gießerei Leipzig
+2024-04-05T14:43:10,GX-37286,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 707°C // Normabweichung: ISO 8062,1.0,CH-zSVY-6470,Gießerei Leipzig
+2024-08-01T14:14:18,GX-86520,schmelzprozess,Spektralanalyse zeigt Mg-Mangel | Charge CH-lGTa-7649,1.0,CH-lGTa-7649,Gießerei Stuttgart
+2024-05-23T07:00:31,GX-12894,endpruefung,Dichtheitsprüfung Fehler: Kaltlauf mbar/min vs. max Sandbindermangel,1.0,CH-kmle-9242,Gießerei Leipzig
+2025-01-07T19:53:49,GX-57723,schmelzprozess,Legierungsabweichung Ti: Kernschale Verschleiß% vs. Soll Lunker% | IATF-Konformität: teilkonform,1.0,CH-iVRU-5720,Gießerei Wolfsburg
+2025-01-26T07:28:08,GX-69510,nachbearbeitung,Bearbeitungsfehler Lunker: Lunker | Teil GX-69510 | Normabweichung: ISO 8062 | Wärmenachbehandlung eingeleitet,1.0,CH-fILk-7143,Gießerei Stuttgart
+2024-05-02T06:33:55,GX-90289,schmelzprozess,Spektralanalyse zeigt Cu-Mangel | Charge CH-UzMl-8699,1.0,CH-UzMl-8699,Gießerei Wolfsburg
+2024-09-06T23:34:38,GX-60175,endpruefung,Härteprüfung Kernschale Verschleiß: Sandbindermangel HV vs. Lunker | IATF-Konformität: teilkonform,1.0,CH-Qtcr-6264,Gießerei Stuttgart
+2024-06-03T19:46:42,GX-80645,formprozess,Sandfeuchte Sandausbruch% außerhalb Toleranz (2.8-3.2%) | Kernreparatur läuft,2.0,CH-SIlF-3743,Gießerei Stuttgart
+2025-03-02T07:10:50,GX-93963,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 650°C,3.0,CH-uOeb-5390,Gießerei Stuttgart
+2024-12-30T21:22:31,GX-37787,endpruefung,Röntgenprüfung zeigt Formversatz in Zone Sandausbruch | Kernreparatur läuft,1.0,CH-aWqC-0380,Gießerei Wolfsburg
+2024-03-20T15:42:19,GX-11272,endpruefung,Röntgenprüfung zeigt Gasporosität in Zone Sandausbruch,1.0,CH-HJum-7470,Gießerei Leipzig
+2024-10-21T14:48:54,GX-57154,nachbearbeitung,Maßabweichung Sandbindermangel: Sandausbruchmm vs. Sandbindermangel±Sandbindermangelmm,2.0,CH-ahal-1491,Gießerei Leipzig
+2025-01-09T01:44:52,GX-64915,endpruefung,Dichtheitsprüfung Fehler: Sandbindermangel mbar/min vs. max Sandausbruch,3.0,CH-lePZ-4931,Gießerei Stuttgart
+2024-06-15T01:37:49,GX-23538,formprozess,Kernbruch K-1888 ¦ Ursache: Kernschale Verschleiß | Schleifnacharbeit notwendig,1.0,CH-LwWh-2133,Gießerei Stuttgart
+2024-04-11T02:23:47,GX-43914,gussfehler,Ausschuss Maßhaltigkeit an Zylinderkopf ¦ Ursache: Sandbindermangel | Nacharbeit gemäß VDA 6.3,1.0,CH-xyds-4963,Gießerei Stuttgart
+2025-03-09T22:47:42,GX-95575,endpruefung,Röntgenprüfung zeigt Formversatz in Zone Kaltlauf | Kernreparatur läuft,2.0,CH-Tpwu-1495,Gießerei Leipzig
+2024-04-16T01:41:38,GX-91634,formprozess,Sandfeuchte Kaltlauf% außerhalb Toleranz (2.8-3.2%),2.0,CH-uqFk-4530,Gießerei Wolfsburg
+2024-10-18T09:29:21,GX-73700,formprozess,Sandfeuchte Sandbindermangel% außerhalb Toleranz (2.8-3.2%),2.0,CH-TUvu-7733,Gießerei Stuttgart
+2024-03-30T08:55:04,GX-48429,nachbearbeitung,Oberflächenrauheit Sandausbruch µm außerhalb Spezifikation | IATF-Konformität: nicht konform,2.0,CH-mcHp-3430,Gießerei Wolfsburg
+2024-03-20T00:02:58,GX-98923,,,,CH-kbAo-9543,Gießerei Stuttgart
+2024-11-10T22:25:28,GX-88269,schmelzprozess,Legierungsabweichung Ti: Kernschale Verschleiß% vs. Soll Kernschale Verschleiß%,1.0,CH-XKjG-1358,Gießerei Stuttgart
+2024-12-20T16:47:11,GX-61711,gussfehler,Qualitätsabweichung Sandausbruch: Sandausbruch | Dickenmaß: 91.1 mm | IATF-Konformität: teilkonform | Nacharbeit gemäß VDA 6.3,1.0,CH-BSmV-6727,Gießerei Leipzig
+2024-11-26T05:21:47,GX-76055,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 699°C,1.0,CH-VlRv-6242,Gießerei Leipzig
+2025-02-25T04:27:22,GX-43041,nachbearbeitung,Maßabweichung Kernschale Verschleiß: Kaltlaufmm vs. Sandbindermangel±Handling-Schadenmm | Normabweichung: VDA 6.3,2.0,CH-VPcP-0150,Gießerei Wolfsburg
+2024-03-23T15:25:13,GX-56240,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 729°C | Normabweichung: VDA 6.3,1.0,CH-pDnt-6669,Gießerei Stuttgart
+2025-02-09T19:44:26,GX-55351,endpruefung,Röntgenprüfung zeigt Kokillenriss in Zone Lunker,2.0,CH-MYVA-7027,Gießerei Stuttgart
+2024-09-08T08:38:01,GX-18596,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 726°C,1.0,CH-oEAi-5117,Gießerei Stuttgart
+2024-12-15T12:40:10,GX-67262,endpruefung,Härteprüfung Sandbindermangel: Sandausbruch HV vs. Handling-Schaden (Verdacht: Sandfeuchteabweichung),1.0,CH-cqxG-9973,Gießerei Stuttgart
+2025-02-26T02:33:53,GX-09734,nachbearbeitung,Bearbeitungsfehler Kaltlauf: Lunker | Teil GX-09734 | Normabweichung: DIN 1681 | Gießparameter optimiert,2.0,CH-SJpv-8813,Gießerei Leipzig
+2024-08-16T12:46:48,GX-66609,formprozess,Kernbruch K-1016 | Ursache: Handling-Schaden | IATF-Konformität: teilkonform,3.0,CH-ALIl-7596,Gießerei Wolfsburg
+2024-07-13T22:21:33,GX-25073,endpruefung,Härteprüfung Handling-Schaden: Handling-Schaden HV vs. Handling-Schaden | Nacharbeit gemäß VDA 6.3,3.0,CH-OjJu-7164,Gießerei Wolfsburg
+2024-10-13T15:47:43,GX-77457,gussfehler,Gasporosität an Radträger (GX-77457) | Charge CH-Jhlj-3621 | Nacharbeit gemäß VDA 6.3,2.0,CH-Jhlj-3621,Gießerei Leipzig
+2024-07-31T11:46:19,GX-84716,nachbearbeitung,Oberflächenrauheit Lunker µm außerhalb Spezifikation (Verdacht: Legierungsdrift) | Gießparameter optimiert,1.0,CH-jcWY-4364,Gießerei Wolfsburg
+2025-02-06T00:39:09,GX-28503,endpruefung,Dichtheitsprüfung Fehler: Sandausbruch mbar/min vs. max Sandbindermangel | Prüfbericht: PRF-02492 | Nacharbeit gemäß VDA 6.3,1.0,CH-yhxg-0074,Gießerei Wolfsburg
+2025-02-05T21:02:41,GX-06927,endpruefung,Röntgenprüfung zeigt Kaltlauf in Zone Handling-Schaden // Normabweichung: DIN 1681,1.0,CH-ilFl-2907,Gießerei Stuttgart
+2024-04-22T22:16:40,GX-08238,endpruefung,Dichtheitsprüfung Fehler: Sandbindermangel mbar/min vs. max Kernschale Verschleiß ¦ Normabweichung: DIN 1681,1.0,CH-DAMM-5301,Gießerei Stuttgart
+2024-03-28T02:04:13,GX-53371,gussfehler,Ausschuss Oberflächenfehler an Zylinderkopf | Ursache: Sandausbruch | Nacharbeit gemäß VDA 6.3,1.0,CH-baat-6883,Gießerei Wolfsburg
+2024-10-20T03:38:55,GX-71574,gussfehler,Ausschuss Oberflächenfehler an Radträger | Ursache: Lunker,2.0,CH-ddGC-6577,Gießerei Leipzig
+2024-09-12T03:20:39,GX-13425,endpruefung,Röntgenprüfung zeigt Sandausbruch in Zone Lunker; Normabweichung: ISO 8062,1.0,CH-mSQV-2759,Gießerei Stuttgart
+2025-01-06T15:19:14,GX-77476,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-zYep-5663,2.0,CH-zYep-5663,Gießerei Stuttgart
+2024-06-25T02:58:43,GX-61811,endpruefung,Härteprüfung Kernschale Verschleiß: Lunker HV vs. Handling-Schaden | Wärmenachbehandlung eingeleitet,2.0,CH-YIJO-9239,Gießerei Stuttgart
+2024-03-18T20:46:54,GX-16352,endpruefung,"Härteprüfung Sandausbruch: Kaltlauf HV vs. Kernschale Verschleiß; Chargenanalyse: Mg:0.4%, Ti:0.1%",1.0,CH-fIZb-3792,Gießerei Wolfsburg
+2024-05-23T23:04:39,GX-76674,gussfehler,Ausschuss Maßhaltigkeit an Getriebegehäuse | Ursache: Sandbindermangel,3.0,CH-Vmeb-9660,Gießerei Wolfsburg
+2024-03-22T15:53:35,GX-83891,schmelzprozess,Spektralanalyse zeigt Cu-Mangel // Charge CH-HHLc-2973 | Kernreparatur läuft,1.0,CH-HHLc-2973,Gießerei Stuttgart
+2024-11-06T17:09:45,GX-01798,nachbearbeitung,,1.0,CH-DmJL-5111,Gießerei Leipzig
+2025-02-04T07:47:15,GX-27839,gussfehler,Qualitätsabweichung Sandbindermangel: Sandausbruch | Dickenmaß: 130.7 mm (Verdacht: Sandfeuchteabweichung),3.0,CH-OzWB-2433,Gießerei Wolfsburg
+2024-03-26T06:37:56,GX-06204,endpruefung,Dichtheitsprüfung Fehler: Sandausbruch mbar/min vs. max Handling-Schaden,3.0,CH-FMov-0488,Gießerei Leipzig
+2024-11-08T08:58:44,GX-41878,gussfehler,Ausschuss Maßhaltigkeit an Zylinderkopf | Ursache: Kernschale Verschleiß | Wärmenachbehandlung eingeleitet,1.0,CH-LDdo-0770,Gießerei Wolfsburg
+2024-03-22T22:22:07,GX-05838,nachbearbeitung,Oberflächenrauheit Sandbindermangel µm außerhalb Spezifikation,2.0,CH-vtKW-1437,Gießerei Leipzig
+2024-03-24T07:00:34,GX-46472,schmelzprozess,"Schmelzofen Holding Furnace 2 Temp-Abweichung: 711°C | Chargenanalyse: Mg:0.4%, Ti:0.1% | Kernreparatur läuft",2.0,CH-nyEq-6268,Gießerei Stuttgart
+2024-05-21T07:42:26,GX-20372,schmelzprozess,Legierungsabweichung Mg: Lunker% vs. Soll Handling-Schaden%,1.0,CH-mBPp-2069,Gießerei Stuttgart
+2024-08-02T00:42:49,GX-85651,formprozess,"Formdruckabweichung Kaltlauf bar vs. Kernschale Verschleiß bar | Form FORM-MX92 | Chargenanalyse: Mg:0.4%, Ti:0.1%",1.0,CH-khlb-2919,Gießerei Leipzig
+2024-09-17T09:06:52,GX-18781,gussfehler,Kaltlauf an Zylinderkopf (GX-18781) | Charge CH-aZWP-8051 | Kernreparatur läuft,1.0,CH-aZWP-8051,Gießerei Stuttgart
+2024-05-26T23:41:29,GX-48928,,,,CH-JAGs-5388,Gießerei Leipzig
+2024-09-17T00:01:26,GX-10845,gussfehler,Ausschuss Funktionstest an Zylinderkopf | Ursache: Sandausbruch,1.0,CH-nbez-0659,Gießerei Leipzig
+2024-05-10T00:15:08,GX-44227,formprozess,Formdruckabweichung Sandausbruch bar vs. Sandbindermangel bar | Form FORM-Sw00 | Schleifnacharbeit notwendig,1.0,CH-srGz-6610,Gießerei Stuttgart
+2025-03-16T05:34:54,GX-94305,gussfehler,"Ausschuss Maßhaltigkeit an Zylinderkopf | Ursache: Sandfeuchte zu hoch (≥3.5%) | Chargenanalyse: Mg:0.4%, Ti:0.1%",2.0,CH-dZuf-4111,Gießerei Wolfsburg
+2024-06-04T18:31:48,GX-04466,nachbearbeitung,Oberflächenrauheit Lunker µm außerhalb Spezifikation (Verdacht: Legierungsdrift) | Nacharbeit gemäß VDA 6.3,2.0,CH-vcUM-0650,Gießerei Wolfsburg
+2025-01-17T22:12:56,GX-54385,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 707°C | Schleifnacharbeit notwendig,2.0,CH-SwqQ-2907,Gießerei Wolfsburg
+2024-11-17T12:14:13,GX-83604,endpruefung,Röntgenprüfung zeigt Kokillenriss in Zone Sandbindermangel,1.0,CH-xfRr-3068,Gießerei Stuttgart
+2024-12-09T18:57:21,GX-59966,formprozess,Formdruckabweichung Kernschale Verschleiß bar vs. Sandbindermangel bar | Form FORM-ja55,2.0,CH-LgtO-2875,Gießerei Leipzig
+2024-09-21T09:22:41,GX-80893,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 688°C,3.0,CH-VsHv-7727,Gießerei Stuttgart
+2024-09-07T21:02:04,GX-05786,formprozess,"Sandfeuchte Kernschale Verschleiß% außerhalb Toleranz (2.8-3.2%) | Chargenanalyse: C:3.2%, Si:2.1% | Schleifnacharbeit notwendig",1.0,CH-kMMk-6666,Gießerei Stuttgart
+2024-12-28T10:38:51,GX-02709,gussfehler,Ausschuss Oberflächenfehler an Zylinderkopf | Ursache: Sandfeuchte zu hoch (≥3.5%) | Prüfbericht: PRF-73466,1.0,CH-WTQK-7797,Gießerei Leipzig
+2024-10-16T12:53:30,GX-98042,formprozess,Kernbruch K-1177 | Ursache: Handling-Schaden,1.0,CH-gxya-2765,Gießerei Leipzig
+2024-12-19T02:00:48,GX-33221,nachbearbeitung,Bearbeitungsfehler Handling-Schaden: Sandbindermangel | Teil GX-33221 | IATF-Konformität: konform | Kernreparatur läuft,2.0,CH-ZbnF-6638,Gießerei Stuttgart
+2024-11-21T05:18:11,GX-97010,gussfehler,Kokillenriss an Zylinderkopf (GX-97010) | Charge CH-FVbU-3367 | Kernreparatur läuft,1.0,CH-FVbU-3367,Gießerei Stuttgart
+2024-06-15T08:12:41,GX-55303,gussfehler,Ausschuss Maßhaltigkeit an Radträger | Ursache: Gießtemp. zu niedrig (650°C < 720°C) | IATF-Konformität: konform | Schleifnacharbeit notwendig,1.0,CH-KOfy-8435,Gießerei Wolfsburg
+2024-09-07T12:07:02,GX-94932,formprozess,Sandfeuchte Handling-Schaden% außerhalb Toleranz (2.8-3.2%) | Nacharbeit gemäß VDA 6.3,2.0,CH-DDwi-6532,Gießerei Stuttgart
+2024-04-18T00:23:29,GX-02738,gussfehler,Ausschuss Funktionstest an Radträger | Ursache: Legierungsabweichung Si+0.3% | Normabweichung: VDA 6.3 | Nacharbeit gemäß VDA 6.3,3.0,CH-egwE-8368,Gießerei Leipzig
+2024-03-22T13:01:02,GX-78779,nachbearbeitung,Maßabweichung Sandbindermangel: Sandbindermangelmm vs. Handling-Schaden±Kaltlaufmm (Verdacht: Sandfeuchteabweichung),1.0,CH-HUaW-2510,Gießerei Wolfsburg
+2024-11-28T21:07:37,GX-20673,schmelzprozess,Spektralanalyse zeigt Cu-Mangel | Charge CH-uCNZ-9452,1.0,CH-uCNZ-9452,Gießerei Stuttgart
+2024-03-22T08:29:15,GX-95920,,,,CH-PKUC-2207,Gießerei Leipzig
+2024-05-29T11:28:41,GX-35526,formprozess,Formdruckabweichung Lunker bar vs. Handling-Schaden bar | Form FORM-WG29,1.0,CH-ziiX-1870,Gießerei Wolfsburg
+2025-03-09T20:45:20,GX-46146,endpruefung,Röntgenprüfung zeigt Kaltlauf in Zone Sandbindermangel | Prüfbericht: PRF-20277,2.0,CH-Rbnh-8770,Gießerei Leipzig
+2024-06-05T23:29:25,GX-99571,nachbearbeitung,Oberflächenrauheit Lunker µm außerhalb Spezifikation | IATF-Konformität: nicht konform | Kernreparatur läuft,1.0,CH-CZQF-1234,Gießerei Wolfsburg
+2024-12-24T07:47:49,GX-66875,endpruefung,Härteprüfung Sandausbruch: Handling-Schaden HV vs. Lunker,3.0,CH-BhEc-2052,Gießerei Stuttgart
+2024-08-26T09:31:54,GX-74578,formprozess,"Sandfeuchte Handling-Schaden% außerhalb Toleranz (2.8-3.2%) | Chargenanalyse: C:3.2%, Si:2.1% | Schleifnacharbeit notwendig",2.0,CH-eLds-7735,Gießerei Leipzig
+2024-11-02T07:16:17,GX-25059,gussfehler,Kokillenriss an Radträger (GX-25059) | Charge CH-zWWc-7853 (Verdacht: Formüberhitzung) | Nacharbeit gemäß VDA 6.3,1.0,CH-zWWc-7853,Gießerei Stuttgart
+2024-09-28T13:21:10,GX-90368,nachbearbeitung,Maßabweichung Sandbindermangel: Sandbindermangelmm vs. Kaltlauf±Lunkermm | Gießparameter optimiert,1.0,CH-onfw-1850,Gießerei Leipzig
+2024-04-12T01:57:35,GX-48138,schmelzprozess,Legierungsabweichung Mg: Lunker% vs. Soll Handling-Schaden%,3.0,CH-atjB-2911,Gießerei Stuttgart
+2024-11-22T11:31:14,GX-14891,endpruefung,Härteprüfung Sandausbruch: Sandausbruch HV vs. Handling-Schaden,1.0,CH-zJWr-8060,Gießerei Leipzig
+2024-11-02T01:42:40,GX-63585,gussfehler,Kokillenriss an Getriebegehäuse (GX-63585) // Charge CH-pVwz-1391,2.0,CH-pVwz-1391,Gießerei Leipzig
+2024-06-05T21:00:27,GX-45208,endpruefung,Dichtheitsprüfung Fehler: Lunker mbar/min vs. max Kaltlauf,1.0,UNBEKANNT,Gießerei Wolfsburg
+2024-08-27T17:15:36,GX-37083,nachbearbeitung,Maßabweichung Kernschale Verschleiß: Lunkermm vs. Lunker±Sandbindermangelmm | IATF-Konformität: teilkonform | Nacharbeit gemäß VDA 6.3,2.0,CH-vksL-6424,Gießerei Wolfsburg
+2024-05-12T07:17:50,GX-36391,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 708°C | Prüfbericht: PRF-05397 | Kernreparatur läuft,2.0,CH-EPvh-5686,Gießerei Wolfsburg
+2025-01-02T08:39:17,GX-22399,endpruefung,Härteprüfung Sandausbruch: Kaltlauf HV vs. Sandbindermangel // IATF-Konformität: konform,2.0,CH-XVtp-0414,Gießerei Wolfsburg
+2025-01-06T22:59:27,GX-28275,gussfehler,Sandausbruch an Getriebegehäuse (GX-28275) | Charge CH-VuAt-6374,2.0,CH-VuAt-6374,Gießerei Leipzig
+2024-06-03T21:36:50,GX-40834,formprozess,Sandfeuchte Lunker% außerhalb Toleranz (2.8-3.2%) | IATF-Konformität: nicht konform,1.0,CH-tXin-9613,Gießerei Stuttgart
+2025-02-18T08:07:58,GX-05066,schmelzprozess,Legierungsabweichung Ti: Sandbindermangel% vs. Soll Kernschale Verschleiß% | Gießparameter optimiert,1.0,CH-DCSP-7176,Gießerei Leipzig
+2025-01-08T09:47:44,GX-35064,gussfehler,Ausschuss Oberflächenfehler an Zylinderkopf | Ursache: Handling-Schaden,1.0,CH-Jdlz-7531,Gießerei Wolfsburg
+2024-07-09T09:11:16,GX-47233,formprozess,Formdruckabweichung Kaltlauf bar vs. Sandausbruch bar | Form FORM-aR70 | Gießparameter optimiert,2.0,CH-TZuk-1438,Gießerei Stuttgart
+2024-12-06T04:53:03,GX-68523,gussfehler,Qualitätsabweichung Kernschale Verschleiß: Sandbindermangel | Dickenmaß: 120.4 mm,3.0,CH-jrFk-6569,Gießerei Stuttgart
+2024-05-24T10:08:39,GX-73481,formprozess,Formdruckabweichung Kernschale Verschleiß bar vs. Sandausbruch bar | Form FORM-Vi33 | IATF-Konformität: konform | Gießparameter optimiert,1.0,CH-vhWT-9067,Gießerei Stuttgart
+2025-01-05T09:53:50,GX-42017,gussfehler,Lunker an Zylinderkopf (GX-42017) | Charge CH-xQcT-5840,2.0,CH-xQcT-5840,Gießerei Leipzig
+2024-07-28T06:48:55,GX-27743,gussfehler,Ausschuss Materialfehler an Zylinderkopf | Ursache: Gießtemp. zu niedrig (650°C < 720°C) | Prüfbericht: PRF-87690 | Wärmenachbehandlung eingeleitet,1.0,CH-JLeh-8424,Gießerei Stuttgart
+2024-09-30T09:42:08,GX-30401,endpruefung,Röntgenprüfung zeigt Formversatz in Zone Sandbindermangel | Normabweichung: ISO 8062 | Nacharbeit gemäß VDA 6.3,1.0,CH-YLzK-6193,Gießerei Leipzig
+2024-07-26T11:52:53,GX-44387,gussfehler,Gasporosität an Getriebegehäuse (GX-44387) | Charge CH-eJGM-6780 | IATF-Konformität: nicht konform | Nacharbeit gemäß VDA 6.3,1.0,CH-eJGM-6780,Gießerei Wolfsburg
+2025-02-09T16:17:43,GX-87036,formprozess,Sandfeuchte Sandausbruch% außerhalb Toleranz (2.8-3.2%); Normabweichung: ISO 8062,1.0,CH-baTC-0171,Gießerei Stuttgart
+2024-12-08T11:59:42,GX-75207,formprozess,"Formdruckabweichung Kaltlauf bar vs. Lunker bar | Form FORM-kY52 | Chargenanalyse: Mg:0.4%, Ti:0.1% | Schleifnacharbeit notwendig",2.0,CH-gfGe-0067,Gießerei Wolfsburg
+2024-09-03T03:34:41,GX-20840,schmelzprozess,Legierungsabweichung Si: Sandbindermangel% vs. Soll Sandausbruch% | Normabweichung: ISO 8062,2.0,CH-mZMW-3213,Gießerei Wolfsburg
+2024-08-09T05:58:17,GX-62261,gussfehler,Qualitätsabweichung Kaltlauf: Kernschale Verschleiß | Porosität: 1.8 mm² | Prüfbericht: PRF-79395 | Wärmenachbehandlung eingeleitet,1.0,CH-rTkT-4420,Gießerei Stuttgart
+2024-10-24T07:13:59,GX-36471,schmelzprozess,Schmelzofen Holding Furnace 2 Temp-Abweichung: 725°C,2.0,CH-TQya-2073,Gießerei Leipzig
+2024-09-24T20:28:22,GX-74056,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 674°C | Normabweichung: VDA 6.3 | Schleifnacharbeit notwendig,1.0,CH-aetl-5715,Gießerei Wolfsburg
+2024-05-31T04:28:41,GX-14179,formprozess,Kernbruch K-1123 | Ursache: Handling-Schaden (Verdacht: Legierungsdrift) | Wärmenachbehandlung eingeleitet,3.0,CH-NyRg-9824,Gießerei Wolfsburg
+2024-11-11T05:23:44,GX-31624,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 734°C,1.0,CH-dBjH-3609,Gießerei Stuttgart
+2024-09-13T05:42:55,GX-01526,nachbearbeitung,Bearbeitungsfehler Kernschale Verschleiß: Sandausbruch | Teil GX-01526,2.0,CH-ByJN-3663,Gießerei Wolfsburg
+2024-09-04T05:20:27,GX-22320,endpruefung,Röntgenprüfung zeigt Kaltlauf in Zone Lunker | Schleifnacharbeit notwendig,1.0,CH-TPce-8926,Gießerei Wolfsburg
+2025-03-13T02:25:53,GX-03644,gussfehler,"Qualitätsabweichung Kernschale Verschleiß: Handling-Schaden ¦ Raueit Ra 4.1 µm ¦ Chargenanalyse: Mg:0.4%, Ti:0.1% | Schleifnacharbeit notwendig",2.0,CH-hPYu-6796,Gießerei Wolfsburg
+2024-12-26T15:27:35,GX-33175,schmelzprozess,Spektralanalyse zeigt Mg-Mangel ¦ Charge CH-wZoH-2499 | Wärmenachbehandlung eingeleitet,2.0,CH-wZoH-2499,Gießerei Wolfsburg
+2024-10-15T21:13:34,GX-55952,gussfehler,Lunker an Radträger (GX-55952) | Charge CH-ZoFc-9817 (Verdacht: Formüberhitzung),2.0,CH-ZoFc-9817,Gießerei Wolfsburg
+2024-10-14T22:48:23,GX-69411,schmelzprozess,Legierungsabweichung Si: Kernschale Verschleiß% vs. Soll Sandbindermangel% | Wärmenachbehandlung eingeleitet,2.0,CH-gPGV-2037,Gießerei Leipzig
+2024-05-01T15:06:16,GX-20130,gussfehler,"Qualitätsabweichung Lunker: Handling-Schaden | Dickenmaß: 106.0 mm | Chargenanalyse: C:3.2%, Si:2.1%",1.0,CH-aGtx-3696,Gießerei Stuttgart
+2025-03-05T16:18:18,GX-93440,schmelzprozess,Spektralanalyse zeigt Ti-Mangel | Charge CH-nPyp-4282,2.0,CH-nPyp-4282,Gießerei Leipzig
+2024-07-09T23:40:06,GX-74810,nachbearbeitung,Bearbeitungsfehler Handling-Schaden: Handling-Schaden | Teil GX-74810,2.0,CH-VBHp-5077,Gießerei Stuttgart
+2024-04-18T00:29:27,GX-52199,endpruefung,Härteprüfung Sandbindermangel: Kernschale Verschleiß HV vs. Sandbindermangel,1.0,CH-MOll-1920,Gießerei Wolfsburg
+2024-05-20T01:50:29,GX-06743,nachbearbeitung,Bearbeitungsfehler Sandbindermangel: Sandbindermangel // Teil GX-06743,2.0,CH-BKZA-7818,Gießerei Stuttgart
+2025-02-21T00:24:32,GX-04619,gussfehler,Qualitätsabweichung Kernschale Verschleiß: Handling-Schaden // Porosität: 0.6 mm²,1.0,CH-puaU-6083,Gießerei Wolfsburg
+2024-03-21T09:41:41,GX-70928,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 723°C // Prüfbericht: PRF-98326 | Wärmenachbehandlung eingeleitet,1.0,CH-Wnjc-6725,Gießerei Wolfsburg
+2025-02-10T16:09:00,GX-67366,endpruefung,Röntgenprüfung zeigt Lunker in Zone Kernschale Verschleiß | Normabweichung: VDA 6.3 | Schleifnacharbeit notwendig,1.0,CH-QfiU-3581,Gießerei Wolfsburg
+2024-09-30T02:53:34,GX-90278,formprozess,Sandfeuchte Handling-Schaden% außerhalb Toleranz (2.8-3.2%),3.0,CH-OHSd-7943,Gießerei Wolfsburg
+2024-04-12T12:11:13,GX-13829,nachbearbeitung,"Oberflächenrauheit Kernschale Verschleiß µm außerhalb Spezifikation | Chargenanalyse: C:3.2%, Si:2.1%",2.0,CH-EVBR-5224,Gießerei Wolfsburg
+2024-07-11T02:04:34,GX-79101,nachbearbeitung,Maßabweichung Kernschale Verschleiß: Sandbindermangelmm vs. Lunker±Lunkermm | IATF-Konformität: nicht konform,1.0,CH-sSRw-2839,Gießerei Wolfsburg
+2024-12-23T10:56:11,GX-40972,formprozess,Formdruckabweichung Lunker bar vs. Kernschale Verschleiß bar | Form FORM-Er81 | Schleifnacharbeit notwendig,2.0,CH-jPxG-6125,Gießerei Wolfsburg
+2025-02-19T04:44:33,GX-55682,schmelzprozess,Schmelzofen Schmelzofen 1 Temp-Abweichung: 700°C | Nacharbeit gemäß VDA 6.3,1.0,CH-UVoj-4977,Gießerei Wolfsburg
+2024-03-20T08:03:13,GX-93890,endpruefung,Härteprüfung Sandbindermangel: Sandausbruch HV vs. Kaltlauf | Wärmenachbehandlung eingeleitet,3.0,CH-kUBA-3993,Gießerei Leipzig
+2024-07-09T04:54:08,GX-92673,gussfehler,Ausschuss Materialfehler an Radträger | Ursache: Sandfeuchte zu hoch (≥3.5%) (Verdacht: Formüberhitzung),2.0,CH-gyLu-4990,Gießerei Leipzig

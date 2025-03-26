@@ -1,0 +1,35 @@
+# These are some examples. You may update it based on your requirements.
+# DO NOT FORGET to add datasets folders here!
+
+#Notebooks' checkpoints
+.ipynb_checkpoints
+
+#bytecodes
+__pycache__
+
+#videos
+*.m4v
+
+#MacOS 
+__MACOSX
+.DS_Store
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Environments
+.conda
+
+# Visual Studio Code 
+.vscode
+
+# Folders
+
+/checkpoints
+/models
+/venv
+/wandb
+
+
+

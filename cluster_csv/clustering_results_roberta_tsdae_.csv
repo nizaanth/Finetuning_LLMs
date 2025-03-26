@@ -1,0 +1,926 @@
+﻿text,kmeans_10_direct,kmeans_15_direct,kmeans_20_direct,hdbscan_10_direct,hdbscan_15_direct,hdbscan_20_direct,kmeans_10_pca,kmeans_10_umap,kmeans_15_pca,kmeans_15_umap,kmeans_20_pca,kmeans_20_umap,hdbscan_10_pca,hdbscan_10_umap,hdbscan_15_pca,hdbscan_15_umap,hdbscan_20_pca,hdbscan_20_umap
+Schmelzofen Holding Furnace TempAbweichung °C Nacharbeit gemäß,5,5,5,1,2,2,5,2,8,2,8,2,10,1,5,1,2,1
+Sandfeuchte Lunker außerhalb Toleranz,7,11,11,15,11,11,7,8,7,11,7,11,12,3,7,3,2,4
+Bearbeitungsfehler Kaltlauf Sandbindermangel Teil Prüfbericht,7,8,18,2,1,1,1,7,7,13,11,13,-1,21,-1,11,2,9
+Ausschuss Oberflächenfehler an Getriebegehäuse Ursache Sandbindermangel Kernreparatur läuft,2,10,10,-1,-1,-1,3,4,3,4,3,4,4,7,2,9,3,3
+Ausschuss Funktionstest an Getriebegehäuse Ursache HandlingSchaden,2,10,10,-1,-1,-1,3,4,13,4,13,4,4,7,2,9,3,3
+Maßabweichung Kaltlauf Kernschale Verschleißmm vs Kernschale Verschleiß±HandlingSchadenmm,8,12,12,10,7,7,0,5,0,5,0,15,1,24,1,17,1,15
+Spektralanalyse zeigt TiMangel Charge Nacharbeit gemäß,9,9,9,-1,-1,-1,2,9,2,9,5,17,-1,13,-1,6,-1,6
+Röntgenprüfung zeigt Kokillenriss in Zone HandlingSchaden Kernreparatur läuft,4,4,4,4,3,3,5,9,11,10,11,10,14,5,9,5,2,5
+Bearbeitungsfehler HandlingSchaden Sandbindermangel Teil Chargenanalyse C Si Wärmenachbehandlung eingeleitet,3,1,3,7,-1,-1,2,7,2,13,17,13,13,21,8,11,2,9
+Oberflächenrauheit HandlingSchaden außerhalb Spezifikation,7,7,7,14,10,10,8,6,8,6,8,6,8,9,4,10,2,8
+Maßabweichung Sandbindermangel HandlingSchadenmm vs Sandausbruch±Kernschale Verschleißmm nicht konform,8,12,12,10,7,7,0,5,0,5,16,15,1,24,1,17,1,15
+Legierungsabweichung Ti HandlingSchaden vs Soll Sandbindermangel Verdacht Sandfeuchteabweichung,6,6,6,-1,-1,-1,9,5,12,14,12,14,1,16,1,13,1,11
+Ausschuss Maßhaltigkeit an Zylinderkopf Ursache Kaltlauf,2,10,10,-1,-1,-1,8,4,13,4,13,4,5,7,2,9,3,3
+Dichtheitsprüfung Fehler Kaltlauf mbarmin vs max Kaltlauf nicht konform,1,13,13,3,1,1,4,3,9,3,9,3,1,2,1,2,1,2
+Dichtheitsprüfung Fehler HandlingSchaden mbarmin vs max HandlingSchaden,1,13,13,3,1,1,4,3,4,3,9,3,1,2,1,2,1,2
+Dichtheitsprüfung Fehler Sandbindermangel mbarmin vs max Sandbindermangel,1,13,13,3,1,1,4,3,4,3,9,3,1,2,1,2,1,2
+Spektralanalyse zeigt CuMangel Charge Prüfbericht,9,9,9,12,8,8,6,9,6,9,6,17,-1,12,-1,6,-1,6
+Legierungsabweichung Mg HandlingSchaden vs Soll HandlingSchaden Normabweichung,6,6,19,9,6,6,4,5,9,14,9,14,1,16,1,13,1,11
+Formversatz an Getriebegehäuse Charge Chargenanalyse C Si Wärmenachbehandlung eingeleitet,3,1,3,-1,-1,-1,5,1,5,1,5,1,-1,14,-1,7,2,7
+Kernbruch Ursache HandlingSchaden Normabweichung Wärmenachbehandlung eingeleitet,2,2,17,-1,-1,-1,3,4,13,4,13,18,6,7,2,9,3,3
+Schmelzofen Holding Furnace TempAbweichung °C Schleifnacharbeit notwendig,5,5,5,1,2,2,5,2,5,2,15,2,10,1,5,1,2,1
+Formdruckabweichung Sandausbruch vs Lunker Form,0,0,16,5,4,4,0,0,0,0,0,0,1,11,1,12,1,10
+Maßabweichung HandlingSchaden Sandbindermangelmm vs Sandbindermangel±Sandbindermangelmm Verdacht Formüberhitzung,8,12,6,-1,-1,-1,9,5,12,5,0,5,1,23,1,17,1,15
+Sandausbruch an Getriebegehäuse Charge nicht konform Wärmenachbehandlung eingeleitet,2,2,3,-1,-1,-1,5,1,8,1,8,1,-1,-1,-1,7,2,7
+Spektralanalyse zeigt TiMangel Charge Wärmenachbehandlung eingeleitet,9,9,3,12,8,8,6,9,6,9,6,9,0,10,0,6,0,6
+Ausschuss Oberflächenfehler an Getriebegehäuse Ursache Sandfeuchte zu hoch ≥ Prüfbericht Wärmenachbehandlung eingeleitet,2,10,10,-1,-1,-1,8,4,14,4,14,4,-1,7,-1,9,-1,3
+Ausschuss Oberflächenfehler an Zylinderkopf Ursache Lunker Wärmenachbehandlung eingeleitet,2,10,10,-1,-1,-1,8,4,14,4,14,4,-1,7,-1,9,-1,3
+Qualitätsabweichung Sandausbruch Kernschale Verschleiß Raueit Ra Gießparameter optimiert,0,2,2,-1,-1,-1,7,7,1,7,1,7,12,17,7,14,2,12
+Bearbeitungsfehler Kernschale Verschleiß Kaltlauf Teil,7,8,18,2,1,1,7,7,1,13,19,13,-1,21,-1,11,-1,9
+Röntgenprüfung zeigt Gasporosität in Zone Kaltlauf,4,4,4,4,3,3,2,9,2,10,5,10,13,5,8,5,2,5
+Qualitätsabweichung Sandausbruch Sandbindermangel Raueit Ra Prüfbericht,0,2,2,8,-1,-1,1,7,7,7,1,7,12,17,7,14,2,12
+Spektralanalyse zeigt SiMangel Charge nicht konform,9,9,9,12,8,8,6,9,2,9,2,17,-1,13,-1,6,2,6
+Lunker an Radträger Charge Chargenanalyse C Si,3,1,1,-1,-1,-1,2,7,2,13,17,13,-1,-1,-1,11,2,9
+Ausschuss Materialfehler an Zylinderkopf Ursache Sandfeuchte zu hoch ≥ teilkonform,2,10,10,-1,-1,-1,8,4,8,4,8,4,-1,7,2,9,3,3
+Sandfeuchte Sandbindermangel außerhalb Toleranz,7,11,11,15,11,11,7,8,7,11,7,11,12,3,7,3,2,4
+Dichtheitsprüfung Fehler HandlingSchaden mbarmin vs max Kernschale Verschleiß,1,13,13,3,1,1,9,3,9,3,9,3,1,2,1,2,1,2
+Oberflächenrauheit Kaltlauf außerhalb Spezifikation Prüfbericht,7,7,7,14,10,10,8,6,8,6,8,6,-1,9,-1,10,2,8
+Röntgenprüfung zeigt Formversatz in Zone Lunker,4,4,4,4,3,3,2,9,2,10,5,10,13,5,8,5,2,5
+Ausschuss Maßhaltigkeit an Getriebegehäuse Ursache Legierungsabweichung Si Prüfbericht Kernreparatur läuft,2,10,10,-1,-1,-1,8,4,13,4,13,4,5,7,2,9,3,3
+Legierungsabweichung Si Lunker vs Soll Lunker,6,6,19,9,6,6,4,5,9,14,9,14,1,16,1,13,1,11
+Schmelzofen Holding Furnace TempAbweichung °C Kernreparatur läuft,5,5,5,1,2,2,5,2,8,2,8,2,10,1,5,1,2,1
+Qualitätsabweichung Kaltlauf Sandbindermangel Raueit Ra Normabweichung,0,2,2,8,-1,-1,7,7,7,7,7,7,12,17,7,14,2,12
+Härteprüfung HandlingSchaden Lunker vs HandlingSchaden teilkonform Nacharbeit gemäß,8,14,14,-1,-1,-1,0,5,10,8,10,8,1,19,1,16,1,14
+Härteprüfung Kaltlauf HandlingSchaden vs Sandbindermangel teilkonform Wärmenachbehandlung eingeleitet,8,14,8,7,-1,-1,9,5,12,5,12,5,1,22,1,17,1,15
+Schmelzofen Holding Furnace TempAbweichung °C,5,5,5,1,2,2,5,2,5,2,15,2,9,1,5,1,2,1
+Kernbruch Ursache Sandbindermangel Verdacht Sandfeuchteabweichung Kernreparatur läuft,2,2,17,-1,-1,-1,3,4,3,4,3,16,4,7,2,9,3,3
+Bearbeitungsfehler HandlingSchaden Kaltlauf Teil Chargenanalyse C Si Wärmenachbehandlung eingeleitet,3,1,3,-1,-1,-1,2,7,2,13,5,13,-1,21,-1,11,2,9
+Spektralanalyse zeigt CuMangel Charge Normabweichung Nacharbeit gemäß,9,9,9,-1,-1,-1,2,9,5,9,5,17,13,12,8,6,2,6
+Bearbeitungsfehler Sandausbruch Sandausbruch Teil Gießparameter optimiert,7,8,18,-1,-1,-1,1,7,7,13,7,13,-1,21,-1,11,-1,9
+Formdruckabweichung HandlingSchaden vs Lunker Form nicht konform Schleifnacharbeit notwendig,0,0,16,5,4,4,0,0,10,0,10,0,1,11,1,12,1,10
+Röntgenprüfung zeigt Kaltlauf in Zone HandlingSchaden Verdacht Formüberhitzung,4,4,4,-1,-1,-1,5,9,11,10,11,10,14,5,9,5,2,5
+Maßabweichung Lunker Lunkermm vs Sandbindermangel±Sandausbruchmm Chargenanalyse Mg Ti Nacharbeit gemäß,8,12,12,-1,-1,-1,4,5,4,5,9,5,1,23,1,17,1,15
+Kernbruch Ursache Sandbindermangel Verdacht Sandfeuchteabweichung,2,2,17,-1,-1,-1,3,4,3,4,3,16,4,7,2,9,3,3
+Schmelzofen Holding Furnace TempAbweichung °C Normabweichung Wärmenachbehandlung eingeleitet,5,5,5,1,2,2,5,2,5,2,15,2,-1,1,-1,1,2,1
+Qualitätsabweichung Lunker Sandausbruch Raueit Ra Chargenanalyse Mg Ti Gießparameter optimiert,3,3,2,-1,-1,-1,2,7,2,7,17,7,-1,-1,-1,-1,2,-1
+Röntgenprüfung zeigt Formversatz in Zone HandlingSchaden Normabweichung Gießparameter optimiert,4,4,4,4,3,3,2,9,2,10,17,10,13,5,8,5,2,5
+Röntgenprüfung zeigt Gasporosität in Zone Kaltlauf,4,4,4,4,3,3,2,9,2,10,5,10,13,5,8,5,2,5
+Ausschuss Materialfehler an Radträger Ursache Lunker,2,10,10,-1,-1,-1,8,4,13,4,13,4,5,7,2,9,3,3
+Härteprüfung Sandausbruch HandlingSchaden vs Kaltlauf Normabweichung,8,14,14,-1,-1,-1,0,8,10,8,16,8,1,19,1,16,1,14
+Oberflächenrauheit Kaltlauf außerhalb Spezifikation,7,7,7,14,10,10,8,6,8,6,8,6,8,9,4,10,2,8
+Formdruckabweichung Sandbindermangel vs Lunker ¦ Form,0,0,16,5,4,4,9,0,0,0,0,0,1,11,1,12,1,10
+Spektralanalyse zeigt TiMangel Charge,9,9,9,12,8,8,6,9,6,9,6,17,0,13,0,6,0,6
+Schmelzofen Holding Furnace TempAbweichung °C Verdacht Legierungsdrift,5,5,5,-1,-1,-1,8,2,8,2,8,2,14,1,9,1,2,1
+Schmelzofen Schmelzofen TempAbweichung °C,5,5,5,1,2,2,5,2,5,12,15,12,7,0,-1,0,2,0
+Legierungsabweichung Cu Sandausbruch vs Soll Kaltlauf Verdacht Formüberhitzung,6,6,6,-1,-1,-1,0,5,10,14,10,14,1,16,1,13,1,11
+Maßabweichung Kernschale Verschleiß Kernschale Verschleißmm vs Kaltlauf±HandlingSchadenmm,8,12,12,10,7,7,0,5,0,5,16,15,1,24,1,17,1,15
+Härteprüfung Kernschale Verschleiß HandlingSchaden vs Kaltlauf Wärmenachbehandlung eingeleitet,8,14,8,7,-1,-1,0,5,12,5,10,5,1,22,1,17,1,15
+Formdruckabweichung Kernschale Verschleiß vs Sandausbruch Form,0,0,16,5,4,4,0,0,10,0,16,0,-1,11,-1,12,-1,10
+Härteprüfung Lunker Kernschale Verschleiß vs Kaltlauf,8,14,14,6,5,5,0,8,10,8,16,8,1,19,1,16,1,14
+Oberflächenrauheit Sandausbruch außerhalb Spezifikation Chargenanalyse C Si,3,1,7,-1,-1,-1,5,7,5,13,15,13,7,20,-1,11,2,9
+Maßabweichung Kaltlauf Sandbindermangelmm vs Sandausbruch±HandlingSchadenmm Chargenanalyse C Si,3,1,1,10,7,7,4,5,4,5,9,5,1,-1,1,-1,1,-1
+Maßabweichung Lunker Kernschale Verschleißmm vs Sandausbruch±Kernschale Verschleißmm,8,12,12,10,7,7,0,5,0,5,16,15,-1,24,-1,17,-1,15
+Formdruckabweichung HandlingSchaden vs Kaltlauf Form teilkonform,0,0,16,5,4,4,0,0,0,0,0,0,1,11,1,12,1,10
+Formdruckabweichung Sandbindermangel vs HandlingSchaden Form Verdacht Legierungsdrift,0,0,6,-1,-1,-1,0,0,10,0,10,0,1,11,1,12,1,10
+Röntgenprüfung zeigt Kaltlauf in Zone Lunker Wärmenachbehandlung eingeleitet,4,4,4,4,3,3,2,9,2,10,2,10,-1,5,-1,5,2,5
+Bearbeitungsfehler Kernschale Verschleiß Sandbindermangel Teil Chargenanalyse Mg Ti,3,3,18,-1,-1,-1,1,7,11,13,17,13,-1,21,-1,11,-1,9
+Spektralanalyse zeigt CuMangel Charge nicht konform,9,9,9,12,8,8,2,9,2,9,2,17,11,12,6,6,2,6
+Spektralanalyse zeigt SiMangel Charge Schleifnacharbeit notwendig,9,9,9,-1,-1,-1,2,9,2,9,2,17,11,13,6,6,2,6
+Bearbeitungsfehler Sandbindermangel Kernschale Verschleiß ¦ Teil ¦ Prüfbericht Gießparameter optimiert,7,8,18,-1,-1,-1,1,7,7,13,7,13,-1,21,-1,11,2,9
+Schmelzofen Schmelzofen TempAbweichung °C Verdacht Sandfeuchteabweichung,5,5,5,1,2,2,5,2,5,12,15,12,-1,0,5,0,2,0
+Spektralanalyse zeigt MgMangel Charge Verdacht Legierungsdrift Wärmenachbehandlung eingeleitet,9,9,3,12,8,8,2,9,2,9,2,9,11,10,6,6,2,6
+Kernbruch Ursache Kernschale Verschleiß,2,2,17,11,9,9,3,4,3,4,3,16,3,4,3,4,4,3
+Maßabweichung Lunker Sandausbruchmm vs Kaltlauf±Kernschale Verschleißmm Nacharbeit gemäß,8,12,12,10,7,7,0,5,10,5,16,5,1,23,1,17,1,15
+Dichtheitsprüfung Fehler HandlingSchaden mbarmin vs max HandlingSchaden Wärmenachbehandlung eingeleitet,1,13,13,3,1,1,4,3,4,3,4,3,-1,2,-1,2,-1,2
+Qualitätsabweichung Lunker Sandbindermangel Raueit Ra Kernreparatur läuft,0,2,2,8,-1,-1,7,7,7,7,7,7,12,17,7,14,2,12
+Qualitätsabweichung Lunker Kernschale Verschleiß Raueit Ra teilkonform,0,2,2,-1,-1,-1,7,7,7,7,7,7,12,17,7,14,2,12
+Maßabweichung Sandbindermangel Sandausbruchmm vs Kernschale Verschleiß±Sandausbruchmm teilkonform Gießparameter optimiert,8,12,12,-1,-1,-1,9,5,9,5,12,15,1,-1,1,17,1,15
+Oberflächenrauheit HandlingSchaden außerhalb Spezifikation Schleifnacharbeit notwendig,7,7,7,-1,-1,-1,8,6,8,6,8,6,14,9,9,10,2,8
+Härteprüfung Sandausbruch Kernschale Verschleiß vs Kaltlauf,8,14,14,6,5,5,0,8,10,8,16,8,-1,19,-1,16,-1,14
+Qualitätsabweichung HandlingSchaden Kaltlauf Porosität Prüfbericht Nacharbeit gemäß,0,14,0,-1,-1,-1,1,7,7,7,1,7,12,18,7,15,2,13
+Kokillenriss an Zylinderkopf Charge Schleifnacharbeit notwendig,4,4,15,-1,-1,-1,1,1,11,1,11,19,14,8,9,7,2,7
+Dichtheitsprüfung Fehler Kernschale Verschleiß mbarmin vs max Sandausbruch,1,13,13,3,1,1,9,3,9,3,9,3,1,2,1,2,1,2
+Ausschuss Oberflächenfehler an Zylinderkopf Ursache Gießtemp zu niedrig °C °C teilkonform,2,10,10,-1,-1,-1,8,4,14,4,14,4,-1,7,-1,9,-1,3
+Ausschuss Oberflächenfehler an Getriebegehäuse Ursache Gießtemp zu niedrig °C °C Prüfbericht Gießparameter optimiert,2,10,10,-1,-1,-1,8,4,14,4,14,4,-1,7,-1,9,-1,3
+Dichtheitsprüfung Fehler Sandausbruch mbarmin vs max Sandausbruch,1,13,13,3,1,1,4,3,9,3,9,3,1,2,1,2,1,2
+Maßabweichung Kernschale Verschleiß Lunkermm vs Sandausbruch±Sandbindermangelmm,8,12,12,10,7,7,0,5,0,5,18,15,-1,24,-1,17,-1,15
+Oberflächenrauheit Lunker außerhalb Spezifikation Chargenanalyse Mg Ti,3,3,7,-1,-1,-1,2,7,2,13,2,13,-1,20,-1,11,2,9
+Schmelzofen Holding Furnace TempAbweichung °C,5,5,5,1,2,2,5,2,5,2,15,2,9,1,5,1,2,1
+Bearbeitungsfehler Kaltlauf Lunker Teil,7,8,18,2,1,1,7,7,7,13,7,13,12,21,7,11,2,9
+Röntgenprüfung zeigt Kokillenriss in Zone HandlingSchaden Gießparameter optimiert,4,4,4,4,3,3,2,9,2,10,2,10,-1,5,-1,5,-1,5
+Kernbruch Ursache Kernschale Verschleiß Verdacht Formüberhitzung,2,2,17,-1,-1,-1,3,4,3,4,3,16,2,7,3,9,4,3
+Dichtheitsprüfung Fehler Sandausbruch mbarmin vs max Sandbindermangel Wärmenachbehandlung eingeleitet,1,13,13,3,1,1,4,3,4,3,4,3,1,2,1,2,1,2
+Härteprüfung Sandausbruch Kernschale Verschleiß vs Sandausbruch Gießparameter optimiert,8,14,14,-1,-1,-1,0,8,10,8,10,8,1,19,1,16,1,14
+Röntgenprüfung zeigt Formversatz in Zone Kernschale Verschleiß Nacharbeit gemäß,4,4,4,4,3,3,5,9,11,10,11,10,14,5,9,5,2,5
+Formdruckabweichung Kernschale Verschleiß vs HandlingSchaden Form Gießparameter optimiert,0,0,16,-1,-1,-1,0,0,10,0,0,0,1,11,1,12,1,10
+Ausschuss Funktionstest an Radträger Ursache HandlingSchaden Schleifnacharbeit notwendig,2,10,10,-1,-1,-1,3,4,13,4,13,4,6,7,2,9,3,3
+Bearbeitungsfehler Kernschale Verschleiß Lunker Teil nicht konform Gießparameter optimiert,7,8,18,-1,-1,-1,7,7,7,13,7,13,-1,21,-1,11,2,9
+Dichtheitsprüfung Fehler Sandausbruch mbarmin vs max Kaltlauf Verdacht Sandfeuchteabweichung,1,13,13,3,1,1,9,3,9,3,12,3,1,2,1,2,1,2
+Dichtheitsprüfung Fehler HandlingSchaden mbarmin vs max Lunker Verdacht Legierungsdrift,1,13,13,-1,-1,-1,9,3,9,3,12,3,1,2,1,2,1,2
+Sandfeuchte HandlingSchaden außerhalb Toleranz Chargenanalyse C Si Nacharbeit gemäß,3,1,1,-1,-1,-1,1,8,11,11,11,11,14,3,9,3,2,4
+Gasporosität an Radträger Charge Verdacht Sandfeuchteabweichung,2,2,15,-1,-1,-1,5,1,8,1,8,1,14,15,9,7,2,7
+Formdruckabweichung Sandausbruch vs Lunker Form,0,0,16,5,4,4,0,0,0,0,0,0,1,11,1,12,1,10
+Qualitätsabweichung Kaltlauf Sandbindermangel Porosität,0,14,0,-1,-1,-1,1,7,7,7,7,7,-1,18,-1,15,2,13
+Ausschuss Materialfehler an Getriebegehäuse Ursache HandlingSchaden,2,10,10,-1,-1,-1,3,4,13,4,13,4,4,7,2,9,3,3
+Härteprüfung Sandbindermangel Lunker vs Lunker ¦ Chargenanalyse Mg Ti,8,14,14,-1,-1,-1,4,8,4,8,9,8,1,19,1,16,1,14
+Röntgenprüfung zeigt Kaltlauf in Zone Sandausbruch Nacharbeit gemäß,4,4,4,4,3,3,5,9,11,10,11,10,14,5,9,5,2,5
+Kokillenriss an Getriebegehäuse Charge Wärmenachbehandlung eingeleitet,2,2,8,-1,-1,-1,5,1,11,1,11,1,14,15,9,7,2,7
+Dichtheitsprüfung Fehler HandlingSchaden mbarmin vs max Kaltlauf Chargenanalyse C Si,1,13,13,3,1,1,4,3,4,3,4,3,-1,2,-1,2,-1,2
+Oberflächenrauheit Kernschale Verschleiß außerhalb Spezifikation,7,7,7,14,10,10,8,6,8,6,8,6,-1,9,2,10,3,8
+Kernbruch Ursache Sandbindermangel,2,2,17,11,9,9,3,4,3,4,3,18,-1,7,-1,9,-1,3
+Dichtheitsprüfung Fehler HandlingSchaden mbarmin vs max Lunker Verdacht Sandfeuchteabweichung,1,13,13,3,1,1,4,3,9,3,9,3,1,2,1,2,1,2
+Kokillenriss an Radträger Charge Normabweichung Schleifnacharbeit notwendig,2,2,15,-1,-1,-1,1,1,8,1,11,19,14,15,9,7,2,7
+Oberflächenrauheit Kaltlauf außerhalb Spezifikation ¦ Chargenanalyse Mg Ti Wärmenachbehandlung eingeleitet,3,3,3,-1,-1,-1,2,7,2,13,5,13,13,20,8,11,2,9
+Kokillenriss an Zylinderkopf ¦ Charge ¦ Prüfbericht,4,4,15,-1,-1,-1,5,1,11,1,11,19,14,8,9,7,2,7
+Formdruckabweichung Sandbindermangel vs Lunker Form,0,0,16,5,4,4,9,0,0,0,18,0,1,11,1,12,1,10
+Legierungsabweichung Si Kernschale Verschleiß vs Soll Sandausbruch,6,6,19,9,6,6,0,5,0,14,0,14,1,16,1,13,1,11
+Röntgenprüfung zeigt Kokillenriss in Zone Sandbindermangel Normabweichung Wärmenachbehandlung eingeleitet,4,4,4,-1,-1,-1,2,9,2,10,2,10,-1,5,-1,5,2,5
+Formdruckabweichung Kaltlauf vs HandlingSchaden Form Normabweichung Schleifnacharbeit notwendig,0,0,16,5,4,4,0,0,10,0,10,0,1,11,1,12,1,10
+Maßabweichung Kaltlauf HandlingSchadenmm vs Kaltlauf±Sandbindermangelmm Chargenanalyse C Si Gießparameter optimiert,3,1,1,10,7,7,4,5,4,5,4,5,1,-1,1,-1,1,-1
+Formdruckabweichung Sandausbruch vs Sandausbruch Form,0,0,16,5,4,4,0,0,10,0,10,0,1,11,1,12,1,10
+Maßabweichung Sandausbruch Sandausbruchmm vs Kaltlauf±Kernschale Verschleißmm Verdacht Legierungsdrift,6,12,6,-1,-1,-1,0,5,10,5,16,5,1,23,1,17,1,15
+Qualitätsabweichung Kaltlauf Kernschale Verschleiß Raueit Ra Nacharbeit gemäß,0,2,2,-1,-1,-1,7,7,1,7,19,7,-1,17,-1,14,-1,12
+Kernbruch Ursache Sandbindermangel konform Gießparameter optimiert,2,2,17,-1,-1,-1,7,4,1,4,19,18,-1,-1,-1,-1,2,3
+Kernbruch Ursache HandlingSchaden,2,10,17,13,8,8,3,4,3,4,3,18,2,6,3,8,4,3
+Röntgenprüfung zeigt Kokillenriss in Zone Kernschale Verschleiß Nacharbeit gemäß,4,4,4,-1,-1,-1,5,9,11,10,11,10,14,5,9,5,2,5
+Maßabweichung Sandbindermangel Kernschale Verschleißmm vs Kaltlauf±Kaltlaufmm Chargenanalyse C Si,3,1,1,10,7,7,4,5,9,5,9,5,1,-1,1,-1,1,-1
+Maßabweichung Sandausbruch HandlingSchadenmm vs Kaltlauf±Sandbindermangelmm Chargenanalyse C Si Schleifnacharbeit notwendig,3,1,1,10,7,7,4,5,9,5,12,5,1,-1,1,-1,1,-1
+Kokillenriss an Getriebegehäuse Charge,2,2,15,-1,-1,-1,1,1,11,1,1,1,12,15,7,7,2,7
+Bearbeitungsfehler Kernschale Verschleiß Kernschale Verschleiß Teil Nacharbeit gemäß,7,8,18,-1,-1,-1,7,7,1,13,19,13,-1,-1,-1,11,2,9
+Schmelzofen Schmelzofen TempAbweichung °C nicht konform,5,5,5,1,2,2,5,2,5,12,15,12,14,0,9,0,2,0
+Oberflächenrauheit Kaltlauf außerhalb Spezifikation Normabweichung,7,7,7,14,10,10,8,6,8,6,8,6,-1,9,-1,10,2,8
+Ausschuss Maßhaltigkeit an Zylinderkopf Ursache Gießtemp zu niedrig °C °C Chargenanalyse Mg Ti Kernreparatur läuft,3,3,10,-1,-1,-1,5,4,5,4,15,4,-1,7,-1,9,-1,3
+Dichtheitsprüfung Fehler Sandbindermangel mbarmin vs max Kernschale Verschleiß Chargenanalyse C Si,1,13,13,3,1,1,4,3,4,3,4,3,-1,2,-1,2,-1,2
+Röntgenprüfung zeigt Sandausbruch in Zone HandlingSchaden Wärmenachbehandlung eingeleitet,4,4,4,4,3,3,2,9,5,10,5,10,13,5,8,5,2,5
+Qualitätsabweichung Sandbindermangel Sandausbruch Porosität Kernreparatur läuft,0,14,0,-1,-1,-1,7,7,1,7,19,7,12,18,7,15,2,13
+Sandfeuchte Kaltlauf außerhalb Toleranz Chargenanalyse C Si,3,1,1,-1,-1,-1,1,8,11,11,11,11,-1,3,-1,3,2,4
+Röntgenprüfung zeigt Gasporosität in Zone Kaltlauf,4,4,4,4,3,3,2,9,2,10,5,10,13,5,8,5,2,5
+Kokillenriss an Zylinderkopf Charge Normabweichung Gießparameter optimiert,4,4,15,-1,-1,-1,2,1,2,1,17,19,13,8,8,7,2,7
+Formdruckabweichung Sandbindermangel vs Kernschale Verschleiß Form,0,0,16,5,4,4,0,0,10,0,16,0,1,11,1,12,1,10
+Spektralanalyse zeigt TiMangel Charge,9,9,9,12,8,8,6,9,6,9,6,17,0,13,0,6,0,6
+Maßabweichung Sandbindermangel Sandbindermangelmm vs Kernschale Verschleiß±HandlingSchadenmm,8,12,12,10,7,7,9,5,0,5,18,15,1,24,1,17,1,15
+Oberflächenrauheit Sandausbruch außerhalb Spezifikation Wärmenachbehandlung eingeleitet,7,7,7,-1,-1,-1,8,6,8,6,8,6,10,9,5,10,2,8
+Röntgenprüfung zeigt Sandausbruch in Zone Kaltlauf Chargenanalyse Mg Ti,4,3,4,-1,-1,-1,6,9,2,10,2,10,11,5,6,5,2,5
+Kokillenriss an Radträger Charge,2,2,15,0,0,0,1,1,11,1,11,1,14,15,9,7,2,7
+Ausschuss Maßhaltigkeit an Zylinderkopf Ursache Gießtemp zu niedrig °C °C Chargenanalyse C Si,3,10,10,-1,-1,-1,5,4,5,4,15,4,-1,7,-1,9,-1,3
+Röntgenprüfung zeigt Formversatz in Zone Kaltlauf Chargenanalyse Mg Ti,4,4,4,-1,-1,-1,6,9,2,10,2,10,11,5,6,5,2,5
+Bearbeitungsfehler Kernschale Verschleiß Lunker Teil Prüfbericht Schleifnacharbeit notwendig,7,8,18,-1,-1,-1,1,7,7,13,1,13,12,21,7,11,2,9
+Bearbeitungsfehler Lunker Sandausbruch Teil Wärmenachbehandlung eingeleitet,7,8,8,7,-1,-1,1,7,11,13,11,13,14,21,9,11,2,9
+Kernbruch Ursache HandlingSchaden teilkonform,2,10,17,13,8,8,3,4,3,4,3,18,4,6,2,8,3,3
+Spektralanalyse zeigt MgMangel Charge Prüfbericht Kernreparatur läuft,9,9,9,-1,-1,-1,6,9,2,9,2,17,11,13,6,6,2,6
+Dichtheitsprüfung Fehler HandlingSchaden mbarmin vs max Sandausbruch Kernreparatur läuft,1,13,13,3,1,1,9,3,9,3,12,3,1,2,1,2,1,2
+Qualitätsabweichung Sandausbruch Sandbindermangel Porosität,0,14,0,-1,-1,-1,7,7,7,7,7,7,12,18,7,15,2,13
+Sandfeuchte Kaltlauf außerhalb Toleranz Wärmenachbehandlung eingeleitet,7,11,11,-1,-1,-1,1,8,8,11,1,11,12,3,7,3,2,4
+Kernbruch Ursache Sandbindermangel Prüfbericht,2,10,17,11,9,9,3,4,13,4,13,18,6,7,2,9,3,3
+Spektralanalyse zeigt CuMangel Charge Kernreparatur läuft,9,9,9,12,8,8,2,9,2,9,2,17,11,13,6,6,2,6
+Spektralanalyse zeigt SiMangel ¦ Charge Gießparameter optimiert,9,9,9,-1,-1,-1,6,9,6,9,6,17,0,13,0,6,0,6
+Kernbruch Ursache Kernschale Verschleiß,2,2,17,11,9,9,3,4,3,4,3,16,3,4,3,4,4,3
+Ausschuss Maßhaltigkeit an Getriebegehäuse Ursache Sandfeuchte zu hoch ≥ teilkonform,2,10,10,-1,-1,-1,8,4,13,4,13,4,5,7,2,9,3,3
+Maßabweichung Sandbindermangel Sandbindermangelmm vs Kernschale Verschleiß±Kaltlaufmm,8,12,12,10,7,7,9,5,0,5,18,15,1,24,1,17,1,15
+Qualitätsabweichung Kernschale Verschleiß HandlingSchaden Raueit Ra Wärmenachbehandlung eingeleitet,0,2,2,-1,-1,-1,1,7,1,7,1,7,12,17,7,14,2,12
+Gasporosität an Radträger Charge Prüfbericht,4,2,15,-1,-1,-1,5,1,5,1,15,1,9,15,5,7,2,7
+Röntgenprüfung zeigt Kokillenriss in Zone Sandausbruch,4,4,4,4,3,3,2,9,5,10,5,10,13,5,8,5,2,5
+Sandausbruch an Zylinderkopf Charge,4,4,15,0,0,0,5,1,5,1,5,19,13,8,8,7,2,7
+Spektralanalyse zeigt TiMangel Charge Verdacht Formüberhitzung Kernreparatur läuft,9,9,9,-1,-1,-1,5,9,5,9,5,17,13,13,8,6,2,6
+Dichtheitsprüfung Fehler HandlingSchaden mbarmin vs max Sandausbruch teilkonform,1,13,13,3,1,1,4,3,4,3,9,3,1,2,1,2,1,2
+Qualitätsabweichung Sandbindermangel Lunker Dickenmaß Normabweichung,0,2,0,-1,-1,-1,9,7,12,7,12,7,1,18,1,15,1,13
+Kernbruch Ursache HandlingSchaden,2,10,17,13,8,8,3,4,3,4,3,18,2,6,3,8,4,3
+Bearbeitungsfehler HandlingSchaden HandlingSchaden Teil Prüfbericht,7,8,18,-1,1,1,1,7,8,13,1,13,12,21,7,11,2,9
+Gasporosität an Zylinderkopf Charge,4,4,15,0,0,0,2,1,5,1,5,19,13,8,8,7,2,7
+Legierungsabweichung Mg HandlingSchaden vs Soll Sandbindermangel Schleifnacharbeit notwendig,6,6,19,9,6,6,4,5,9,14,9,14,1,16,1,13,1,11
+Oberflächenrauheit Lunker außerhalb Spezifikation Gießparameter optimiert,7,7,7,-1,-1,-1,5,6,11,6,11,6,14,9,9,10,2,8
+Härteprüfung Lunker Kaltlauf vs Sandbindermangel Chargenanalyse C Si,3,1,1,-1,-1,-1,4,8,9,8,9,8,1,19,1,16,1,14
+Härteprüfung Sandausbruch HandlingSchaden vs HandlingSchaden teilkonform,8,14,14,-1,-1,-1,0,8,10,8,16,8,1,19,1,16,1,14
+Dichtheitsprüfung Fehler HandlingSchaden mbarmin vs max HandlingSchaden Chargenanalyse C Si,1,13,13,3,1,1,4,3,4,3,4,3,-1,2,-1,2,-1,2
+Qualitätsabweichung Kaltlauf Kaltlauf Dickenmaß,0,14,0,-1,-1,-1,7,7,7,7,7,7,12,18,7,15,2,13
+Formdruckabweichung Sandbindermangel vs Kaltlauf Form Normabweichung Gießparameter optimiert,0,0,16,5,4,4,9,0,12,0,12,0,1,11,1,12,1,10
+Härteprüfung Kaltlauf Sandbindermangel vs Kaltlauf Nacharbeit gemäß,8,14,14,-1,-1,-1,0,5,10,8,10,8,1,19,1,16,1,14
+Schmelzofen Holding Furnace TempAbweichung °C Verdacht Formüberhitzung Kernreparatur läuft,5,5,5,1,2,2,8,2,8,2,8,2,8,1,4,1,2,1
+Legierungsabweichung Ti Kernschale Verschleiß vs Soll Kernschale Verschleiß Verdacht Sandfeuchteabweichung Schleifnacharbeit notwendig,6,6,19,-1,-1,-1,0,5,12,14,10,14,1,16,1,13,1,11
+Qualitätsabweichung Sandausbruch HandlingSchaden Porosität,0,14,0,-1,-1,-1,7,7,7,7,7,7,12,18,7,15,2,13
+Dichtheitsprüfung Fehler Sandbindermangel mbarmin vs max Lunker konform,1,13,13,3,1,1,4,3,4,3,9,3,1,2,1,2,1,2
+Röntgenprüfung zeigt Gasporosität in Zone Lunker,4,4,4,4,3,3,2,9,2,10,2,10,-1,5,-1,5,2,5
+Maßabweichung Kaltlauf Kernschale Verschleißmm vs Sandausbruch±Sandbindermangelmm,8,12,12,10,7,7,0,5,0,5,18,15,1,24,1,17,1,15
+Maßabweichung Kaltlauf Kernschale Verschleißmm vs Kaltlauf±Lunkermm ¦ Normabweichung,8,12,12,10,7,7,0,5,0,5,0,15,1,24,1,17,1,15
+Kernbruch Ursache Kernschale Verschleiß Verdacht Legierungsdrift,2,2,6,-1,-1,-1,3,4,3,4,3,16,-1,7,-1,9,-1,3
+Ausschuss Maßhaltigkeit an Radträger Ursache Sandfeuchte zu hoch ≥ Prüfbericht,2,10,10,-1,-1,-1,8,4,14,4,14,4,-1,7,-1,9,-1,3
+Dichtheitsprüfung Fehler HandlingSchaden mbarmin vs max Sandbindermangel Chargenanalyse Mg Ti,1,13,13,3,1,1,4,3,4,3,4,3,-1,2,-1,2,-1,2
+Maßabweichung Kaltlauf Lunkermm vs HandlingSchaden±Kernschale Verschleißmm nicht konform,8,12,12,10,7,7,0,5,0,5,18,15,1,24,1,17,1,15
+Dichtheitsprüfung Fehler Sandbindermangel mbarmin vs max Sandbindermangel Gießparameter optimiert,1,13,13,3,1,1,4,3,4,3,4,3,-1,2,-1,2,-1,2
+Kernbruch Ursache Sandbindermangel Prüfbericht,2,10,17,11,9,9,3,4,13,4,13,18,6,7,2,9,3,3
+Sandfeuchte Sandbindermangel außerhalb Toleranz Chargenanalyse C Si Nacharbeit gemäß,3,1,1,-1,-1,-1,1,8,11,11,11,11,14,3,9,3,2,4
+Schmelzofen Holding Furnace TempAbweichung °C Prüfbericht,5,5,5,1,2,2,5,2,5,2,15,2,-1,1,-1,1,-1,1
+Röntgenprüfung zeigt Sandausbruch in Zone HandlingSchaden Chargenanalyse C Si Wärmenachbehandlung eingeleitet,3,1,3,-1,-1,-1,2,9,2,10,2,10,11,5,6,5,2,5
+Röntgenprüfung zeigt Lunker in Zone Lunker,4,4,4,4,3,3,2,9,2,10,2,10,-1,5,-1,5,2,5
+Kernbruch ¦ Ursache HandlingSchaden ¦ Normabweichung,2,2,17,-1,-1,-1,7,4,1,4,19,16,-1,7,-1,9,-1,3
+Qualitätsabweichung Sandbindermangel Kaltlauf Raueit Ra Verdacht Formüberhitzung,0,2,2,-1,-1,-1,7,7,1,7,19,7,-1,17,-1,14,2,12
+Bearbeitungsfehler HandlingSchaden Sandbindermangel Teil Wärmenachbehandlung eingeleitet,7,8,8,7,-1,-1,1,7,11,13,11,13,-1,21,-1,11,2,9
+Spektralanalyse zeigt MgMangel ¦ Charge,9,9,9,12,8,8,6,9,6,9,6,9,0,13,0,6,0,6
+Legierungsabweichung Cu Kaltlauf vs Soll Sandbindermangel Chargenanalyse C Si,6,1,1,-1,-1,-1,4,5,4,14,4,14,1,16,1,13,1,11
+Bearbeitungsfehler Sandbindermangel Kaltlauf Teil Chargenanalyse C Si,3,1,1,-1,-1,-1,2,7,11,13,17,13,-1,21,-1,11,-1,9
+Kaltlauf an Radträger Charge,2,2,15,0,0,0,1,1,8,1,11,1,14,15,9,7,2,7
+Legierungsabweichung Mg Lunker vs Soll Sandausbruch Nacharbeit gemäß,6,6,19,-1,-1,-1,9,5,12,14,12,14,1,16,1,13,1,11
+Kernbruch Ursache Sandbindermangel,2,2,17,11,9,9,3,4,3,4,3,18,-1,7,-1,9,-1,3
+Legierungsabweichung Ti Sandbindermangel vs Soll Sandausbruch Normabweichung Kernreparatur läuft,6,6,19,9,6,6,9,5,12,14,0,14,1,16,1,13,1,11
+Oberflächenrauheit Kaltlauf außerhalb Spezifikation,7,7,7,14,10,10,8,6,8,6,8,6,8,9,4,10,2,8
+Härteprüfung Kaltlauf Lunker vs Lunker Gießparameter optimiert,8,14,14,-1,-1,-1,9,8,9,8,12,8,1,19,1,16,1,14
+Härteprüfung Sandausbruch Kernschale Verschleiß vs Lunker,8,14,14,6,5,5,0,8,10,8,16,8,-1,19,-1,16,-1,14
+Dichtheitsprüfung Fehler Kaltlauf mbarmin vs max HandlingSchaden Prüfbericht,1,13,13,3,1,1,4,3,4,3,4,3,1,2,1,2,1,2
+Lunker an Radträger Charge nicht konform Nacharbeit gemäß,0,2,15,-1,-1,-1,1,1,8,1,1,1,12,15,7,7,2,7
+Legierungsabweichung Cu Sandausbruch vs Soll Kaltlauf ¦ Normabweichung Nacharbeit gemäß,6,6,19,-1,-1,-1,9,5,12,14,10,14,1,16,1,13,1,11
+Kernbruch Ursache Sandbindermangel Normabweichung Schleifnacharbeit notwendig,2,2,17,-1,-1,-1,3,4,13,4,13,16,-1,7,2,9,3,3
+Bearbeitungsfehler Sandbindermangel Sandbindermangel Teil Prüfbericht Nacharbeit gemäß,7,8,18,2,1,1,1,7,8,13,1,13,12,21,7,11,2,9
+Dichtheitsprüfung Fehler Kernschale Verschleiß mbarmin vs max Lunker Gießparameter optimiert,1,13,13,3,1,1,4,3,4,3,9,3,1,2,1,2,1,2
+Röntgenprüfung zeigt Kokillenriss in Zone HandlingSchaden Prüfbericht,4,4,4,4,3,3,2,9,2,10,5,10,13,5,8,5,2,5
+Kernbruch Ursache Kernschale Verschleiß Wärmenachbehandlung eingeleitet,2,2,17,-1,-1,-1,3,4,13,4,13,18,-1,7,-1,9,-1,3
+Spektralanalyse zeigt SiMangel Charge Chargenanalyse C Si,9,9,9,-1,-1,-1,6,9,6,9,6,17,0,13,0,6,0,6
+Röntgenprüfung zeigt Sandausbruch in Zone Kaltlauf Normabweichung Gießparameter optimiert,4,4,4,4,3,3,2,9,11,10,17,10,-1,5,-1,5,2,5
+Qualitätsabweichung HandlingSchaden Lunker Raueit Ra Verdacht Legierungsdrift Kernreparatur läuft,0,2,2,-1,-1,-1,7,7,1,7,19,7,-1,17,-1,14,2,12
+Schmelzofen Holding Furnace TempAbweichung °C,5,5,5,1,2,2,5,2,5,2,15,2,9,1,5,1,2,1
+Spektralanalyse zeigt MgMangel Charge,9,9,9,12,8,8,6,9,6,9,6,9,0,13,0,6,0,6
+Sandausbruch an Radträger Charge,2,2,15,-1,-1,-1,8,1,8,1,8,1,14,15,9,7,2,7
+Spektralanalyse zeigt MgMangel Charge Kernreparatur läuft,9,9,9,12,8,8,6,9,2,9,2,17,11,13,6,6,2,6
+Sandfeuchte Sandbindermangel außerhalb Toleranz Schleifnacharbeit notwendig,7,11,11,15,11,11,1,8,7,11,1,11,12,3,7,3,2,4
+Legierungsabweichung Si Lunker vs Soll Sandbindermangel Verdacht Sandfeuchteabweichung Wärmenachbehandlung eingeleitet,6,6,6,-1,-1,-1,4,5,12,14,12,14,1,16,1,13,1,11
+Maßabweichung Kaltlauf Lunkermm vs HandlingSchaden±Kernschale Verschleißmm Verdacht Sandfeuchteabweichung Gießparameter optimiert,8,12,12,-1,-1,-1,9,5,0,5,0,15,1,-1,1,17,1,15
+Röntgenprüfung zeigt Kaltlauf in Zone Kaltlauf,4,4,4,4,3,3,2,9,2,10,5,10,13,5,8,5,2,5
+Kaltlauf an Getriebegehäuse Charge Verdacht Legierungsdrift,6,2,6,-1,-1,-1,1,7,7,7,1,7,12,9,7,10,2,8
+Dichtheitsprüfung Fehler Kernschale Verschleiß mbarmin vs max Sandbindermangel,1,13,13,3,1,1,4,3,9,3,9,3,1,2,1,2,1,2
+Spektralanalyse zeigt TiMangel Charge Verdacht Formüberhitzung,9,9,9,-1,-1,-1,2,9,2,9,5,17,-1,13,-1,6,-1,6
+Legierungsabweichung Si Lunker vs Soll Lunker Kernreparatur läuft,6,6,19,-1,-1,-1,9,5,9,14,12,14,1,16,1,13,1,11
+Dichtheitsprüfung Fehler HandlingSchaden mbarmin vs max Lunker Chargenanalyse C Si,1,13,13,3,1,1,4,3,4,3,4,3,-1,2,-1,2,-1,2
+Oberflächenrauheit Sandausbruch außerhalb Spezifikation,7,7,7,14,10,10,8,6,8,6,14,6,-1,9,-1,10,2,8
+Oberflächenrauheit Kaltlauf außerhalb Spezifikation Chargenanalyse C Si Wärmenachbehandlung eingeleitet,3,1,3,-1,-1,-1,2,7,5,13,5,13,-1,20,-1,11,2,9
+Ausschuss Oberflächenfehler an Zylinderkopf Ursache Kernschale Verschleiß Schleifnacharbeit notwendig,2,10,10,-1,-1,-1,3,4,13,4,13,4,6,7,2,9,3,3
+Kernbruch Ursache Sandbindermangel,2,2,17,11,9,9,3,4,3,4,3,18,-1,7,-1,9,-1,3
+Kaltlauf an Zylinderkopf Charge Verdacht Legierungsdrift Schleifnacharbeit notwendig,6,2,6,-1,-1,-1,1,7,11,7,11,7,12,-1,7,-1,2,-1
+Maßabweichung HandlingSchaden Sandbindermangelmm vs Lunker±Kaltlaufmm Verdacht Legierungsdrift Gießparameter optimiert,6,12,6,-1,-1,-1,9,5,9,5,9,15,1,-1,1,17,1,15
+Kernbruch Ursache HandlingSchaden Normabweichung Schleifnacharbeit notwendig,2,2,17,-1,-1,-1,3,4,3,4,3,16,4,7,2,9,3,3
+Formdruckabweichung Sandbindermangel vs Lunker Form nicht konform Gießparameter optimiert,0,0,16,5,4,4,9,0,9,0,12,0,1,11,1,12,1,10
+Dichtheitsprüfung Fehler HandlingSchaden mbarmin vs max Kaltlauf,1,13,13,3,1,1,4,3,4,3,9,3,1,2,1,2,1,2
+Bearbeitungsfehler Kernschale Verschleiß Sandausbruch Teil Normabweichung,7,8,18,-1,-1,-1,7,7,1,13,19,13,-1,21,-1,11,2,9
+Oberflächenrauheit Sandbindermangel außerhalb Spezifikation Normabweichung Wärmenachbehandlung eingeleitet,7,7,7,-1,-1,-1,5,6,11,6,11,6,14,9,9,10,2,8
+Sandfeuchte Sandausbruch außerhalb Toleranz,7,11,11,15,11,11,7,8,1,11,19,11,12,3,7,3,2,4
+Formdruckabweichung Lunker vs Sandbindermangel ¦ Form,0,0,16,5,4,4,9,0,0,0,0,0,1,11,1,12,1,10
+Spektralanalyse zeigt SiMangel Charge Prüfbericht Schleifnacharbeit notwendig,9,9,9,-1,-1,-1,2,9,2,9,2,17,-1,13,-1,6,2,6
+Sandausbruch an Radträger Charge Kernreparatur läuft,2,2,15,0,0,0,8,1,8,1,8,1,-1,15,2,7,3,7
+Qualitätsabweichung Sandbindermangel Lunker Dickenmaß Schleifnacharbeit notwendig,0,14,0,-1,-1,-1,9,7,12,7,12,7,-1,18,-1,15,-1,13
+Maßabweichung Lunker Sandbindermangelmm vs Sandausbruch±HandlingSchadenmm,8,12,12,10,7,7,9,5,9,5,18,15,-1,25,-1,17,-1,15
+Bearbeitungsfehler HandlingSchaden Sandbindermangel Teil Kernreparatur läuft,7,8,18,-1,-1,-1,7,7,1,13,19,13,-1,21,-1,11,2,9
+Schmelzofen Holding Furnace TempAbweichung °C,5,5,5,1,2,2,5,2,5,2,15,2,9,1,5,1,2,1
+Formversatz an Getriebegehäuse Charge Prüfbericht,0,0,15,-1,-1,-1,8,1,8,1,8,1,14,14,9,7,2,7
+Röntgenprüfung zeigt Formversatz in Zone Lunker nicht konform Gießparameter optimiert,4,4,4,4,3,3,2,9,2,10,17,10,-1,5,-1,5,2,5
+Maßabweichung Kaltlauf Sandausbruchmm vs Kaltlauf±Sandausbruchmm Normabweichung Schleifnacharbeit notwendig,8,12,12,-1,-1,-1,0,5,12,5,10,15,1,-1,1,17,1,15
+Kaltlauf an Radträger Charge Chargenanalyse C Si,3,1,1,-1,-1,-1,2,7,5,13,5,13,-1,20,-1,11,2,9
+Qualitätsabweichung HandlingSchaden Lunker Dickenmaß,0,14,0,-1,-1,-1,9,7,12,7,12,7,-1,18,-1,15,-1,13
+Röntgenprüfung zeigt Kaltlauf in Zone HandlingSchaden Prüfbericht Kernreparatur läuft,4,4,4,4,3,3,5,9,11,10,11,10,14,5,9,5,2,5
+Legierungsabweichung Cu Sandbindermangel vs Soll Sandausbruch Chargenanalyse C Si,6,1,1,-1,-1,-1,4,5,4,14,4,14,1,16,1,13,1,11
+Qualitätsabweichung Sandausbruch HandlingSchaden Porosität,0,14,0,-1,-1,-1,7,7,7,7,7,7,12,18,7,15,2,13
+Röntgenprüfung zeigt Formversatz in Zone Lunker Prüfbericht Schleifnacharbeit notwendig,4,4,4,4,3,3,2,9,5,10,5,10,-1,5,-1,5,2,5
+Bearbeitungsfehler HandlingSchaden Kernschale Verschleiß Teil,7,8,18,2,1,1,7,7,1,13,19,13,-1,21,-1,11,-1,9
+Härteprüfung Sandausbruch Kernschale Verschleiß vs Kernschale Verschleiß,8,14,14,6,5,5,0,8,10,8,16,8,-1,19,-1,16,-1,14
+Bearbeitungsfehler Sandbindermangel Sandbindermangel Teil Wärmenachbehandlung eingeleitet,7,8,8,7,-1,-1,1,7,11,13,11,13,-1,21,-1,11,2,9
+Härteprüfung Lunker Kernschale Verschleiß vs Kaltlauf,8,14,14,6,5,5,0,8,10,8,16,8,1,19,1,16,1,14
+Röntgenprüfung zeigt Sandausbruch in Zone Kernschale Verschleiß Schleifnacharbeit notwendig,4,4,4,-1,-1,-1,1,9,11,10,11,10,14,5,9,5,2,5
+Kernbruch Ursache HandlingSchaden Chargenanalyse C Si,3,1,17,-1,-1,-1,8,4,13,4,14,18,-1,6,2,8,3,3
+Oberflächenrauheit Lunker außerhalb Spezifikation Chargenanalyse Mg Ti,3,3,7,-1,-1,-1,2,7,2,13,2,13,-1,20,-1,11,2,9
+Oberflächenrauheit Sandausbruch außerhalb Spezifikation nicht konform,7,7,7,-1,-1,-1,8,6,13,6,13,6,-1,9,2,10,3,8
+Legierungsabweichung Ti Sandausbruch vs Soll Sandbindermangel Verdacht Formüberhitzung Schleifnacharbeit notwendig,6,6,6,-1,-1,-1,9,5,12,14,10,14,1,16,1,13,1,11
+Härteprüfung HandlingSchaden Sandbindermangel vs HandlingSchaden teilkonform Wärmenachbehandlung eingeleitet,8,14,8,7,-1,-1,9,5,12,5,12,5,1,22,1,17,1,15
+Schmelzofen Schmelzofen TempAbweichung °C Chargenanalyse C Si,5,5,5,1,2,2,2,2,2,12,5,12,-1,0,-1,0,2,0
+Maßabweichung Sandausbruch Kernschale Verschleißmm vs HandlingSchaden±Lunkermm Gießparameter optimiert,8,12,12,-1,-1,-1,9,5,0,5,18,15,1,-1,1,17,1,15
+Formdruckabweichung Sandausbruch vs Sandbindermangel Form Normabweichung,0,0,16,5,4,4,0,0,10,0,0,0,1,11,1,12,1,10
+Ausschuss Maßhaltigkeit an Getriebegehäuse Ursache Legierungsabweichung Si Normabweichung Kernreparatur läuft,2,10,10,-1,-1,-1,3,4,13,4,13,4,6,7,2,9,3,3
+Formdruckabweichung Sandbindermangel vs HandlingSchaden Form Prüfbericht,0,0,16,-1,-1,-1,9,0,12,0,12,0,1,11,1,12,1,10
+Legierungsabweichung Ti Lunker vs Soll Kaltlauf Schleifnacharbeit notwendig,6,6,19,-1,-1,-1,9,5,12,14,12,14,1,16,1,13,1,11
+Röntgenprüfung zeigt Gasporosität in Zone Lunker Nacharbeit gemäß,4,4,4,4,3,3,2,9,2,10,5,10,13,5,8,5,2,5
+Schmelzofen Schmelzofen TempAbweichung °C Verdacht Formüberhitzung Nacharbeit gemäß,5,5,5,1,2,2,8,2,8,12,8,12,8,0,4,0,2,0
+Sandfeuchte Lunker außerhalb Toleranz Normabweichung,7,11,11,15,11,11,1,8,7,11,7,11,12,3,7,3,2,4
+Ausschuss Funktionstest an Getriebegehäuse Ursache Legierungsabweichung Si Normabweichung,2,10,10,-1,-1,-1,8,4,13,4,13,4,-1,7,-1,9,-1,3
+Ausschuss Oberflächenfehler an Zylinderkopf Ursache Kaltlauf Nacharbeit gemäß,2,10,10,-1,-1,-1,3,4,13,4,13,4,6,7,2,9,3,3
+Härteprüfung Lunker HandlingSchaden vs Lunker Verdacht Sandfeuchteabweichung,8,14,6,-1,-1,-1,0,8,10,8,0,8,1,19,1,16,1,14
+Qualitätsabweichung Sandausbruch HandlingSchaden Porosität Chargenanalyse C Si Gießparameter optimiert,3,1,1,-1,-1,-1,2,7,2,7,17,7,-1,-1,-1,11,2,9
+Sandfeuchte Kaltlauf außerhalb Toleranz konform Gießparameter optimiert,7,11,11,-1,-1,-1,1,8,7,11,7,11,12,3,7,3,2,4
+Legierungsabweichung Si Sandausbruch vs Soll Kernschale Verschleiß Schleifnacharbeit notwendig,6,6,19,9,6,6,0,5,10,14,10,14,1,16,1,13,1,11
+Legierungsabweichung Ti Kernschale Verschleiß vs Soll Kaltlauf Kernreparatur läuft,6,6,19,9,6,6,0,5,10,14,10,14,1,16,1,13,1,11
+Qualitätsabweichung Lunker Sandbindermangel Dickenmaß,0,14,0,-1,-1,-1,9,7,12,7,12,7,1,18,1,15,1,13
+Bearbeitungsfehler Sandbindermangel Lunker Teil Prüfbericht,7,8,18,-1,-1,-1,1,7,11,13,11,13,-1,21,-1,11,-1,9
+Schmelzofen Schmelzofen TempAbweichung °C Verdacht Sandfeuchteabweichung Gießparameter optimiert,5,5,5,1,2,2,5,2,5,12,5,12,13,0,8,0,2,0
+Röntgenprüfung zeigt Gasporosität in Zone Kernschale Verschleiß Verdacht Legierungsdrift,4,4,4,-1,-1,-1,5,9,11,10,11,10,14,5,9,5,2,5
+Legierungsabweichung Si Kernschale Verschleiß vs Soll Sandbindermangel Prüfbericht Gießparameter optimiert,6,6,19,-1,-1,-1,4,5,9,14,9,14,1,16,1,13,1,11
+Röntgenprüfung zeigt Sandausbruch in Zone Lunker Nacharbeit gemäß,4,4,4,4,3,3,5,9,11,10,11,10,14,5,9,5,2,5
+Sandfeuchte HandlingSchaden außerhalb Toleranz Schleifnacharbeit notwendig,7,11,11,15,11,11,7,8,1,11,1,11,12,3,7,3,2,4
+Härteprüfung Sandbindermangel Lunker vs Kaltlauf,8,14,14,6,5,5,9,8,0,8,18,8,1,19,1,16,1,14
+Röntgenprüfung zeigt Kokillenriss in Zone HandlingSchaden Wärmenachbehandlung eingeleitet,4,4,4,4,3,3,2,9,2,10,5,10,11,5,6,5,2,5
+Kaltlauf an Getriebegehäuse Charge Prüfbericht,4,10,15,-1,-1,-1,5,1,8,1,8,1,14,14,9,7,2,7
+Spektralanalyse zeigt TiMangel Charge Gießparameter optimiert,9,9,9,12,8,8,6,9,6,9,6,17,0,13,0,6,0,6
+Spektralanalyse zeigt TiMangel Charge nicht konform,9,9,9,12,8,8,6,9,2,9,2,17,11,13,6,6,2,6
+Kernbruch Ursache HandlingSchaden Nacharbeit gemäß,2,10,17,13,8,8,3,4,3,4,3,4,-1,7,2,9,3,3
+Sandausbruch an Zylinderkopf Charge teilkonform Kernreparatur läuft,4,4,15,0,0,0,5,1,11,1,11,19,14,8,9,7,2,7
+Sandausbruch an Zylinderkopf Charge konform,4,4,15,-1,-1,-1,5,1,11,1,11,19,14,8,9,7,2,7
+Dichtheitsprüfung Fehler Kernschale Verschleiß mbarmin vs max Kernschale Verschleiß Normabweichung,1,13,13,3,1,1,9,3,9,3,12,3,1,2,1,2,1,2
+Lunker an Zylinderkopf Charge,4,4,15,0,0,0,2,1,2,1,17,19,-1,8,-1,7,2,7
+Schmelzofen Schmelzofen TempAbweichung °C Chargenanalyse Mg Ti,5,3,5,1,2,2,2,2,2,12,2,12,11,0,6,0,2,0
+Maßabweichung HandlingSchaden Sandbindermangelmm vs Kaltlauf±Sandbindermangelmm teilkonform Kernreparatur läuft,8,12,12,-1,-1,-1,9,5,0,5,18,15,1,24,1,17,1,15
+Sandfeuchte HandlingSchaden außerhalb Toleranz,7,11,11,15,11,11,7,8,7,11,7,11,12,3,7,3,2,4
+Qualitätsabweichung Lunker Kernschale Verschleiß Raueit Ra,0,2,2,8,-1,-1,7,7,1,7,19,7,-1,17,-1,14,2,12
+Bearbeitungsfehler Kernschale Verschleiß Lunker Teil Chargenanalyse C Si,3,1,1,-1,-1,-1,1,7,11,13,11,13,-1,21,-1,11,-1,9
+Maßabweichung Sandausbruch Lunkermm vs Lunker±Sandausbruchmm Kernreparatur läuft,8,12,12,-1,-1,-1,0,5,0,5,0,15,1,-1,1,17,1,15
+Kernbruch Ursache HandlingSchaden Normabweichung Kernreparatur läuft,2,2,17,-1,-1,-1,3,4,3,4,3,16,4,7,2,9,3,3
+Sandfeuchte Lunker außerhalb Toleranz teilkonform,7,11,11,15,11,11,1,8,7,11,7,11,12,3,7,3,2,4
+Spektralanalyse zeigt SiMangel ¦ Charge Kernreparatur läuft,9,9,9,-1,-1,-1,2,9,2,9,2,17,11,13,6,6,2,6
+Formdruckabweichung Sandausbruch vs Sandbindermangel Form,0,0,16,5,4,4,0,0,0,0,0,0,1,11,1,12,1,10
+Ausschuss Maßhaltigkeit an Getriebegehäuse Ursache Legierungsabweichung Si konform,2,10,10,-1,-1,-1,3,4,13,4,13,4,-1,7,-1,9,-1,3
+Kernbruch Ursache HandlingSchaden Normabweichung Nacharbeit gemäß,2,2,17,-1,-1,-1,3,4,3,4,13,16,4,7,2,9,3,3
+Qualitätsabweichung Lunker Lunker Dickenmaß Chargenanalyse Mg Ti,3,3,0,-1,-1,-1,2,7,2,7,17,7,-1,-1,-1,11,-1,9
+Sandfeuchte HandlingSchaden außerhalb Toleranz Normabweichung,7,11,11,15,11,11,7,8,7,11,1,11,12,3,7,3,2,4
+Bearbeitungsfehler Kernschale Verschleiß Sandausbruch Teil konform Kernreparatur läuft,7,8,18,-1,-1,-1,7,7,1,13,19,13,-1,21,-1,11,-1,9
+Qualitätsabweichung Sandausbruch Lunker Dickenmaß,0,14,0,-1,-1,-1,9,7,12,7,10,7,1,18,1,15,1,13
+Formdruckabweichung Lunker vs Kaltlauf Form Normabweichung,0,0,16,5,4,4,9,0,0,0,0,0,1,11,1,12,1,10
+Kokillenriss an Zylinderkopf Charge,4,4,15,0,0,0,2,1,11,1,17,19,14,8,9,7,2,7
+Härteprüfung Lunker Sandausbruch vs Kaltlauf,8,14,14,6,5,5,0,8,0,8,16,8,1,19,1,16,1,14
+Schmelzofen Schmelzofen TempAbweichung °C Chargenanalyse Mg Ti Schleifnacharbeit notwendig,5,3,5,1,2,2,2,2,2,12,5,12,13,0,8,0,2,0
+Kaltlauf an Radträger Charge Normabweichung,2,2,15,0,0,0,5,1,8,1,11,1,14,15,9,7,2,7
+Legierungsabweichung Si HandlingSchaden vs Soll Sandausbruch,6,6,19,9,6,6,9,5,9,14,9,14,1,16,1,13,1,11
+Bearbeitungsfehler Lunker Sandbindermangel Teil Nacharbeit gemäß,7,8,18,-1,-1,-1,7,7,7,13,7,13,12,21,7,11,2,9
+Härteprüfung HandlingSchaden Kaltlauf vs Lunker nicht konform Kernreparatur läuft,8,14,14,-1,-1,-1,0,8,10,8,16,8,1,19,1,16,1,14
+Qualitätsabweichung Kernschale Verschleiß Sandbindermangel Porosität Verdacht Sandfeuchteabweichung Wärmenachbehandlung eingeleitet,0,2,8,-1,-1,-1,1,7,7,7,1,7,12,18,7,15,2,13
+Formversatz an Getriebegehäuse ¦ Charge Gießparameter optimiert,0,0,15,-1,-1,-1,1,1,11,1,11,1,14,14,9,7,2,7
+Oberflächenrauheit Kaltlauf außerhalb Spezifikation Normabweichung,7,7,7,14,10,10,8,6,8,6,8,6,-1,9,-1,10,2,8
+Maßabweichung Sandbindermangel Lunkermm vs Sandbindermangel±Sandbindermangelmm,8,12,12,10,7,7,4,5,9,5,9,15,-1,25,-1,17,-1,15
+Spektralanalyse zeigt CuMangel Charge,9,9,9,12,8,8,6,9,6,9,6,17,0,12,0,6,0,6
+Spektralanalyse zeigt SiMangel Charge,9,9,9,12,8,8,6,9,6,9,6,17,0,13,0,6,0,6
+Legierungsabweichung Cu Sandbindermangel vs Soll Sandausbruch Verdacht Formüberhitzung,6,6,6,-1,-1,-1,0,5,12,14,10,14,1,16,1,13,1,11
+Röntgenprüfung zeigt Formversatz in Zone HandlingSchaden konform Wärmenachbehandlung eingeleitet,4,4,4,4,3,3,2,9,2,10,5,10,-1,5,-1,5,2,5
+Spektralanalyse zeigt TiMangel Charge Chargenanalyse Mg Ti,9,9,9,12,8,8,6,9,6,9,6,17,0,13,0,6,0,6
+Bearbeitungsfehler Lunker HandlingSchaden Teil Normabweichung,7,8,18,-1,-1,-1,1,7,7,13,7,13,12,21,7,11,2,9
+Formdruckabweichung Lunker vs Sandbindermangel Form Kernreparatur läuft,0,0,16,5,4,4,0,0,0,0,0,0,1,11,1,12,1,10
+Ausschuss Maßhaltigkeit an Zylinderkopf Ursache Sandfeuchte zu hoch ≥ Verdacht Formüberhitzung Kernreparatur läuft,2,10,10,-1,-1,-1,3,4,13,4,13,4,6,7,2,9,3,3
+Dichtheitsprüfung Fehler Sandausbruch mbarmin vs max Sandausbruch Gießparameter optimiert,1,13,13,3,1,1,4,3,4,3,4,3,-1,2,-1,2,-1,2
+Qualitätsabweichung Sandausbruch Kaltlauf Raueit Ra konform Wärmenachbehandlung eingeleitet,0,2,2,-1,-1,-1,1,7,1,7,1,7,12,17,7,14,2,12
+Spektralanalyse zeigt MgMangel Charge Wärmenachbehandlung eingeleitet,9,9,3,12,8,8,6,9,6,9,6,9,0,10,0,6,0,6
+Kernbruch Ursache Kernschale Verschleiß,2,2,17,11,9,9,3,4,3,4,3,16,3,4,3,4,4,3
+Schmelzofen Schmelzofen TempAbweichung °C Gießparameter optimiert,5,5,5,1,2,2,2,2,2,12,5,12,13,0,8,0,2,0
+Röntgenprüfung zeigt Gasporosität in Zone Sandbindermangel teilkonform Gießparameter optimiert,4,4,4,4,3,3,2,9,2,10,2,10,-1,5,-1,5,-1,5
+Legierungsabweichung Si Lunker vs Soll HandlingSchaden Nacharbeit gemäß,6,6,19,-1,-1,-1,9,5,9,14,12,14,1,16,1,13,1,11
+Röntgenprüfung zeigt Kokillenriss in Zone HandlingSchaden,4,4,4,4,3,3,2,9,2,10,5,10,-1,5,-1,5,2,5
+Oberflächenrauheit Sandausbruch außerhalb Spezifikation teilkonform,7,7,7,-1,-1,-1,8,6,8,6,8,6,14,9,9,10,2,8
+Schmelzofen Holding Furnace TempAbweichung °C,5,5,5,1,2,2,5,2,5,2,15,2,9,1,5,1,2,1
+Kokillenriss an Zylinderkopf Charge,4,4,15,0,0,0,2,1,11,1,17,19,14,8,9,7,2,7
+Sandfeuchte Kernschale Verschleiß außerhalb Toleranz,7,11,11,15,11,11,7,8,1,11,19,11,-1,3,-1,3,2,4
+Formdruckabweichung Sandausbruch vs Sandbindermangel Form Schleifnacharbeit notwendig,0,0,16,5,4,4,0,0,10,0,10,0,1,11,1,12,1,10
+Ausschuss Oberflächenfehler an Getriebegehäuse Ursache Sandfeuchte zu hoch ≥ Normabweichung,2,10,10,-1,-1,-1,3,4,13,4,13,4,6,7,2,9,3,3
+Oberflächenrauheit Kaltlauf außerhalb Spezifikation,7,7,7,14,10,10,8,6,8,6,8,6,8,9,4,10,2,8
+Sandfeuchte Sandausbruch außerhalb Toleranz teilkonform Gießparameter optimiert,7,11,11,-1,-1,-1,1,8,7,11,7,11,-1,3,-1,3,2,4
+Schmelzofen Schmelzofen TempAbweichung °C Chargenanalyse Mg Ti,5,3,5,1,2,2,2,2,2,12,2,12,11,0,6,0,2,0
+Sandfeuchte Sandbindermangel außerhalb Toleranz,7,11,11,15,11,11,7,8,7,11,7,11,12,3,7,3,2,4
+Dichtheitsprüfung Fehler Kernschale Verschleiß mbarmin vs max Sandbindermangel,1,13,13,3,1,1,4,3,9,3,9,3,1,2,1,2,1,2
+Röntgenprüfung zeigt Sandausbruch in Zone Sandausbruch Verdacht Legierungsdrift,4,4,6,-1,-1,-1,1,9,11,10,11,10,14,5,9,5,2,5
+Dichtheitsprüfung Fehler Lunker mbarmin vs max Sandbindermangel Gießparameter optimiert,1,13,13,3,1,1,4,3,4,3,4,3,-1,2,-1,2,-1,2
+Schmelzofen Schmelzofen TempAbweichung °C,5,5,5,1,2,2,5,2,5,12,15,12,7,0,-1,0,2,0
+Bearbeitungsfehler Kaltlauf Kaltlauf Teil nicht konform Schleifnacharbeit notwendig,7,8,18,-1,-1,-1,7,7,7,13,7,13,12,21,7,11,2,9
+Dichtheitsprüfung Fehler HandlingSchaden mbarmin vs max Kernschale Verschleiß,1,13,13,3,1,1,9,3,9,3,9,3,1,2,1,2,1,2
+Oberflächenrauheit Sandausbruch außerhalb Spezifikation Kernreparatur läuft,7,7,7,-1,-1,-1,8,6,13,6,13,6,5,9,2,10,3,8
+Schmelzofen Holding Furnace TempAbweichung °C,5,5,5,1,2,2,5,2,5,2,15,2,9,1,5,1,2,1
+Bearbeitungsfehler Kernschale Verschleiß Kaltlauf Teil Chargenanalyse Mg Ti Kernreparatur läuft,3,3,18,-1,-1,-1,1,7,11,13,11,13,14,21,9,11,2,9
+Schmelzofen Holding Furnace TempAbweichung °C Wärmenachbehandlung eingeleitet,5,5,5,1,2,2,5,2,5,2,15,2,-1,1,-1,1,-1,1
+Härteprüfung Kaltlauf Kernschale Verschleiß vs Sandausbruch Prüfbericht Nacharbeit gemäß,8,14,14,-1,-1,-1,7,5,1,8,10,8,-1,19,-1,16,-1,14
+Oberflächenrauheit Sandausbruch außerhalb Spezifikation Verdacht Sandfeuchteabweichung,7,7,7,-1,-1,-1,8,6,8,6,14,6,-1,9,-1,10,-1,8
+Härteprüfung Sandausbruch Kaltlauf vs HandlingSchaden Wärmenachbehandlung eingeleitet,8,14,8,7,-1,-1,9,5,12,5,10,5,1,22,1,17,1,15
+Sandfeuchte Kernschale Verschleiß außerhalb Toleranz Chargenanalyse C Si,3,1,1,15,11,11,1,8,11,11,11,11,14,3,9,3,2,4
+Sandfeuchte Kaltlauf außerhalb Toleranz nicht konform,7,11,11,15,11,11,7,8,1,11,19,11,12,3,7,3,2,4
+Kaltlauf an Radträger Charge Verdacht Legierungsdrift Schleifnacharbeit notwendig,6,2,6,-1,-1,-1,1,7,8,7,1,7,12,-1,7,-1,2,-1
+Härteprüfung Kaltlauf Sandausbruch vs HandlingSchaden Normabweichung,8,14,14,-1,-1,-1,0,8,10,8,16,8,1,19,1,16,1,14
+Röntgenprüfung zeigt Kaltlauf in Zone Lunker Prüfbericht Gießparameter optimiert,4,4,4,4,3,3,2,9,2,10,2,10,-1,5,-1,5,-1,5
+Härteprüfung HandlingSchaden Sandausbruch vs Kernschale Verschleiß,8,14,14,6,5,5,0,8,10,8,16,8,-1,19,-1,16,-1,14
+Maßabweichung HandlingSchaden Kernschale Verschleißmm vs Sandbindermangel±Sandbindermangelmm Nacharbeit gemäß,8,12,12,10,7,7,0,5,0,5,0,5,1,23,1,17,1,15
+Röntgenprüfung zeigt Kaltlauf in Zone Sandausbruch Wärmenachbehandlung eingeleitet,4,4,4,4,3,3,2,9,5,10,5,10,13,5,8,5,2,5
+Kernbruch Ursache HandlingSchaden nicht konform,2,10,17,13,8,8,3,4,3,4,3,18,-1,6,-1,8,-1,3
+Maßabweichung Kaltlauf Kaltlaufmm vs Kaltlauf±Sandbindermangelmm Chargenanalyse C Si Nacharbeit gemäß,3,1,1,10,7,7,4,5,4,5,12,5,-1,-1,-1,-1,-1,-1
+Formdruckabweichung HandlingSchaden vs Sandbindermangel Form Verdacht Legierungsdrift Gießparameter optimiert,0,0,6,-1,-1,-1,9,0,12,0,10,0,1,11,1,12,1,10
+Formdruckabweichung HandlingSchaden vs HandlingSchaden Form,0,0,16,5,4,4,0,0,10,0,0,0,1,11,1,12,1,10
+Bearbeitungsfehler Sandausbruch Kaltlauf Teil Verdacht Legierungsdrift,6,8,6,-1,-1,-1,7,7,1,13,19,13,12,21,7,11,2,9
+Röntgenprüfung zeigt Formversatz in Zone Sandausbruch,4,4,4,4,3,3,5,9,5,10,5,10,13,5,8,5,2,5
+Qualitätsabweichung HandlingSchaden Kaltlauf Raueit Ra Wärmenachbehandlung eingeleitet,0,2,2,-1,-1,-1,1,7,8,7,1,7,12,17,7,14,2,12
+Sandausbruch an Zylinderkopf Charge,4,4,15,0,0,0,5,1,5,1,5,19,13,8,8,7,2,7
+Qualitätsabweichung HandlingSchaden Lunker Porosität,0,14,0,-1,-1,-1,1,7,7,7,7,7,-1,18,-1,15,2,13
+Maßabweichung Kaltlauf Kaltlaufmm vs Kernschale Verschleiß±Kaltlaufmm,8,12,12,10,7,7,0,5,0,5,0,15,1,24,1,17,1,15
+Schmelzofen Schmelzofen TempAbweichung °C,5,5,5,1,2,2,5,2,5,12,15,12,7,0,-1,0,2,0
+Formdruckabweichung Kaltlauf vs Sandbindermangel Form,0,0,16,5,4,4,0,0,0,0,18,0,1,11,1,12,1,10
+Spektralanalyse zeigt CuMangel Charge,9,9,9,12,8,8,6,9,6,9,6,17,0,12,0,6,0,6
+Maßabweichung Sandbindermangel Kernschale Verschleißmm vs Kaltlauf±Sandausbruchmm Verdacht Legierungsdrift,6,12,6,-1,-1,-1,0,5,10,5,0,5,1,23,1,17,1,15
+Kaltlauf an Zylinderkopf Charge,4,4,15,0,0,0,2,1,11,1,17,19,14,8,9,7,2,7
+Spektralanalyse zeigt MgMangel Charge,9,9,9,12,8,8,6,9,6,9,6,9,0,13,0,6,0,6
+Kernbruch Ursache HandlingSchaden Verdacht Legierungsdrift Nacharbeit gemäß,2,2,6,12,8,8,3,4,3,4,3,16,-1,7,-1,9,-1,3
+Formdruckabweichung Sandbindermangel vs HandlingSchaden Form nicht konform,0,0,16,5,4,4,0,0,0,0,0,0,1,11,1,12,1,10
+Qualitätsabweichung Kernschale Verschleiß HandlingSchaden Dickenmaß Verdacht Formüberhitzung,0,2,0,-1,-1,-1,7,7,1,7,19,7,-1,18,-1,15,2,13
+Spektralanalyse zeigt TiMangel Charge Normabweichung Wärmenachbehandlung eingeleitet,9,9,3,12,8,8,6,9,6,9,2,9,-1,10,-1,6,-1,6
+Ausschuss Maßhaltigkeit an Radträger Ursache Kaltlauf,2,10,10,-1,-1,-1,3,4,13,4,13,4,6,7,2,9,3,3
+Spektralanalyse zeigt SiMangel Charge,9,9,9,12,8,8,6,9,6,9,6,17,0,13,0,6,0,6
+Oberflächenrauheit Kaltlauf außerhalb Spezifikation,7,7,7,14,10,10,8,6,8,6,8,6,8,9,4,10,2,8
+Formdruckabweichung Sandausbruch vs Lunker Form,0,0,16,5,4,4,0,0,0,0,0,0,1,11,1,12,1,10
+Oberflächenrauheit Kaltlauf außerhalb Spezifikation,7,7,7,14,10,10,8,6,8,6,8,6,8,9,4,10,2,8
+Dichtheitsprüfung Fehler Sandausbruch mbarmin vs max Kaltlauf Kernreparatur läuft,1,13,13,3,1,1,9,3,9,3,12,3,1,2,1,2,1,2
+Legierungsabweichung Si Kernschale Verschleiß vs Soll Sandbindermangel,6,6,19,9,6,6,9,5,0,14,18,14,1,16,1,13,1,11
+Lunker an Zylinderkopf Charge Chargenanalyse Mg Ti Schleifnacharbeit notwendig,3,3,15,-1,-1,-1,2,7,2,13,2,13,-1,20,-1,11,-1,9
+Dichtheitsprüfung Fehler Sandbindermangel mbarmin vs max Kaltlauf Prüfbericht Gießparameter optimiert,1,13,13,3,1,1,4,3,4,3,4,3,-1,2,-1,2,-1,2
+Röntgenprüfung zeigt Gasporosität in Zone HandlingSchaden Normabweichung Nacharbeit gemäß,4,4,4,-1,-1,-1,5,9,5,10,11,10,13,5,8,5,2,5
+Kernbruch Ursache Sandbindermangel Gießparameter optimiert,2,2,17,-1,-1,-1,7,4,1,4,19,18,-1,6,-1,8,-1,3
+Maßabweichung Sandausbruch Lunkermm vs Kernschale Verschleiß±Lunkermm Nacharbeit gemäß,8,12,12,10,7,7,0,5,10,5,16,5,1,23,1,17,1,15
+Formversatz an Radträger Charge Prüfbericht,0,2,15,-1,-1,-1,8,1,8,1,8,1,10,14,5,7,2,7
+Dichtheitsprüfung Fehler Sandbindermangel mbarmin vs max Sandausbruch Normabweichung,1,13,13,3,1,1,4,3,4,3,9,3,1,2,1,2,1,2
+Legierungsabweichung Mg HandlingSchaden vs Soll Sandausbruch,6,6,19,9,6,6,9,5,9,14,9,14,1,16,1,13,1,11
+Formdruckabweichung Sandbindermangel vs Kaltlauf Form teilkonform Nacharbeit gemäß,0,0,16,-1,-1,-1,0,0,10,0,10,0,1,11,1,12,1,10
+Formdruckabweichung Kernschale Verschleiß vs Sandbindermangel Form,0,0,16,5,4,4,0,0,10,0,16,0,1,11,1,12,1,10
+Härteprüfung Kaltlauf Kaltlauf vs Sandbindermangel konform,8,14,14,-1,-1,-1,0,8,0,8,0,8,1,19,1,16,1,14
+Härteprüfung Sandausbruch Lunker vs Lunker Verdacht Formüberhitzung,8,14,6,-1,-1,-1,0,5,10,8,10,8,1,19,1,16,1,14
+Oberflächenrauheit Lunker außerhalb Spezifikation Verdacht Legierungsdrift,7,7,6,-1,-1,-1,1,6,8,6,1,6,12,9,7,10,2,8
+Bearbeitungsfehler Sandausbruch Sandbindermangel Teil Wärmenachbehandlung eingeleitet,7,8,8,-1,-1,-1,1,7,11,13,11,13,14,21,9,11,2,9
+Schmelzofen Holding Furnace TempAbweichung °C,5,5,5,1,2,2,5,2,5,2,15,2,9,1,5,1,2,1
+Maßabweichung HandlingSchaden Lunkermm vs Kernschale Verschleiß±Sandbindermangelmm Gießparameter optimiert,8,12,12,-1,-1,-1,9,5,9,5,9,15,-1,-1,-1,17,-1,15
+Formdruckabweichung Sandausbruch vs Kaltlauf Form Chargenanalyse C Si,3,1,1,-1,-1,-1,9,0,12,0,12,0,1,11,1,12,1,10
+Qualitätsabweichung Kernschale Verschleiß Kaltlauf Dickenmaß,0,14,0,-1,-1,-1,7,7,7,7,10,7,-1,18,-1,15,-1,13
+Röntgenprüfung zeigt Kaltlauf in Zone Kernschale Verschleiß Prüfbericht Schleifnacharbeit notwendig,4,4,4,4,3,3,5,9,11,10,11,10,14,5,9,5,2,5
+Maßabweichung Lunker Lunkermm vs Sandausbruch±HandlingSchadenmm Normabweichung,8,12,12,10,7,7,9,5,0,5,18,15,1,25,1,17,1,15
+Bearbeitungsfehler Kaltlauf Sandbindermangel Teil Normabweichung Kernreparatur läuft,7,8,18,-1,-1,-1,7,7,7,13,7,13,12,21,7,11,2,9
+Sandfeuchte Lunker außerhalb Toleranz Normabweichung,7,11,11,15,11,11,1,8,7,11,7,11,12,3,7,3,2,4
+Spektralanalyse zeigt CuMangel Charge Normabweichung,9,9,9,12,8,8,6,9,6,9,6,17,-1,12,-1,6,-1,6
+Maßabweichung Sandausbruch Sandausbruchmm vs HandlingSchaden±Lunkermm,8,12,12,10,7,7,9,5,0,5,18,15,1,25,1,17,1,15
+Dichtheitsprüfung Fehler Sandausbruch mbarmin vs max Sandbindermangel,1,13,13,3,1,1,4,3,4,3,9,3,1,2,1,2,1,2
+Ausschuss Materialfehler an Getriebegehäuse Ursache HandlingSchaden Kernreparatur läuft,2,10,10,-1,-1,-1,3,4,3,4,3,4,4,7,2,9,3,3
+Legierungsabweichung Si Lunker vs Soll Kaltlauf ¦ Chargenanalyse Mg Ti,6,6,19,-1,-1,-1,4,5,4,14,4,14,1,16,1,13,1,11
+Qualitätsabweichung HandlingSchaden Kernschale Verschleiß Porosität,0,14,0,-1,-1,-1,7,7,1,7,7,7,12,18,7,15,2,13
+Härteprüfung Lunker Sandausbruch vs Lunker Kernreparatur läuft,8,14,14,6,5,5,0,8,10,8,16,8,1,19,1,16,1,14
+Röntgenprüfung zeigt Sandausbruch in Zone Sandausbruch konform Gießparameter optimiert,4,4,4,4,3,3,2,9,2,10,17,10,13,5,8,5,2,5
+Dichtheitsprüfung Fehler Kaltlauf mbarmin vs max HandlingSchaden konform,1,13,13,3,1,1,4,3,9,3,9,3,1,2,1,2,1,2
+Ausschuss Funktionstest an Radträger Ursache Gießtemp zu niedrig °C °C Chargenanalyse C Si Wärmenachbehandlung eingeleitet,2,10,10,-1,-1,-1,5,4,14,4,15,4,-1,7,-1,9,-1,3
+Maßabweichung Kernschale Verschleiß Sandausbruchmm vs Sandbindermangel±Kaltlaufmm Chargenanalyse C Si,3,1,1,10,7,7,9,5,9,5,9,5,1,-1,1,-1,1,-1
+Dichtheitsprüfung Fehler Kaltlauf mbarmin vs max Kaltlauf Chargenanalyse Mg Ti Kernreparatur läuft,1,13,13,3,1,1,4,3,4,3,4,3,-1,2,-1,2,-1,2
+Oberflächenrauheit Kaltlauf außerhalb Spezifikation,7,7,7,14,10,10,8,6,8,6,8,6,8,9,4,10,2,8
+Spektralanalyse zeigt TiMangel Charge,9,9,9,12,8,8,6,9,6,9,6,17,0,13,0,6,0,6
+Kernbruch Ursache HandlingSchaden,2,10,17,13,8,8,3,4,3,4,3,18,2,6,3,8,4,3
+Spektralanalyse zeigt MgMangel Charge,9,9,9,12,8,8,6,9,6,9,6,9,0,13,0,6,0,6
+Kernbruch Ursache Kernschale Verschleiß,2,2,17,11,9,9,3,4,3,4,3,16,3,4,3,4,4,3
+Spektralanalyse zeigt TiMangel Charge,9,9,9,12,8,8,6,9,6,9,6,17,0,13,0,6,0,6
+Kokillenriss an Zylinderkopf Charge Normabweichung Schleifnacharbeit notwendig,4,4,15,-1,-1,-1,5,1,11,1,11,19,14,8,9,7,2,7
+Maßabweichung Kaltlauf HandlingSchadenmm vs Lunker±Sandausbruchmm,8,12,12,10,7,7,9,5,0,5,18,15,1,25,1,17,1,15
+Qualitätsabweichung Sandausbruch Kernschale Verschleiß Dickenmaß Prüfbericht Wärmenachbehandlung eingeleitet,0,14,8,-1,-1,-1,1,7,7,7,1,7,12,18,7,15,2,13
+Kernbruch Ursache Kernschale Verschleiß,2,2,17,11,9,9,3,4,3,4,3,16,3,4,3,4,4,3
+Qualitätsabweichung Kernschale Verschleiß Sandausbruch Dickenmaß Gießparameter optimiert,0,2,0,-1,-1,-1,7,7,7,7,7,7,-1,18,-1,15,-1,13
+Röntgenprüfung zeigt Lunker in Zone Lunker Prüfbericht,4,4,4,4,3,3,2,9,2,10,2,10,-1,5,-1,5,2,5
+Spektralanalyse zeigt TiMangel ¦ Charge ¦ Chargenanalyse Mg Ti Wärmenachbehandlung eingeleitet,9,9,3,12,8,8,6,9,6,9,6,9,0,10,0,6,0,6
+Ausschuss Oberflächenfehler an Radträger ¦ Ursache Sandbindermangel,2,10,10,-1,-1,-1,8,4,13,4,13,4,5,7,2,9,3,3
+Qualitätsabweichung HandlingSchaden Kaltlauf Raueit Ra Normabweichung,0,2,2,-1,-1,-1,7,7,1,7,1,7,12,17,7,14,2,12
+Qualitätsabweichung HandlingSchaden Kernschale Verschleiß Dickenmaß Prüfbericht,0,14,0,-1,-1,-1,7,7,7,7,7,7,12,18,7,15,2,13
+Maßabweichung HandlingSchaden Kernschale Verschleißmm vs Sandbindermangel±Kernschale Verschleißmm konform Kernreparatur läuft,8,12,12,-1,-1,-1,0,5,10,5,16,15,1,24,1,17,1,15
+Formdruckabweichung Sandbindermangel vs Kernschale Verschleiß ¦ Form,0,0,16,5,4,4,0,0,10,0,16,0,1,11,1,12,1,10
+Kaltlauf an Radträger Charge Verdacht Formüberhitzung Kernreparatur läuft,0,2,15,0,0,0,8,1,8,1,1,1,-1,15,-1,7,-1,7
+Sandfeuchte Kaltlauf außerhalb Toleranz nicht konform Nacharbeit gemäß,7,11,11,-1,-1,-1,7,8,1,11,19,11,12,3,7,3,2,4
+Qualitätsabweichung Sandausbruch Sandausbruch Raueit Ra Kernreparatur läuft,0,2,2,8,-1,-1,7,7,1,7,19,7,-1,17,-1,14,2,12
+Maßabweichung HandlingSchaden Lunkermm vs Kernschale Verschleiß±Sandbindermangelmm Schleifnacharbeit notwendig,8,12,12,10,7,7,9,5,0,5,18,15,1,23,1,17,1,15
+Bearbeitungsfehler Sandausbruch HandlingSchaden Teil,7,8,18,2,1,1,7,7,1,13,19,13,12,21,7,11,2,9
+Kernbruch Ursache Kernschale Verschleiß Wärmenachbehandlung eingeleitet,2,2,17,-1,-1,-1,3,4,13,4,13,18,-1,7,-1,9,-1,3
+Formdruckabweichung Kaltlauf vs Kaltlauf Form Verdacht Formüberhitzung,0,0,16,5,4,4,7,0,10,0,10,0,-1,11,-1,12,-1,10
+Oberflächenrauheit Kernschale Verschleiß außerhalb Spezifikation Gießparameter optimiert,7,7,7,-1,-1,-1,1,6,8,6,11,6,14,9,9,10,2,8
+Sandfeuchte Lunker außerhalb Toleranz,7,11,11,15,11,11,7,8,7,11,7,11,12,3,7,3,2,4
+Formdruckabweichung Sandbindermangel vs Kernschale Verschleiß Form Normabweichung Nacharbeit gemäß,0,0,16,-1,-1,-1,0,0,10,0,10,0,1,11,1,12,1,10
+Härteprüfung HandlingSchaden Lunker vs Sandausbruch Prüfbericht Nacharbeit gemäß,8,14,14,-1,-1,-1,0,5,10,8,10,8,1,19,1,16,1,14
+Spektralanalyse zeigt MgMangel Charge Verdacht Sandfeuchteabweichung Gießparameter optimiert,9,9,9,-1,-1,-1,6,9,2,9,2,9,-1,13,-1,6,-1,6
+Formdruckabweichung Sandausbruch vs Lunker ¦ Form ¦ Chargenanalyse Mg Ti,0,0,16,5,4,4,9,0,12,0,12,0,1,11,1,12,1,10
+Kernbruch Ursache HandlingSchaden nicht konform,2,10,17,13,8,8,3,4,3,4,3,18,-1,6,-1,8,-1,3
+Kernbruch Ursache Sandbindermangel Chargenanalyse Mg Ti,3,3,17,-1,-1,-1,8,4,8,4,8,18,-1,6,-1,8,2,3
+Dichtheitsprüfung Fehler Kernschale Verschleiß mbarmin vs max Sandbindermangel Gießparameter optimiert,1,13,13,3,1,1,4,3,4,3,4,3,1,2,1,2,1,2
+Formversatz an Getriebegehäuse Charge Gießparameter optimiert,0,0,15,-1,-1,-1,1,1,11,1,11,1,14,14,9,7,2,7
+Maßabweichung Lunker Kernschale Verschleißmm vs Sandbindermangel±Kernschale Verschleißmm konform Wärmenachbehandlung eingeleitet,8,12,12,10,7,7,9,5,0,5,0,5,1,23,1,17,1,15
+Formdruckabweichung Sandausbruch vs Kaltlauf Form,0,0,16,5,4,4,0,0,10,0,16,0,1,11,1,12,1,10
+Qualitätsabweichung Sandausbruch Kaltlauf Raueit Ra,0,2,2,8,-1,-1,7,7,1,7,19,7,12,17,7,14,2,12
+Härteprüfung Sandausbruch Kernschale Verschleiß vs Kaltlauf Verdacht Formüberhitzung Wärmenachbehandlung eingeleitet,8,14,8,-1,-1,-1,7,5,1,5,19,5,-1,22,-1,17,-1,15
+Sandfeuchte Lunker außerhalb Toleranz Gießparameter optimiert,7,11,11,15,11,11,1,8,7,11,7,11,-1,3,-1,3,-1,4
+Kaltlauf an Zylinderkopf Charge nicht konform Gießparameter optimiert,4,4,15,-1,-1,-1,2,1,11,1,17,19,-1,8,-1,7,-1,7
+Qualitätsabweichung Sandbindermangel Kaltlauf Raueit Ra Nacharbeit gemäß,0,2,2,-1,-1,-1,7,7,1,7,1,7,12,17,7,14,2,12
+Röntgenprüfung zeigt Kokillenriss in Zone Sandausbruch Kernreparatur läuft,4,4,4,4,3,3,5,9,11,10,11,10,14,5,9,5,2,5
+Röntgenprüfung zeigt Sandausbruch in Zone Sandbindermangel Verdacht Formüberhitzung Gießparameter optimiert,4,4,4,-1,-1,-1,2,9,11,10,17,10,-1,5,-1,5,2,5
+Schmelzofen Schmelzofen TempAbweichung °C Prüfbericht Schleifnacharbeit notwendig,5,5,5,1,2,2,5,2,5,12,15,12,9,0,5,0,2,0
+Legierungsabweichung Cu Sandbindermangel vs Soll HandlingSchaden Prüfbericht,6,6,19,-1,-1,-1,4,5,9,14,12,14,1,16,1,13,1,11
+Ausschuss Oberflächenfehler an Getriebegehäuse Ursache Lunker,2,10,10,-1,-1,-1,3,4,13,4,13,4,6,7,2,9,3,3
+Kernbruch Ursache Sandbindermangel Verdacht Formüberhitzung Kernreparatur läuft,2,2,17,-1,-1,-1,3,4,3,4,3,16,4,7,2,9,3,3
+Spektralanalyse zeigt CuMangel Charge konform,9,9,9,12,8,8,2,9,2,9,2,17,11,12,6,6,2,6
+Bearbeitungsfehler Kaltlauf HandlingSchaden Teil Chargenanalyse Mg Ti Schleifnacharbeit notwendig,3,3,18,-1,-1,-1,2,7,11,13,17,13,-1,21,-1,11,-1,9
+Dichtheitsprüfung Fehler HandlingSchaden mbarmin vs max Kaltlauf Normabweichung,1,13,13,3,1,1,4,3,4,3,9,3,1,2,1,2,1,2
+Spektralanalyse zeigt TiMangel Charge Prüfbericht,9,9,9,12,8,8,6,9,6,9,6,17,-1,13,-1,6,-1,6
+Spektralanalyse zeigt SiMangel Charge Prüfbericht,9,9,9,12,8,8,6,9,6,9,6,17,0,13,0,6,0,6
+Kernbruch Ursache Sandbindermangel Verdacht Legierungsdrift,2,2,6,-1,-1,-1,3,4,1,4,19,16,-1,7,-1,9,-1,3
+Kernbruch Ursache Kernschale Verschleiß,2,2,17,11,9,9,3,4,3,4,3,16,3,4,3,4,4,3
+Härteprüfung HandlingSchaden HandlingSchaden vs Lunker Kernreparatur läuft,8,14,14,6,5,5,0,8,10,8,16,8,1,19,1,16,1,14
+Legierungsabweichung Mg Sandausbruch vs Soll Sandbindermangel Kernreparatur läuft,6,6,19,-1,-1,-1,9,5,0,14,18,14,1,16,1,13,1,11
+Spektralanalyse zeigt CuMangel Charge,9,9,9,12,8,8,6,9,6,9,6,17,0,12,0,6,0,6
+Ausschuss Funktionstest an Radträger Ursache Sandfeuchte zu hoch ≥ Chargenanalyse C Si,2,10,10,-1,-1,-1,8,4,14,4,14,4,-1,7,-1,9,-1,3
+Oberflächenrauheit Lunker außerhalb Spezifikation ¦ Chargenanalyse C Si,3,7,7,14,10,10,2,7,5,13,5,13,13,20,8,11,2,9
+Spektralanalyse zeigt CuMangel Charge Chargenanalyse Mg Ti,9,9,9,12,8,8,6,9,6,9,6,17,0,13,0,6,0,6
+Maßabweichung Kaltlauf Kernschale Verschleißmm vs Lunker±Kernschale Verschleißmm,8,12,12,10,7,7,0,5,0,5,18,15,1,24,1,17,1,15
+Röntgenprüfung zeigt Sandausbruch in Zone Lunker Schleifnacharbeit notwendig,4,4,4,4,3,3,2,9,11,10,17,10,14,5,9,5,2,5
+Kokillenriss an Getriebegehäuse ¦ Charge Nacharbeit gemäß,2,2,15,-1,-1,-1,1,1,8,1,1,1,12,15,7,7,2,7
+Ausschuss Maßhaltigkeit an Getriebegehäuse Ursache Gießtemp zu niedrig °C °C Prüfbericht,2,10,10,-1,-1,-1,8,4,14,4,14,4,-1,7,-1,9,-1,3
+Sandfeuchte Sandausbruch außerhalb Toleranz Chargenanalyse Mg Ti,3,3,11,-1,-1,-1,2,8,11,11,17,11,14,3,9,3,2,4
+Ausschuss Funktionstest an Getriebegehäuse Ursache Sandausbruch Nacharbeit gemäß,2,10,10,-1,-1,-1,3,4,13,4,13,4,4,7,2,9,3,3
+Maßabweichung HandlingSchaden Kernschale Verschleißmm vs HandlingSchaden±Lunkermm Verdacht Sandfeuchteabweichung Nacharbeit gemäß,8,12,12,-1,-1,-1,0,5,10,5,10,5,1,23,1,17,1,15
+Härteprüfung HandlingSchaden HandlingSchaden vs Lunker,8,14,14,6,5,5,0,8,0,8,0,8,1,19,1,16,1,14
+Dichtheitsprüfung Fehler Kaltlauf mbarmin vs max HandlingSchaden,1,13,13,3,1,1,4,3,4,3,9,3,1,2,1,2,1,2
+Härteprüfung HandlingSchaden Lunker vs Sandbindermangel Schleifnacharbeit notwendig,8,14,14,6,5,5,9,8,0,8,0,8,1,19,1,16,1,14
+Dichtheitsprüfung Fehler Sandausbruch mbarmin vs max Kernschale Verschleiß,1,13,13,3,1,1,9,3,9,3,9,3,1,2,1,2,1,2
+Sandfeuchte Kaltlauf außerhalb Toleranz teilkonform,7,11,11,15,11,11,7,8,7,11,7,11,12,3,7,3,2,4
+Maßabweichung Lunker Lunkermm vs Sandbindermangel±HandlingSchadenmm,8,12,12,10,7,7,4,5,9,5,9,15,-1,25,-1,17,-1,15
+Bearbeitungsfehler Kernschale Verschleiß Lunker Teil Verdacht Sandfeuchteabweichung,7,8,18,-1,-1,-1,7,7,1,13,19,13,12,21,7,11,2,9
+Schmelzofen Holding Furnace TempAbweichung °C Kernreparatur läuft,5,5,5,1,2,2,5,2,8,2,8,2,10,1,5,1,2,1
+Maßabweichung Lunker Kernschale Verschleißmm vs Sandbindermangel±Lunkermm Prüfbericht,8,12,12,10,7,7,9,5,9,5,9,15,1,24,1,17,1,15
+Formdruckabweichung Sandbindermangel vs Kernschale Verschleiß ¦ Form Verdacht Sandfeuchteabweichung,0,0,16,5,4,4,0,0,10,0,10,0,1,11,1,12,1,10
+Bearbeitungsfehler HandlingSchaden Sandbindermangel Teil Normabweichung,7,8,18,-1,-1,-1,7,7,7,13,7,13,12,21,7,11,2,9
+Sandfeuchte Kaltlauf außerhalb Toleranz Prüfbericht,7,11,11,15,11,11,1,8,8,11,1,11,12,3,7,3,2,4
+Maßabweichung Kaltlauf Sandausbruchmm vs Sandbindermangel±Sandbindermangelmm,8,12,12,10,7,7,9,5,0,5,18,15,1,25,1,17,1,15
+Spektralanalyse zeigt TiMangel Charge Normabweichung Kernreparatur läuft,9,9,9,-1,-1,-1,2,9,2,9,5,17,11,13,6,6,2,6
+Dichtheitsprüfung Fehler Sandausbruch mbarmin vs max Sandausbruch Normabweichung Schleifnacharbeit notwendig,1,13,13,3,1,1,9,3,12,3,12,3,1,2,1,2,1,2
+Qualitätsabweichung Sandbindermangel Kaltlauf Porosität konform,0,14,0,-1,-1,-1,7,7,7,7,7,7,-1,18,-1,15,2,13
+Spektralanalyse zeigt SiMangel Charge Normabweichung Wärmenachbehandlung eingeleitet,9,9,3,12,8,8,6,9,6,9,6,9,0,10,0,6,0,6
+Spektralanalyse zeigt CuMangel Charge Wärmenachbehandlung eingeleitet,9,9,3,12,8,8,6,9,6,9,6,9,0,10,0,6,0,6
+Oberflächenrauheit Kaltlauf außerhalb Spezifikation,7,7,7,14,10,10,8,6,8,6,8,6,8,9,4,10,2,8
+Qualitätsabweichung HandlingSchaden HandlingSchaden Dickenmaß konform Kernreparatur läuft,0,14,0,-1,-1,-1,7,7,7,7,7,7,-1,18,-1,15,-1,13
+Oberflächenrauheit Kernschale Verschleiß außerhalb Spezifikation Prüfbericht,7,7,7,14,10,10,8,6,8,6,8,6,8,9,4,10,2,8
+Schmelzofen Holding Furnace TempAbweichung °C Verdacht Sandfeuchteabweichung,5,5,5,1,2,2,5,2,8,2,8,2,10,1,5,1,2,1
+Kernbruch Ursache HandlingSchaden,2,10,17,13,8,8,3,4,3,4,3,18,2,6,3,8,4,3
+Kernbruch Ursache HandlingSchaden Chargenanalyse Mg Ti,3,3,17,-1,-1,-1,8,4,8,4,8,18,14,6,9,8,2,3
+Bearbeitungsfehler Sandausbruch Kaltlauf Teil,7,8,18,2,1,1,7,7,1,13,19,13,12,21,7,11,2,9
+Lunker an Radträger Charge Normabweichung,0,2,15,-1,-1,-1,5,1,11,1,11,1,14,15,9,7,2,7
+Spektralanalyse zeigt TiMangel Charge Verdacht Legierungsdrift Wärmenachbehandlung eingeleitet,9,9,3,12,8,8,2,9,2,9,2,9,11,10,6,6,2,6
+Formdruckabweichung Sandausbruch vs Kaltlauf ¦ Form ¦ konform,0,0,16,5,4,4,0,0,10,0,10,0,1,11,1,12,1,10
+Spektralanalyse zeigt CuMangel Charge Prüfbericht,9,9,9,12,8,8,6,9,6,9,6,17,-1,12,-1,6,-1,6
+Legierungsabweichung Ti Sandausbruch vs Soll Kaltlauf Chargenanalyse Mg Ti Wärmenachbehandlung eingeleitet,6,3,3,-1,-1,-1,4,5,4,14,4,14,-1,16,-1,13,-1,11
+Maßabweichung Kaltlauf Lunkermm vs Lunker±Kaltlaufmm Wärmenachbehandlung eingeleitet,8,12,8,-1,-1,-1,4,5,9,5,9,5,1,22,1,17,1,15
+Bearbeitungsfehler Sandbindermangel Sandausbruch Teil Wärmenachbehandlung eingeleitet,7,8,8,-1,-1,-1,1,7,11,13,11,13,14,21,9,11,2,9
+Maßabweichung Lunker HandlingSchadenmm vs Sandbindermangel±Kernschale Verschleißmm Verdacht Legierungsdrift Schleifnacharbeit notwendig,6,12,6,-1,-1,-1,0,5,0,5,0,5,1,23,1,17,1,15
+Maßabweichung Sandausbruch Lunkermm vs Sandausbruch±Kernschale Verschleißmm,8,12,12,10,7,7,0,5,0,5,16,15,-1,24,-1,17,-1,15
+Oberflächenrauheit Kaltlauf außerhalb Spezifikation,7,7,7,14,10,10,8,6,8,6,8,6,8,9,4,10,2,8
+Dichtheitsprüfung Fehler Lunker mbarmin vs max HandlingSchaden Prüfbericht Kernreparatur läuft,1,13,13,3,1,1,4,3,9,3,9,3,1,2,1,2,1,2
+Dichtheitsprüfung Fehler Lunker mbarmin vs max Sandausbruch Chargenanalyse Mg Ti,1,13,13,3,1,1,4,3,4,3,4,3,-1,2,-1,2,-1,2
+Sandfeuchte HandlingSchaden außerhalb Toleranz,7,11,11,15,11,11,7,8,7,11,7,11,12,3,7,3,2,4
+Schmelzofen Holding Furnace TempAbweichung °C,5,5,5,1,2,2,5,2,5,2,15,2,9,1,5,1,2,1
+Dichtheitsprüfung Fehler Lunker mbarmin vs max Lunker teilkonform Kernreparatur läuft,1,13,13,3,1,1,4,3,9,3,9,3,1,2,1,2,1,2
+Härteprüfung Sandausbruch Sandausbruch vs Kernschale Verschleiß Nacharbeit gemäß,8,14,14,10,7,7,0,5,10,8,10,5,-1,19,-1,16,-1,14
+Qualitätsabweichung Kernschale Verschleiß Lunker Dickenmaß Prüfbericht Kernreparatur läuft,0,14,0,-1,-1,-1,7,7,7,7,7,7,-1,18,-1,15,2,13
+Qualitätsabweichung Lunker Kernschale Verschleiß Raueit Ra,0,2,2,8,-1,-1,7,7,1,7,19,7,-1,17,-1,14,2,12
+Legierungsabweichung Cu Lunker vs Soll Kaltlauf Normabweichung Kernreparatur läuft,6,6,19,-1,-1,-1,9,5,12,14,12,14,1,16,1,13,1,11
+Qualitätsabweichung Sandbindermangel Lunker Raueit Ra,0,2,2,8,-1,-1,7,7,7,7,7,7,12,17,7,14,2,12
+Lunker an Getriebegehäuse Charge Nacharbeit gemäß,2,2,15,-1,-1,-1,1,1,8,1,1,1,12,15,7,7,2,7
+Qualitätsabweichung Sandbindermangel Kaltlauf Porosität,0,14,0,-1,-1,-1,1,7,7,7,7,7,12,18,7,15,2,13
+Dichtheitsprüfung Fehler HandlingSchaden mbarmin vs max Sandausbruch Gießparameter optimiert,1,13,13,3,1,1,4,3,4,3,4,3,1,2,1,2,1,2
+Gasporosität an Radträger Charge Verdacht Formüberhitzung Wärmenachbehandlung eingeleitet,0,2,15,-1,-1,-1,5,1,5,1,15,1,-1,15,5,7,2,7
+Ausschuss Materialfehler an Radträger Ursache Sandfeuchte zu hoch ≥ Prüfbericht Nacharbeit gemäß,2,10,10,-1,-1,-1,8,4,13,4,13,4,-1,7,-1,9,-1,3
+Maßabweichung Sandausbruch Lunkermm vs Sandausbruch±HandlingSchadenmm,8,12,12,10,7,7,9,5,0,5,18,15,1,25,1,17,1,15
+Oberflächenrauheit Sandbindermangel außerhalb Spezifikation Prüfbericht Nacharbeit gemäß,7,7,7,-1,-1,-1,8,6,8,6,8,6,14,9,9,10,2,8
+Ausschuss Materialfehler an Zylinderkopf Ursache Sandfeuchte zu hoch ≥ Verdacht Formüberhitzung,2,10,10,-1,-1,-1,8,4,13,4,13,4,5,7,2,9,3,3
+Ausschuss Oberflächenfehler an Zylinderkopf Ursache Gießtemp zu niedrig °C °C Chargenanalyse C Si,3,10,10,-1,-1,-1,5,4,5,4,15,4,-1,7,-1,9,-1,3
+Gasporosität an Radträger Charge Normabweichung,4,2,15,0,0,0,5,1,5,1,15,1,-1,15,5,7,2,7
+Sandausbruch an Radträger Charge,2,2,15,-1,-1,-1,8,1,8,1,8,1,14,15,9,7,2,7
+Schmelzofen Holding Furnace TempAbweichung °C,5,5,5,1,2,2,5,2,5,2,15,2,9,1,5,1,2,1
+Härteprüfung Kaltlauf Kaltlauf vs Kernschale Verschleiß Verdacht Legierungsdrift,6,14,6,-1,-1,-1,0,5,10,5,10,5,1,-1,1,17,1,15
+Kokillenriss an Zylinderkopf Charge konform,4,4,15,0,0,0,1,1,11,1,11,19,-1,8,-1,7,2,7
+Maßabweichung Lunker Sandausbruchmm vs Sandbindermangel±Kaltlaufmm Chargenanalyse C Si,3,1,1,10,7,7,4,5,4,5,4,5,1,-1,1,-1,1,-1
+Maßabweichung HandlingSchaden Sandausbruchmm vs Kernschale Verschleiß±Sandausbruchmm Chargenanalyse C Si,3,1,1,-1,-1,-1,9,5,12,5,12,5,1,-1,1,-1,1,-1
+Kernbruch Ursache Kernschale Verschleiß Chargenanalyse Mg Ti Wärmenachbehandlung eingeleitet,3,3,3,-1,-1,-1,8,4,8,4,8,18,10,7,5,9,2,3
+Röntgenprüfung zeigt Lunker in Zone Kaltlauf konform Gießparameter optimiert,4,4,4,4,3,3,2,9,2,10,17,10,-1,5,-1,5,-1,5
+Kernbruch Ursache Kernschale Verschleiß,2,2,17,11,9,9,3,4,3,4,3,16,3,4,3,4,4,3
+Dichtheitsprüfung Fehler Kernschale Verschleiß mbarmin vs max Kaltlauf,1,13,13,3,1,1,9,3,9,3,9,3,1,2,1,2,1,2
+Härteprüfung HandlingSchaden Sandausbruch vs Lunker Chargenanalyse C Si,3,1,1,-1,-1,-1,9,8,12,8,12,8,1,19,1,16,1,14
+Sandausbruch an Radträger Charge teilkonform Gießparameter optimiert,0,2,15,-1,-1,-1,5,1,11,1,11,1,14,15,9,7,2,7
+Härteprüfung HandlingSchaden Lunker vs Kaltlauf Chargenanalyse C Si Schleifnacharbeit notwendig,3,1,1,-1,-1,-1,9,8,12,8,12,8,1,19,1,16,1,14
+Spektralanalyse zeigt MgMangel Charge Verdacht Formüberhitzung,9,9,9,12,8,8,2,9,2,9,2,9,11,13,6,6,2,6
+Legierungsabweichung Ti Sandausbruch vs Soll HandlingSchaden konform,6,6,19,-1,-1,-1,9,5,0,14,0,14,1,16,1,13,1,11
+Kokillenriss an Radträger Charge konform,0,2,15,-1,-1,-1,1,1,7,1,1,19,12,15,7,7,2,7
+Legierungsabweichung Ti Kernschale Verschleiß vs Soll HandlingSchaden Chargenanalyse Mg Ti,6,6,19,-1,-1,-1,4,5,9,14,12,14,1,16,1,13,1,11
+Formdruckabweichung Sandausbruch vs Kaltlauf Form Normabweichung Gießparameter optimiert,0,0,16,5,4,4,9,0,12,0,12,0,1,11,1,12,1,10
+Legierungsabweichung Si Kernschale Verschleiß vs Soll Kaltlauf Gießparameter optimiert,6,6,19,9,6,6,9,5,9,14,12,14,1,16,1,13,1,11
+Oberflächenrauheit HandlingSchaden außerhalb Spezifikation Normabweichung Gießparameter optimiert,7,7,7,-1,-1,-1,5,6,11,6,11,6,14,9,9,10,2,8
+Dichtheitsprüfung Fehler HandlingSchaden mbarmin vs max Kernschale Verschleiß Prüfbericht Nacharbeit gemäß,1,13,13,3,1,1,9,3,12,3,12,3,1,2,1,2,1,2
+Formdruckabweichung Sandausbruch vs HandlingSchaden Form Normabweichung Wärmenachbehandlung eingeleitet,0,0,16,-1,-1,-1,9,5,12,5,12,5,1,22,1,17,1,15
+Kernbruch Ursache Sandbindermangel teilkonform Gießparameter optimiert,2,2,17,-1,-1,-1,7,4,1,4,1,18,-1,6,-1,8,2,3
+Dichtheitsprüfung Fehler Sandausbruch mbarmin vs max Sandausbruch Kernreparatur läuft,1,13,13,3,1,1,9,3,9,3,12,3,1,2,1,2,1,2
+Maßabweichung HandlingSchaden Kaltlaufmm vs Kernschale Verschleiß±HandlingSchadenmm,8,12,12,10,7,7,0,5,0,5,18,15,1,24,1,17,1,15
+Sandfeuchte Kaltlauf außerhalb Toleranz,7,11,11,15,11,11,7,8,1,11,1,11,12,3,7,3,2,4
+Bearbeitungsfehler HandlingSchaden Sandausbruch Teil Chargenanalyse Mg Ti Gießparameter optimiert,3,3,18,-1,-1,-1,2,7,2,13,17,13,-1,21,-1,11,2,9
+Schmelzofen Holding Furnace TempAbweichung °C Prüfbericht Gießparameter optimiert,5,5,5,1,2,2,5,2,5,12,5,12,-1,0,-1,0,2,0
+Schmelzofen Holding Furnace TempAbweichung °C konform,5,5,5,1,2,2,5,2,8,2,8,2,14,1,9,1,2,1
+Oberflächenrauheit Sandausbruch außerhalb Spezifikation Verdacht Formüberhitzung,7,7,7,-1,-1,-1,8,6,13,6,14,6,5,9,2,10,3,8
+Härteprüfung Kernschale Verschleiß Kaltlauf vs Sandausbruch,8,14,14,6,5,5,0,8,10,8,16,8,-1,19,-1,16,-1,14
+Oberflächenrauheit HandlingSchaden außerhalb Spezifikation Kernreparatur läuft,7,7,7,14,10,10,8,6,8,6,8,6,-1,9,2,10,3,8
+Kaltlauf an Getriebegehäuse Charge Prüfbericht,4,10,15,-1,-1,-1,5,1,8,1,8,1,14,14,9,7,2,7
+Maßabweichung Lunker Lunkermm vs Kaltlauf±HandlingSchadenmm Prüfbericht Wärmenachbehandlung eingeleitet,8,12,12,-1,-1,-1,4,5,9,5,12,5,1,-1,1,17,1,15
+Schmelzofen Schmelzofen TempAbweichung °C Prüfbericht,5,5,5,1,2,2,5,2,5,12,15,12,-1,0,-1,0,2,0
+Qualitätsabweichung Sandausbruch Kernschale Verschleiß Raueit Ra,0,2,2,8,-1,-1,7,7,1,7,19,7,-1,17,-1,14,-1,12
+Formversatz an Getriebegehäuse Charge Kernreparatur läuft,0,0,15,-1,-1,-1,1,1,8,1,1,1,12,14,7,7,2,7
+Kernbruch Ursache Sandbindermangel Normabweichung,2,2,17,11,9,9,3,4,13,4,13,16,-1,7,-1,9,-1,3
+Formdruckabweichung Sandausbruch vs Kernschale Verschleiß Form,0,0,16,5,4,4,0,0,10,0,16,0,-1,11,-1,12,-1,10
+Legierungsabweichung Mg Kaltlauf vs Soll Kernschale Verschleiß Gießparameter optimiert,6,6,19,-1,-1,-1,9,5,9,14,9,14,1,16,1,13,1,11
+Kernbruch Ursache Kernschale Verschleiß Nacharbeit gemäß,2,2,17,-1,-1,-1,3,4,3,4,3,4,2,7,3,9,4,3
+Dichtheitsprüfung Fehler Kaltlauf mbarmin vs max HandlingSchaden,1,13,13,3,1,1,4,3,4,3,9,3,1,2,1,2,1,2
+Bearbeitungsfehler Kaltlauf Lunker Teil Verdacht Formüberhitzung,7,8,6,-1,-1,-1,7,7,1,13,1,13,12,21,7,11,2,9
+Ausschuss Funktionstest an Getriebegehäuse Ursache Kaltlauf,2,10,10,-1,-1,-1,3,4,13,4,13,4,-1,7,2,9,3,3
+Röntgenprüfung zeigt Sandausbruch in Zone Kaltlauf Gießparameter optimiert,4,4,4,4,3,3,2,9,2,10,17,10,13,5,8,5,2,5
+Formdruckabweichung Sandbindermangel vs Sandbindermangel Form Wärmenachbehandlung eingeleitet,0,0,8,5,4,4,9,5,12,5,12,5,1,22,1,17,1,15
+Legierungsabweichung Si Kernschale Verschleiß vs Soll Kaltlauf,6,6,19,9,6,6,9,5,0,14,0,14,1,16,1,13,1,11
+Qualitätsabweichung Sandbindermangel Kaltlauf Raueit Ra Verdacht Sandfeuchteabweichung,0,2,2,8,-1,-1,7,7,1,7,1,7,12,17,7,14,2,12
+Spektralanalyse zeigt SiMangel Charge Gießparameter optimiert,9,9,9,-1,-1,-1,6,9,6,9,6,17,0,13,0,6,0,6
+Härteprüfung Kaltlauf HandlingSchaden vs HandlingSchaden ¦ Prüfbericht,8,14,14,-1,-1,-1,7,8,12,8,10,8,1,19,1,16,1,14
+Röntgenprüfung zeigt Formversatz in Zone Kernschale Verschleiß,4,4,4,4,3,3,5,9,11,10,11,10,14,5,9,5,2,5
+Formversatz an Getriebegehäuse Charge teilkonform Nacharbeit gemäß,0,0,15,-1,-1,-1,1,1,8,1,1,1,12,14,7,7,2,7
+Sandfeuchte Sandausbruch außerhalb Toleranz Normabweichung,7,11,11,15,11,11,7,8,1,11,1,11,12,3,7,3,2,4
+Dichtheitsprüfung Fehler Sandausbruch mbarmin vs max Sandausbruch,1,13,13,3,1,1,4,3,9,3,9,3,1,2,1,2,1,2
+Härteprüfung Sandausbruch Kernschale Verschleiß vs Lunker,8,14,14,6,5,5,0,8,10,8,16,8,-1,19,-1,16,-1,14
+Formdruckabweichung Kaltlauf vs Kernschale Verschleiß ¦ Form,0,0,16,5,4,4,0,0,10,0,16,0,1,11,1,12,1,10
+Legierungsabweichung Si Sandausbruch vs Soll Kernschale Verschleiß teilkonform Schleifnacharbeit notwendig,6,6,19,9,6,6,9,5,12,14,0,14,1,16,1,13,1,11
+Legierungsabweichung Mg Sandbindermangel vs Soll Lunker Verdacht Legierungsdrift Nacharbeit gemäß,6,6,6,-1,-1,-1,9,5,12,14,12,14,1,16,1,13,1,11
+Bearbeitungsfehler Sandausbruch Sandbindermangel Teil Chargenanalyse C Si,3,1,1,-1,-1,-1,2,7,11,13,17,13,-1,21,-1,11,-1,9
+Maßabweichung Sandausbruch Lunkermm vs HandlingSchaden±Sandbindermangelmm,8,12,12,10,7,7,9,5,0,5,18,15,-1,25,-1,17,-1,15
+Oberflächenrauheit Lunker außerhalb Spezifikation Chargenanalyse Mg Ti,3,3,7,-1,-1,-1,2,7,2,13,2,13,-1,20,-1,11,2,9
+Formdruckabweichung Kernschale Verschleiß vs Lunker Form Normabweichung Nacharbeit gemäß,0,0,16,-1,-1,-1,0,0,10,0,10,0,1,11,1,12,1,10
+Härteprüfung Kernschale Verschleiß Sandausbruch vs HandlingSchaden Prüfbericht Kernreparatur läuft,8,14,14,-1,-1,-1,0,8,10,8,10,8,-1,19,-1,16,-1,14
+Sandfeuchte Kernschale Verschleiß außerhalb Toleranz Wärmenachbehandlung eingeleitet,7,11,8,-1,-1,-1,1,8,1,11,1,11,12,3,7,3,2,4
+Härteprüfung Sandbindermangel Sandausbruch vs HandlingSchaden Chargenanalyse Mg Ti,8,3,14,-1,-1,-1,4,8,9,8,9,8,1,19,1,16,1,14
+Bearbeitungsfehler Sandausbruch Kaltlauf Teil,7,8,18,2,1,1,7,7,1,13,19,13,12,21,7,11,2,9
+Legierungsabweichung Ti HandlingSchaden vs Soll Sandausbruch konform,6,6,19,-1,-1,-1,9,5,0,14,0,14,1,16,1,13,1,11
+Bearbeitungsfehler HandlingSchaden Lunker Teil,7,8,18,2,1,1,7,7,7,13,7,13,12,21,7,11,2,9
+Sandfeuchte Kaltlauf außerhalb Toleranz Gießparameter optimiert,7,11,11,15,11,11,1,8,7,11,7,11,-1,3,-1,3,2,4
+Sandausbruch an Getriebegehäuse Charge Prüfbericht Schleifnacharbeit notwendig,2,10,15,-1,-1,-1,8,1,8,1,8,1,14,-1,9,7,2,7
+Oberflächenrauheit Sandbindermangel außerhalb Spezifikation,7,7,7,14,10,10,5,6,8,6,8,6,14,9,9,10,2,8
+Kernbruch Ursache Kernschale Verschleiß,2,2,17,11,9,9,3,4,3,4,3,16,3,4,3,4,4,3
+Spektralanalyse zeigt SiMangel Charge Wärmenachbehandlung eingeleitet,9,9,3,12,8,8,6,9,6,9,6,9,0,10,0,6,0,6
+Maßabweichung Lunker Kaltlaufmm vs Sandausbruch±Sandausbruchmm,8,12,12,10,7,7,9,5,0,5,18,15,1,25,1,17,1,15
+Dichtheitsprüfung Fehler Sandbindermangel mbarmin vs max Kaltlauf Prüfbericht Nacharbeit gemäß,1,13,13,3,1,1,4,3,12,3,12,3,1,2,1,2,1,2
+Ausschuss Funktionstest an Radträger Ursache Sandausbruch Wärmenachbehandlung eingeleitet,2,10,10,-1,-1,-1,8,4,13,4,14,4,-1,7,-1,9,-1,3
+Spektralanalyse zeigt CuMangel Charge,9,9,9,12,8,8,6,9,6,9,6,17,0,12,0,6,0,6
+Oberflächenrauheit HandlingSchaden außerhalb Spezifikation,7,7,7,14,10,10,8,6,8,6,8,6,8,9,4,10,2,8
+Schmelzofen Schmelzofen TempAbweichung °C Prüfbericht Gießparameter optimiert,5,5,5,1,2,2,2,2,2,12,5,12,-1,0,-1,0,2,0
+Spektralanalyse zeigt SiMangel Charge Wärmenachbehandlung eingeleitet,9,9,3,12,8,8,6,9,6,9,6,9,0,10,0,6,0,6
+Sandfeuchte Kernschale Verschleiß außerhalb Toleranz konform,7,11,11,-1,-1,-1,7,8,1,11,19,11,-1,3,-1,3,2,4
+Formdruckabweichung Lunker vs Sandbindermangel Form Normabweichung,0,0,16,5,4,4,9,0,0,0,0,0,1,11,1,12,1,10
+Röntgenprüfung zeigt Sandausbruch in Zone Sandausbruch Prüfbericht Wärmenachbehandlung eingeleitet,4,4,4,4,3,3,2,9,5,10,5,10,13,5,8,5,2,5
+Qualitätsabweichung Kernschale Verschleiß Sandausbruch Raueit Ra Kernreparatur läuft,0,2,2,8,-1,-1,7,7,1,7,19,7,-1,17,-1,14,-1,12
+Oberflächenrauheit HandlingSchaden außerhalb Spezifikation Prüfbericht Kernreparatur läuft,7,7,7,14,10,10,8,6,8,6,8,6,-1,9,-1,10,-1,8
+Kernbruch Ursache Kernschale Verschleiß konform,2,2,17,11,9,9,3,4,3,4,3,16,-1,4,-1,4,-1,3
+Sandfeuchte Kernschale Verschleiß außerhalb Toleranz Normabweichung Schleifnacharbeit notwendig,7,11,11,15,11,11,7,8,1,11,19,11,12,3,7,3,2,4
+Röntgenprüfung zeigt Gasporosität in Zone Sandausbruch,4,4,4,4,3,3,2,9,5,10,5,10,13,5,8,5,2,5
+Legierungsabweichung Si Sandausbruch vs Soll HandlingSchaden Prüfbericht,6,6,19,-1,-1,-1,9,5,12,14,12,14,1,16,1,13,1,11
+Schmelzofen Holding Furnace TempAbweichung °C Gießparameter optimiert,5,5,5,1,2,2,2,2,5,12,5,12,13,0,8,0,2,0
+Qualitätsabweichung Kaltlauf Kernschale Verschleiß Raueit Ra Normabweichung Gießparameter optimiert,0,2,2,-1,-1,-1,1,7,7,7,1,7,12,17,7,14,2,12
+Oberflächenrauheit Lunker außerhalb Spezifikation,7,7,7,14,10,10,5,6,8,6,8,6,14,9,9,10,2,8
+Oberflächenrauheit Kernschale Verschleiß außerhalb Spezifikation Verdacht Formüberhitzung Nacharbeit gemäß,7,7,7,-1,-1,-1,8,6,13,6,13,6,5,9,2,10,3,8
+Spektralanalyse zeigt TiMangel Charge Verdacht Legierungsdrift Nacharbeit gemäß,9,9,6,12,8,8,5,9,5,9,5,9,13,-1,8,6,2,6
+Schmelzofen Schmelzofen TempAbweichung °C Normabweichung,5,5,5,1,2,2,5,2,5,12,15,12,7,0,-1,0,2,0
+Schmelzofen Schmelzofen TempAbweichung °C,5,5,5,1,2,2,5,2,5,12,15,12,7,0,-1,0,2,0
+Härteprüfung Sandbindermangel Lunker vs Kernschale Verschleiß Normabweichung,8,14,14,-1,-1,-1,0,8,0,8,18,8,1,19,1,16,1,14
+Schmelzofen Holding Furnace TempAbweichung °C Kernreparatur läuft,5,5,5,1,2,2,5,2,8,2,8,2,10,1,5,1,2,1
+Legierungsabweichung Mg Kaltlauf vs Soll Sandausbruch,6,6,19,-1,-1,-1,9,5,9,14,9,14,1,16,1,13,1,11
+Oberflächenrauheit Sandausbruch außerhalb Spezifikation Chargenanalyse Mg Ti,3,3,7,-1,-1,-1,2,7,5,13,5,13,13,20,8,11,2,9
+Qualitätsabweichung Lunker Kaltlauf Raueit Ra Prüfbericht,0,2,2,8,-1,-1,1,7,7,7,1,7,12,17,7,14,2,12
+Maßabweichung Sandbindermangel Kernschale Verschleißmm vs HandlingSchaden±Kernschale Verschleißmm,8,12,12,10,7,7,0,5,0,5,18,15,1,24,1,17,1,15
+Bearbeitungsfehler Lunker Lunker Teil,7,8,18,-1,-1,-1,1,7,7,13,7,13,-1,21,-1,11,2,9
+Schmelzofen Holding Furnace TempAbweichung °C Normabweichung Wärmenachbehandlung eingeleitet,5,5,5,1,2,2,5,2,5,2,15,2,-1,1,-1,1,2,1
+Ausschuss Funktionstest an Getriebegehäuse Ursache Sandausbruch,2,10,10,-1,-1,-1,3,4,13,4,13,4,4,7,2,9,3,3
+Sandfeuchte Kernschale Verschleiß außerhalb Toleranz Nacharbeit gemäß,7,11,11,-1,-1,-1,7,8,1,11,19,11,-1,3,-1,3,-1,4
+Sandfeuchte Kernschale Verschleiß außerhalb Toleranz Normabweichung Gießparameter optimiert,7,11,11,-1,-1,-1,1,8,7,11,7,11,12,3,7,3,2,4
+Ausschuss Oberflächenfehler an Radträger Ursache Kernschale Verschleiß Schleifnacharbeit notwendig,2,10,10,-1,-1,-1,3,4,13,4,13,4,-1,7,-1,9,-1,3
+Kernbruch Ursache HandlingSchaden Verdacht Formüberhitzung Schleifnacharbeit notwendig,2,10,17,-1,-1,-1,3,4,3,4,3,16,-1,7,-1,9,-1,3
+Spektralanalyse zeigt MgMangel Charge,9,9,9,12,8,8,6,9,6,9,6,9,0,13,0,6,0,6
+Formdruckabweichung Kaltlauf vs Sandausbruch Form,0,0,16,5,4,4,0,0,10,0,16,0,1,11,1,12,1,10
+Schmelzofen Holding Furnace TempAbweichung °C Normabweichung,5,5,5,1,2,2,5,2,5,2,15,2,9,1,5,1,2,1
+Härteprüfung HandlingSchaden Kernschale Verschleiß vs Lunker nicht konform,8,14,14,-1,-1,-1,0,8,10,8,16,8,1,19,1,16,1,14
+Formdruckabweichung Kernschale Verschleiß vs Kernschale Verschleiß Form Verdacht Sandfeuchteabweichung,0,0,16,5,4,4,0,0,10,0,10,0,1,11,1,12,1,10
+Schmelzofen Schmelzofen TempAbweichung °C Gießparameter optimiert,5,5,5,1,2,2,2,2,2,12,5,12,13,0,8,0,2,0
+Schmelzofen Holding Furnace TempAbweichung °C,5,5,5,1,2,2,5,2,5,2,15,2,9,1,5,1,2,1
+Formdruckabweichung Sandausbruch vs Sandausbruch Form Kernreparatur läuft,0,0,16,-1,-1,-1,0,0,10,0,10,0,1,11,1,12,1,10
+Röntgenprüfung zeigt Lunker in Zone Lunker teilkonform Wärmenachbehandlung eingeleitet,4,4,4,4,3,3,2,9,2,10,2,10,-1,5,-1,5,-1,5
+Oberflächenrauheit Kaltlauf außerhalb Spezifikation,7,7,7,14,10,10,8,6,8,6,8,6,8,9,4,10,2,8
+Maßabweichung Lunker Sandausbruchmm vs Kernschale Verschleiß±Kernschale Verschleißmm Normabweichung Schleifnacharbeit notwendig,8,12,12,10,7,7,0,5,10,5,16,15,1,24,1,17,1,15
+Oberflächenrauheit Sandbindermangel außerhalb Spezifikation,7,7,7,14,10,10,5,6,8,6,8,6,14,9,9,10,2,8
+Härteprüfung Sandbindermangel Lunker vs Kaltlauf Schleifnacharbeit notwendig,8,14,14,-1,-1,-1,9,5,0,8,0,8,1,19,1,16,1,14
+Kaltlauf an Radträger Charge Wärmenachbehandlung eingeleitet,2,2,8,-1,-1,-1,5,1,5,1,15,1,9,15,5,7,2,7
+Maßabweichung HandlingSchaden Kaltlaufmm vs Kernschale Verschleiß±HandlingSchadenmm Prüfbericht,8,12,12,-1,-1,-1,9,5,12,5,0,15,1,24,1,17,1,15
+Sandfeuchte Sandbindermangel außerhalb Toleranz,7,11,11,15,11,11,7,8,7,11,7,11,12,3,7,3,2,4
+Härteprüfung Lunker Sandbindermangel vs Lunker Schleifnacharbeit notwendig,8,14,14,-1,-1,-1,9,5,0,8,0,8,1,19,1,16,1,14
+Bearbeitungsfehler Lunker Kernschale Verschleiß Teil,7,8,18,2,1,1,7,7,1,13,19,13,12,21,7,11,2,9
+Formdruckabweichung Kaltlauf vs Kaltlauf ¦ Form ¦ Chargenanalyse Mg Ti Nacharbeit gemäß,0,0,16,-1,-1,-1,9,0,12,0,12,0,1,11,1,12,1,10
+Spektralanalyse zeigt TiMangel Charge,9,9,9,12,8,8,6,9,6,9,6,17,0,13,0,6,0,6
+Legierungsabweichung Cu HandlingSchaden vs Soll HandlingSchaden konform,6,6,19,-1,-1,-1,9,5,0,14,0,14,1,16,1,13,1,11
+Ausschuss Funktionstest an Getriebegehäuse Ursache Lunker,2,10,10,-1,-1,-1,3,4,13,4,13,4,6,7,2,9,3,3
+Schmelzofen Holding Furnace TempAbweichung °C ¦ Normabweichung,5,5,5,1,2,2,5,2,11,2,11,2,14,1,9,1,2,1
+Formdruckabweichung Kernschale Verschleiß vs HandlingSchaden Form Wärmenachbehandlung eingeleitet,0,0,8,7,-1,-1,0,5,12,5,10,5,1,22,1,17,1,15
+Kernbruch Ursache Kernschale Verschleiß,2,2,17,11,9,9,3,4,3,4,3,16,3,4,3,4,4,3
+Sandfeuchte Kaltlauf außerhalb Toleranz,7,11,11,15,11,11,7,8,1,11,1,11,12,3,7,3,2,4
+Schmelzofen Holding Furnace TempAbweichung °C,5,5,5,1,2,2,5,2,5,2,15,2,9,1,5,1,2,1
+Dichtheitsprüfung Fehler Kernschale Verschleiß mbarmin vs max Sandbindermangel Verdacht Legierungsdrift,1,13,13,-1,1,1,9,3,9,3,12,3,1,2,1,2,1,2
+Härteprüfung Kaltlauf Sandbindermangel vs Lunker Chargenanalyse Mg Ti,8,3,14,6,5,5,4,8,4,8,9,8,1,19,1,16,1,14
+Oberflächenrauheit Sandbindermangel außerhalb Spezifikation Normabweichung,7,7,7,14,10,10,1,6,8,6,11,6,14,9,9,10,2,8
+Kernbruch Ursache Sandbindermangel,2,2,17,11,9,9,3,4,3,4,3,18,-1,7,-1,9,-1,3
+Kernbruch Ursache Sandbindermangel Prüfbericht Wärmenachbehandlung eingeleitet,2,10,17,-1,-1,-1,8,4,13,4,13,18,-1,7,-1,9,-1,3
+Röntgenprüfung zeigt Kaltlauf in Zone Sandbindermangel Nacharbeit gemäß,4,4,4,4,3,3,2,9,11,10,17,10,14,5,9,5,2,5
+Kernbruch Ursache Kernschale Verschleiß,2,2,17,11,9,9,3,4,3,4,3,16,3,4,3,4,4,3
+Dichtheitsprüfung Fehler Lunker mbarmin vs max HandlingSchaden,1,13,13,3,1,1,4,3,4,3,9,3,1,2,1,2,1,2
+Spektralanalyse zeigt SiMangel Charge Wärmenachbehandlung eingeleitet,9,9,3,12,8,8,6,9,6,9,6,9,0,10,0,6,0,6
+Kernbruch Ursache HandlingSchaden,2,10,17,13,8,8,3,4,3,4,3,18,2,6,3,8,4,3
+Ausschuss Materialfehler an Radträger Ursache Lunker,2,10,10,-1,-1,-1,8,4,13,4,13,4,5,7,2,9,3,3
+Maßabweichung Sandausbruch Sandbindermangelmm vs Kaltlauf±Sandbindermangelmm Verdacht Sandfeuchteabweichung Wärmenachbehandlung eingeleitet,8,12,8,-1,-1,-1,9,5,12,5,12,5,1,22,1,17,1,15
+Röntgenprüfung zeigt Kaltlauf in Zone Sandausbruch,4,4,4,4,3,3,5,9,11,10,5,10,13,5,8,5,2,5
+Oberflächenrauheit Kernschale Verschleiß außerhalb Spezifikation Prüfbericht,7,7,7,14,10,10,8,6,8,6,8,6,8,9,4,10,2,8
+Formversatz an Getriebegehäuse Charge,0,0,15,-1,-1,-1,1,1,8,1,1,1,12,14,7,7,2,7
+Maßabweichung Kaltlauf HandlingSchadenmm vs Sandbindermangel±Sandbindermangelmm Gießparameter optimiert,8,12,12,10,7,7,4,5,9,5,9,15,1,-1,1,17,1,15
+Kernbruch Ursache Sandbindermangel Nacharbeit gemäß,2,2,17,13,8,8,3,4,3,4,3,4,4,7,2,9,3,3
+Härteprüfung Sandbindermangel Sandbindermangel vs Lunker konform,8,14,14,6,5,5,0,8,0,8,18,8,1,19,1,16,1,14
+Härteprüfung Kernschale Verschleiß Lunker vs Kernschale Verschleiß Prüfbericht,8,14,14,6,5,5,0,8,10,8,10,8,1,19,1,16,1,14
+Kokillenriss an Radträger Charge Prüfbericht Wärmenachbehandlung eingeleitet,2,2,15,-1,-1,-1,5,1,5,1,15,1,9,15,5,7,2,7
+Härteprüfung HandlingSchaden Kaltlauf vs HandlingSchaden Prüfbericht,8,14,14,-1,-1,-1,0,8,12,8,10,8,1,19,1,16,1,14
+Maßabweichung Kernschale Verschleiß Sandbindermangelmm vs Lunker±Kernschale Verschleißmm konform,8,12,12,10,7,7,0,5,0,5,18,15,1,24,1,17,1,15
+Dichtheitsprüfung Fehler Sandausbruch mbarmin vs max Sandausbruch Gießparameter optimiert,1,13,13,3,1,1,4,3,4,3,4,3,-1,2,-1,2,-1,2
+Ausschuss Maßhaltigkeit an Radträger Ursache Sandbindermangel Nacharbeit gemäß,2,10,10,-1,-1,-1,3,4,13,4,13,4,6,7,2,9,3,3
+Röntgenprüfung zeigt Sandausbruch in Zone HandlingSchaden Wärmenachbehandlung eingeleitet,4,4,4,4,3,3,2,9,5,10,5,10,13,5,8,5,2,5
+Kernbruch Ursache Sandbindermangel teilkonform Gießparameter optimiert,2,2,17,-1,-1,-1,7,4,1,4,1,18,-1,-1,-1,-1,2,3
+Schmelzofen Schmelzofen TempAbweichung °C Wärmenachbehandlung eingeleitet,5,5,5,1,2,2,5,2,5,12,15,12,-1,0,-1,0,2,0
+Kernbruch Ursache Kernschale Verschleiß Normabweichung,2,2,17,11,9,9,3,4,3,4,3,16,4,4,2,4,3,3
+Kernbruch Ursache Kernschale Verschleiß Kernreparatur läuft,2,2,17,11,9,9,3,4,3,4,3,16,2,4,3,4,4,3
+Oberflächenrauheit Lunker außerhalb Spezifikation ¦ Normabweichung,7,7,7,-1,-1,-1,1,6,8,6,8,6,14,9,9,10,2,8
+Dichtheitsprüfung Fehler Lunker mbarmin vs max HandlingSchaden Kernreparatur läuft,1,13,13,3,1,1,4,3,9,3,9,3,1,2,1,2,1,2
+Härteprüfung Lunker Kernschale Verschleiß vs Sandbindermangel Prüfbericht Schleifnacharbeit notwendig,8,14,14,6,5,5,0,5,12,8,10,8,1,19,1,16,1,14
+Formdruckabweichung Sandbindermangel vs Kaltlauf Form Verdacht Sandfeuchteabweichung,0,0,16,5,4,4,0,0,10,0,10,0,1,11,1,12,1,10
+Röntgenprüfung zeigt Lunker in Zone Kernschale Verschleiß konform,4,4,4,4,3,3,2,9,11,10,17,10,-1,5,-1,5,-1,5
+Spektralanalyse zeigt SiMangel Charge nicht konform,9,9,9,12,8,8,6,9,2,9,2,17,-1,13,-1,6,2,6
+Oberflächenrauheit Sandbindermangel außerhalb Spezifikation Prüfbericht Schleifnacharbeit notwendig,7,7,7,14,10,10,5,6,8,6,11,6,14,9,9,10,2,8
+Ausschuss Funktionstest an Zylinderkopf Ursache Sandfeuchte zu hoch ≥ Verdacht Sandfeuchteabweichung,2,10,10,-1,-1,-1,8,4,13,4,13,4,5,7,2,9,3,3
+Härteprüfung Sandbindermangel Kaltlauf vs Kernschale Verschleiß Normabweichung,8,14,14,-1,-1,-1,0,8,10,8,16,8,1,19,1,16,1,14
+Röntgenprüfung zeigt Kokillenriss in Zone Lunker Gießparameter optimiert,4,4,4,4,3,3,2,9,2,10,2,10,-1,5,-1,5,-1,5
+Bearbeitungsfehler Kernschale Verschleiß Kernschale Verschleiß Teil teilkonform Wärmenachbehandlung eingeleitet,7,8,8,-1,-1,-1,1,7,7,13,1,13,-1,21,-1,11,2,9
+Kaltlauf an Radträger ¦ Charge,2,2,15,-1,-1,-1,1,1,8,1,8,1,14,15,9,7,2,7
+Sandausbruch an Radträger Charge,2,2,15,-1,-1,-1,8,1,8,1,8,1,14,15,9,7,2,7
+Spektralanalyse zeigt TiMangel Charge,9,9,9,12,8,8,6,9,6,9,6,17,0,13,0,6,0,6
+Härteprüfung Lunker Sandausbruch vs Kernschale Verschleiß,8,14,14,6,5,5,0,8,10,8,16,8,-1,19,-1,16,-1,14
+Röntgenprüfung zeigt Kaltlauf in Zone HandlingSchaden Wärmenachbehandlung eingeleitet,4,4,4,4,3,3,2,9,2,10,5,10,13,5,8,5,2,5
+Spektralanalyse zeigt SiMangel Charge Prüfbericht,9,9,9,12,8,8,6,9,6,9,6,17,0,13,0,6,0,6
+Formdruckabweichung Kernschale Verschleiß vs Kaltlauf Form Chargenanalyse C Si,3,1,1,-1,-1,-1,9,0,12,0,12,0,1,11,1,12,1,10
+Formdruckabweichung Sandausbruch vs Lunker Form Verdacht Legierungsdrift,0,0,6,5,4,4,0,0,10,0,10,0,1,11,1,12,1,10
+Röntgenprüfung zeigt Kokillenriss in Zone Sandbindermangel Prüfbericht Schleifnacharbeit notwendig,4,4,4,4,3,3,2,9,2,10,5,10,13,5,8,5,2,5
+Härteprüfung Sandausbruch Lunker vs Kaltlauf Gießparameter optimiert,8,14,14,-1,-1,-1,9,8,0,8,0,8,1,19,1,16,1,14
+Qualitätsabweichung Sandausbruch Kernschale Verschleiß Raueit Ra Verdacht Legierungsdrift,0,2,2,8,-1,-1,7,7,1,7,19,7,-1,17,-1,14,2,12
+Härteprüfung Sandbindermangel Lunker vs Sandausbruch,8,14,14,6,5,5,0,8,0,8,18,8,1,19,1,16,1,14
+Härteprüfung Lunker Sandausbruch vs Kernschale Verschleiß,8,14,14,6,5,5,0,8,10,8,16,8,-1,19,-1,16,-1,14
+Dichtheitsprüfung Fehler Kernschale Verschleiß mbarmin vs max Lunker nicht konform Schleifnacharbeit notwendig,1,13,13,3,1,1,9,3,9,3,12,3,1,2,1,2,1,2
+Oberflächenrauheit Lunker außerhalb Spezifikation,7,7,7,14,10,10,5,6,8,6,8,6,14,9,9,10,2,8
+Ausschuss Materialfehler an Getriebegehäuse Ursache Kernschale Verschleiß,2,10,10,-1,-1,-1,3,4,3,4,3,16,4,-1,2,-1,3,3
+Maßabweichung Kernschale Verschleiß Sandausbruchmm vs Sandausbruch±HandlingSchadenmm Normabweichung Kernreparatur läuft,8,12,12,-1,-1,-1,0,5,10,5,16,15,1,-1,1,17,1,15
+Maßabweichung Kaltlauf Sandausbruchmm vs Lunker±Kernschale Verschleißmm,8,12,12,10,7,7,0,5,0,5,18,15,-1,24,-1,17,-1,15
+Dichtheitsprüfung Fehler HandlingSchaden mbarmin vs max Sandausbruch nicht konform Schleifnacharbeit notwendig,1,13,13,3,1,1,9,3,9,3,12,3,1,2,1,2,1,2
+Formdruckabweichung Kaltlauf vs Sandausbruch Form Prüfbericht Schleifnacharbeit notwendig,0,0,16,-1,-1,-1,7,0,7,0,10,0,1,11,1,12,1,10
+Kernbruch Ursache HandlingSchaden Gießparameter optimiert,2,10,17,13,8,8,3,4,13,4,13,18,-1,6,-1,8,-1,3
+Sandfeuchte Kernschale Verschleiß außerhalb Toleranz,7,11,11,15,11,11,7,8,1,11,19,11,-1,3,-1,3,2,4
+Ausschuss Materialfehler an Radträger Ursache Legierungsabweichung Si Verdacht Sandfeuchteabweichung,2,10,10,-1,-1,-1,8,4,13,4,13,4,5,7,2,9,3,3
+Spektralanalyse zeigt MgMangel Charge Chargenanalyse C Si Wärmenachbehandlung eingeleitet,9,9,3,12,8,8,6,9,6,9,6,9,0,10,0,6,0,6
+Dichtheitsprüfung Fehler Kernschale Verschleiß mbarmin vs max HandlingSchaden,1,13,13,3,1,1,9,3,9,3,9,3,1,2,1,2,1,2
+Härteprüfung Kernschale Verschleiß Kaltlauf vs Sandbindermangel Gießparameter optimiert,8,14,14,-1,-1,-1,9,8,0,8,0,8,1,19,1,16,1,14
+Kernbruch Ursache Kernschale Verschleiß,2,2,17,11,9,9,3,4,3,4,3,16,3,4,3,4,4,3
+Qualitätsabweichung Sandausbruch Kernschale Verschleiß Porosität,0,2,0,-1,-1,-1,7,7,1,7,19,7,-1,18,-1,15,2,13
+Oberflächenrauheit Lunker außerhalb Spezifikation Chargenanalyse C Si,3,1,7,-1,-1,-1,2,7,5,13,5,13,13,20,8,11,2,9
+Sandfeuchte Kernschale Verschleiß außerhalb Toleranz Schleifnacharbeit notwendig,7,11,11,15,11,11,7,8,1,11,19,11,-1,3,-1,3,2,4
+Röntgenprüfung zeigt Gasporosität in Zone Sandbindermangel Verdacht Sandfeuchteabweichung,4,4,4,4,3,3,2,9,2,10,5,10,-1,5,-1,5,2,5
+Maßabweichung HandlingSchaden Kaltlaufmm vs Sandausbruch±Kernschale Verschleißmm Prüfbericht,8,12,12,10,7,7,0,5,10,5,0,15,1,24,1,17,1,15
+Röntgenprüfung zeigt Formversatz in Zone Lunker teilkonform,4,4,4,4,3,3,2,9,2,10,17,10,13,5,8,5,2,5
+Dichtheitsprüfung Fehler Sandbindermangel mbarmin vs max HandlingSchaden Chargenanalyse Mg Ti,1,13,13,3,1,1,4,3,4,3,4,3,-1,2,-1,2,-1,2
+Legierungsabweichung Mg Lunker vs Soll HandlingSchaden,6,6,19,9,6,6,4,5,9,14,9,14,1,16,1,13,1,11
+Kaltlauf an Zylinderkopf Charge,4,4,15,0,0,0,2,1,11,1,17,19,14,8,9,7,2,7
+Qualitätsabweichung Kernschale Verschleiß Kaltlauf Dickenmaß nicht konform,0,14,0,-1,-1,-1,7,7,10,7,10,7,-1,18,-1,15,-1,13
+Formdruckabweichung Sandbindermangel vs HandlingSchaden Form konform,0,0,16,5,4,4,0,0,0,0,0,0,1,11,1,12,1,10
+Sandfeuchte Sandbindermangel außerhalb Toleranz Schleifnacharbeit notwendig,7,11,11,15,11,11,1,8,7,11,1,11,12,3,7,3,2,4
+Härteprüfung Lunker Kaltlauf vs Sandausbruch Normabweichung,8,14,14,-1,-1,-1,0,8,10,8,0,8,1,19,1,16,1,14
+Qualitätsabweichung Kernschale Verschleiß HandlingSchaden Dickenmaß Normabweichung Wärmenachbehandlung eingeleitet,0,2,8,-1,-1,-1,1,7,7,7,7,7,12,18,7,15,2,13
+Legierungsabweichung Cu Sandausbruch vs Soll Sandbindermangel Verdacht Formüberhitzung Nacharbeit gemäß,6,6,6,-1,-1,-1,7,5,7,14,10,14,1,16,1,13,1,11
+Oberflächenrauheit Kernschale Verschleiß außerhalb Spezifikation ¦ Normabweichung Nacharbeit gemäß,7,7,7,-1,-1,-1,8,6,8,6,1,6,-1,9,-1,10,-1,8
+Spektralanalyse zeigt MgMangel Charge,9,9,9,12,8,8,6,9,6,9,6,9,0,13,0,6,0,6
+Sandfeuchte Lunker außerhalb Toleranz konform Schleifnacharbeit notwendig,7,11,11,15,11,11,7,8,7,11,7,11,12,3,7,3,2,4
+Dichtheitsprüfung Fehler Sandausbruch mbarmin vs max Kernschale Verschleiß,1,13,13,3,1,1,9,3,9,3,9,3,1,2,1,2,1,2
+Ausschuss Oberflächenfehler an Zylinderkopf Ursache Sandfeuchte zu hoch ≥ Prüfbericht Schleifnacharbeit notwendig,2,10,10,-1,-1,-1,8,4,14,4,14,4,-1,7,-1,9,-1,3
+Spektralanalyse zeigt TiMangel Charge Verdacht Legierungsdrift,9,9,6,-1,-1,-1,2,9,2,9,2,9,-1,-1,-1,6,2,6
+Spektralanalyse zeigt TiMangel Charge Wärmenachbehandlung eingeleitet,9,9,3,12,8,8,6,9,6,9,6,9,0,10,0,6,0,6
+Sandfeuchte Lunker außerhalb Toleranz,7,11,11,15,11,11,7,8,7,11,7,11,12,3,7,3,2,4
+Spektralanalyse zeigt TiMangel Charge Prüfbericht,9,9,9,12,8,8,6,9,6,9,6,17,-1,13,-1,6,-1,6
+Kernbruch Ursache HandlingSchaden,2,10,17,13,8,8,3,4,3,4,3,18,2,6,3,8,4,3
+Legierungsabweichung Si Lunker vs Soll Sandbindermangel Normabweichung,6,6,19,9,6,6,4,5,9,14,9,14,1,16,1,13,1,11
+Härteprüfung Lunker HandlingSchaden vs Lunker,8,14,14,6,5,5,9,8,0,8,18,8,1,19,1,16,1,14
+Formdruckabweichung Sandbindermangel vs HandlingSchaden Form teilkonform,0,0,16,5,4,4,9,0,0,0,0,0,1,11,1,12,1,10
+Schmelzofen Holding Furnace TempAbweichung °C Normabweichung,5,5,5,1,2,2,5,2,5,2,15,2,9,1,5,1,2,1
+Spektralanalyse zeigt MgMangel Charge,9,9,9,12,8,8,6,9,6,9,6,9,0,13,0,6,0,6
+Dichtheitsprüfung Fehler Kaltlauf mbarmin vs max Sandbindermangel,1,13,13,3,1,1,4,3,4,3,9,3,1,2,1,2,1,2
+Legierungsabweichung Ti Kernschale Verschleiß vs Soll Lunker teilkonform,6,6,19,-1,-1,-1,9,5,9,14,0,14,1,16,1,13,1,11
+Bearbeitungsfehler Lunker Lunker Teil Normabweichung Wärmenachbehandlung eingeleitet,7,8,8,-1,-1,-1,1,7,11,13,11,13,-1,21,-1,11,2,9
+Spektralanalyse zeigt CuMangel Charge,9,9,9,12,8,8,6,9,6,9,6,17,0,12,0,6,0,6
+Härteprüfung Kernschale Verschleiß Sandbindermangel vs Lunker teilkonform,8,14,14,-1,-1,-1,0,8,0,8,18,8,1,19,1,16,1,14
+Sandfeuchte Sandausbruch außerhalb Toleranz Kernreparatur läuft,7,11,11,-1,-1,-1,7,8,1,11,19,11,-1,3,-1,3,2,4
+Schmelzofen Schmelzofen TempAbweichung °C,5,5,5,1,2,2,5,2,5,12,15,12,7,0,-1,0,2,0
+Röntgenprüfung zeigt Formversatz in Zone Sandausbruch Kernreparatur läuft,4,4,4,4,3,3,5,9,11,10,11,10,14,5,9,5,2,5
+Röntgenprüfung zeigt Gasporosität in Zone Sandausbruch,4,4,4,4,3,3,2,9,5,10,5,10,13,5,8,5,2,5
+Maßabweichung Sandbindermangel Sandausbruchmm vs Sandbindermangel±Sandbindermangelmm,8,12,12,10,7,7,9,5,9,5,9,15,1,25,1,17,1,15
+Dichtheitsprüfung Fehler Sandbindermangel mbarmin vs max Sandausbruch,1,13,13,3,1,1,4,3,4,3,9,3,1,2,1,2,1,2
+Kernbruch ¦ Ursache Kernschale Verschleiß Schleifnacharbeit notwendig,2,2,17,-1,-1,-1,3,4,3,4,3,16,4,4,2,4,3,3
+Ausschuss Maßhaltigkeit an Zylinderkopf ¦ Ursache Sandbindermangel Nacharbeit gemäß,2,10,10,-1,-1,-1,8,4,13,4,13,4,5,7,2,9,3,3
+Röntgenprüfung zeigt Formversatz in Zone Kaltlauf Kernreparatur läuft,4,4,4,4,3,3,5,9,11,10,11,10,14,5,9,5,2,5
+Sandfeuchte Kaltlauf außerhalb Toleranz,7,11,11,15,11,11,7,8,1,11,1,11,12,3,7,3,2,4
+Sandfeuchte Sandbindermangel außerhalb Toleranz,7,11,11,15,11,11,7,8,7,11,7,11,12,3,7,3,2,4
+Oberflächenrauheit Sandausbruch außerhalb Spezifikation nicht konform,7,7,7,-1,-1,-1,8,6,13,6,13,6,-1,9,2,10,3,8
+Legierungsabweichung Ti Kernschale Verschleiß vs Soll Kernschale Verschleiß,6,6,19,9,6,6,9,5,0,14,0,14,1,16,1,13,1,11
+Qualitätsabweichung Sandausbruch Sandausbruch Dickenmaß teilkonform Nacharbeit gemäß,0,2,0,-1,-1,-1,7,7,7,7,7,7,12,17,7,14,2,12
+Schmelzofen Schmelzofen TempAbweichung °C,5,5,5,1,2,2,5,2,5,12,15,12,7,0,-1,0,2,0
+Maßabweichung Kernschale Verschleiß Kaltlaufmm vs Sandbindermangel±HandlingSchadenmm Normabweichung,8,12,12,10,7,7,9,5,0,5,18,15,1,24,1,17,1,15
+Schmelzofen Schmelzofen TempAbweichung °C Normabweichung,5,5,5,1,2,2,5,2,5,12,15,12,7,0,-1,0,2,0
+Röntgenprüfung zeigt Kokillenriss in Zone Lunker,4,4,4,4,3,3,2,9,2,10,2,10,-1,5,-1,5,2,5
+Schmelzofen Schmelzofen TempAbweichung °C,5,5,5,1,2,2,5,2,5,12,15,12,7,0,-1,0,2,0
+Härteprüfung Sandbindermangel Sandausbruch vs HandlingSchaden Verdacht Sandfeuchteabweichung,8,14,6,-1,-1,-1,0,5,10,8,10,8,1,19,1,16,1,14
+Bearbeitungsfehler Kaltlauf Lunker Teil Normabweichung Gießparameter optimiert,7,8,18,-1,-1,-1,1,7,7,13,7,13,-1,21,-1,11,-1,9
+Kernbruch Ursache HandlingSchaden teilkonform,2,10,17,13,8,8,3,4,3,4,3,18,4,6,2,8,3,3
+Härteprüfung HandlingSchaden HandlingSchaden vs HandlingSchaden Nacharbeit gemäß,8,14,14,-1,-1,-1,0,5,10,8,10,8,1,19,1,16,1,14
+Gasporosität an Radträger Charge Nacharbeit gemäß,2,2,15,0,0,0,8,1,8,1,8,1,14,15,9,7,2,7
+Oberflächenrauheit Lunker außerhalb Spezifikation Verdacht Legierungsdrift Gießparameter optimiert,7,7,6,-1,-1,-1,1,6,11,6,11,6,14,9,9,10,2,8
+Dichtheitsprüfung Fehler Sandausbruch mbarmin vs max Sandbindermangel Prüfbericht Nacharbeit gemäß,1,13,13,3,1,1,9,3,12,3,12,3,1,2,1,2,1,2
+Röntgenprüfung zeigt Kaltlauf in Zone HandlingSchaden Normabweichung,4,4,4,4,3,3,2,9,11,10,17,10,14,5,9,5,2,5
+Dichtheitsprüfung Fehler Sandbindermangel mbarmin vs max Kernschale Verschleiß ¦ Normabweichung,1,13,13,3,1,1,4,3,9,3,12,3,1,2,1,2,1,2
+Ausschuss Oberflächenfehler an Zylinderkopf Ursache Sandausbruch Nacharbeit gemäß,2,10,10,-1,-1,-1,3,4,13,4,13,4,6,7,2,9,3,3
+Ausschuss Oberflächenfehler an Radträger Ursache Lunker,2,10,10,-1,-1,-1,8,4,13,4,13,4,6,7,2,9,3,3
+Röntgenprüfung zeigt Sandausbruch in Zone Lunker Normabweichung,4,4,4,-1,-1,-1,2,9,11,10,17,10,14,5,9,5,2,5
+Spektralanalyse zeigt TiMangel Charge,9,9,9,12,8,8,6,9,6,9,6,17,0,13,0,6,0,6
+Härteprüfung Kernschale Verschleiß Lunker vs HandlingSchaden Wärmenachbehandlung eingeleitet,8,14,8,7,-1,-1,9,5,12,5,10,5,1,22,1,17,1,15
+Härteprüfung Sandausbruch Kaltlauf vs Kernschale Verschleiß Chargenanalyse Mg Ti,3,3,14,-1,-1,-1,9,8,12,8,12,8,1,19,1,16,1,14
+Ausschuss Maßhaltigkeit an Getriebegehäuse Ursache Sandbindermangel,2,10,10,-1,-1,-1,3,4,13,4,13,4,-1,7,2,9,3,3
+Spektralanalyse zeigt CuMangel Charge Kernreparatur läuft,9,9,9,12,8,8,2,9,2,9,2,17,11,13,6,6,2,6
+Qualitätsabweichung Sandbindermangel Sandausbruch Dickenmaß Verdacht Sandfeuchteabweichung,0,2,0,-1,-1,-1,7,7,7,7,7,7,12,18,7,15,2,13
+Dichtheitsprüfung Fehler Sandausbruch mbarmin vs max HandlingSchaden,1,13,13,3,1,1,4,3,9,3,9,3,1,2,1,2,1,2
+Ausschuss Maßhaltigkeit an Zylinderkopf Ursache Kernschale Verschleiß Wärmenachbehandlung eingeleitet,2,10,8,-1,-1,-1,8,4,13,4,14,4,5,7,2,9,3,3
+Oberflächenrauheit Sandbindermangel außerhalb Spezifikation,7,7,7,14,10,10,5,6,8,6,8,6,14,9,9,10,2,8
+Schmelzofen Holding Furnace TempAbweichung °C Chargenanalyse Mg Ti Kernreparatur läuft,5,5,5,1,2,2,5,2,5,2,5,2,-1,1,-1,1,2,1
+Legierungsabweichung Mg Lunker vs Soll HandlingSchaden,6,6,19,9,6,6,4,5,9,14,9,14,1,16,1,13,1,11
+Formdruckabweichung Kaltlauf vs Kernschale Verschleiß Form Chargenanalyse Mg Ti,0,0,16,-1,-1,-1,9,0,12,0,12,0,1,11,1,12,1,10
+Kaltlauf an Zylinderkopf Charge Kernreparatur läuft,4,4,15,-1,-1,-1,1,1,11,1,11,19,14,8,9,7,2,7
+Ausschuss Funktionstest an Zylinderkopf Ursache Sandausbruch,2,10,10,-1,-1,-1,8,4,13,4,13,4,5,7,2,9,3,3
+Formdruckabweichung Sandausbruch vs Sandbindermangel Form Schleifnacharbeit notwendig,0,0,16,5,4,4,0,0,10,0,10,0,1,11,1,12,1,10
+Ausschuss Maßhaltigkeit an Zylinderkopf Ursache Sandfeuchte zu hoch ≥ Chargenanalyse Mg Ti,3,3,10,-1,-1,-1,5,4,5,4,15,4,9,7,5,9,2,3
+Oberflächenrauheit Lunker außerhalb Spezifikation Verdacht Legierungsdrift Nacharbeit gemäß,7,7,6,-1,-1,-1,1,6,8,6,1,6,-1,9,-1,10,2,8
+Schmelzofen Holding Furnace TempAbweichung °C Schleifnacharbeit notwendig,5,5,5,1,2,2,5,2,5,2,15,2,10,1,5,1,2,1
+Röntgenprüfung zeigt Kokillenriss in Zone Sandbindermangel,4,4,4,4,3,3,2,9,2,10,2,10,-1,5,-1,5,-1,5
+Formdruckabweichung Kernschale Verschleiß vs Sandbindermangel Form,0,0,16,5,4,4,0,0,10,0,16,0,1,11,1,12,1,10
+Schmelzofen Holding Furnace TempAbweichung °C,5,5,5,1,2,2,5,2,5,2,15,2,9,1,5,1,2,1
+Sandfeuchte Kernschale Verschleiß außerhalb Toleranz Chargenanalyse C Si Schleifnacharbeit notwendig,3,1,1,-1,-1,-1,1,8,11,11,11,11,-1,3,-1,3,2,4
+Ausschuss Oberflächenfehler an Zylinderkopf Ursache Sandfeuchte zu hoch ≥ Prüfbericht,2,10,10,-1,-1,-1,8,4,14,4,14,4,-1,7,-1,9,-1,3
+Kernbruch Ursache HandlingSchaden,2,10,17,13,8,8,3,4,3,4,3,18,2,6,3,8,4,3
+Bearbeitungsfehler HandlingSchaden Sandbindermangel Teil konform Kernreparatur läuft,7,8,18,-1,-1,-1,7,7,1,13,19,13,-1,21,-1,11,2,9
+Kokillenriss an Zylinderkopf Charge Kernreparatur läuft,4,4,15,0,0,0,1,1,11,1,11,19,14,8,9,7,2,7
+Ausschuss Maßhaltigkeit an Radträger Ursache Gießtemp zu niedrig °C °C konform Schleifnacharbeit notwendig,2,10,10,-1,-1,-1,8,4,14,4,14,4,-1,7,-1,9,-1,3
+Sandfeuchte HandlingSchaden außerhalb Toleranz Nacharbeit gemäß,7,11,11,-1,-1,-1,7,8,1,11,19,11,12,3,7,3,2,4
+Ausschuss Funktionstest an Radträger Ursache Legierungsabweichung Si Normabweichung Nacharbeit gemäß,2,2,10,-1,-1,-1,8,4,13,4,13,4,5,7,2,9,3,3
+Maßabweichung Sandbindermangel Sandbindermangelmm vs HandlingSchaden±Kaltlaufmm Verdacht Sandfeuchteabweichung,8,12,12,-1,-1,-1,9,5,0,5,0,5,1,23,1,17,1,15
+Spektralanalyse zeigt CuMangel Charge,9,9,9,12,8,8,6,9,6,9,6,17,0,12,0,6,0,6
+Formdruckabweichung Lunker vs HandlingSchaden Form,0,0,16,5,4,4,9,0,0,0,0,0,1,11,1,12,1,10
+Röntgenprüfung zeigt Kaltlauf in Zone Sandbindermangel Prüfbericht,4,4,4,4,3,3,2,9,2,10,5,10,-1,5,-1,5,2,5
+Oberflächenrauheit Lunker außerhalb Spezifikation nicht konform Kernreparatur läuft,7,7,7,-1,-1,-1,1,6,8,6,1,6,12,9,7,10,2,8
+Härteprüfung Sandausbruch HandlingSchaden vs Lunker,8,14,14,6,5,5,0,8,10,8,16,8,1,19,1,16,1,14
+Sandfeuchte HandlingSchaden außerhalb Toleranz Chargenanalyse C Si Schleifnacharbeit notwendig,3,1,1,15,11,11,1,8,11,11,11,11,14,3,9,3,2,4
+Kokillenriss an Radträger Charge Verdacht Formüberhitzung Nacharbeit gemäß,2,2,15,0,0,0,8,1,8,1,8,1,-1,15,2,7,3,7
+Maßabweichung Sandbindermangel Sandbindermangelmm vs Kaltlauf±Lunkermm Gießparameter optimiert,8,12,12,-1,-1,-1,4,5,9,5,9,15,1,-1,1,17,1,15
+Legierungsabweichung Mg Lunker vs Soll HandlingSchaden,6,6,19,9,6,6,4,5,9,14,9,14,1,16,1,13,1,11
+Härteprüfung Sandausbruch Sandausbruch vs HandlingSchaden,8,14,14,6,5,5,0,8,10,8,16,8,1,19,1,16,1,14
+Kokillenriss an Getriebegehäuse Charge,2,2,15,-1,-1,-1,1,1,11,1,1,19,12,15,7,7,2,7
+Dichtheitsprüfung Fehler Lunker mbarmin vs max Kaltlauf,1,13,13,3,1,1,4,3,4,3,9,3,1,2,1,2,1,2
+Maßabweichung Kernschale Verschleiß Lunkermm vs Lunker±Sandbindermangelmm teilkonform Nacharbeit gemäß,8,12,12,10,7,7,9,5,0,5,0,5,1,23,1,17,1,15
+Schmelzofen Holding Furnace TempAbweichung °C Prüfbericht Kernreparatur läuft,5,5,5,1,2,2,5,2,8,2,8,2,-1,1,-1,1,2,1
+Härteprüfung Sandausbruch Kaltlauf vs Sandbindermangel konform,8,14,14,6,5,5,0,8,10,8,16,8,1,19,1,16,1,14
+Sandausbruch an Getriebegehäuse Charge,2,10,15,-1,-1,-1,8,1,8,1,8,1,-1,14,-1,7,-1,7
+Sandfeuchte Lunker außerhalb Toleranz nicht konform,7,11,11,15,11,11,7,8,7,11,7,11,-1,3,-1,3,2,4
+Legierungsabweichung Ti Sandbindermangel vs Soll Kernschale Verschleiß Gießparameter optimiert,6,6,19,9,6,6,4,5,9,14,9,14,1,16,1,13,1,11
+Ausschuss Oberflächenfehler an Zylinderkopf Ursache HandlingSchaden,2,10,10,-1,-1,-1,8,4,13,4,13,4,-1,7,-1,9,-1,3
+Formdruckabweichung Kaltlauf vs Sandausbruch Form Gießparameter optimiert,0,0,16,5,4,4,9,0,12,0,0,0,1,11,1,12,1,10
+Qualitätsabweichung Kernschale Verschleiß Sandbindermangel Dickenmaß,0,2,0,-1,-1,-1,0,7,12,7,10,7,1,18,1,15,1,13
+Formdruckabweichung Kernschale Verschleiß vs Sandausbruch Form konform Gießparameter optimiert,0,0,16,5,4,4,0,0,10,0,10,0,1,11,1,12,1,10
+Lunker an Zylinderkopf Charge,4,4,15,0,0,0,2,1,2,1,17,19,-1,8,-1,7,2,7
+Ausschuss Materialfehler an Zylinderkopf Ursache Gießtemp zu niedrig °C °C Prüfbericht Wärmenachbehandlung eingeleitet,2,10,10,-1,-1,-1,8,4,14,4,14,4,-1,7,-1,9,-1,3
+Röntgenprüfung zeigt Formversatz in Zone Sandbindermangel Normabweichung Nacharbeit gemäß,4,4,4,-1,-1,-1,5,9,11,10,11,10,14,5,9,5,2,5
+Gasporosität an Getriebegehäuse Charge nicht konform Nacharbeit gemäß,2,2,15,-1,-1,-1,1,1,8,1,1,1,-1,15,-1,7,2,7
+Sandfeuchte Sandausbruch außerhalb Toleranz Normabweichung,7,11,11,15,11,11,7,8,1,11,1,11,12,3,7,3,2,4
+Formdruckabweichung Kaltlauf vs Lunker Form Chargenanalyse Mg Ti Schleifnacharbeit notwendig,0,0,16,-1,-1,-1,9,0,12,0,12,0,1,11,1,12,1,10
+Legierungsabweichung Si Sandbindermangel vs Soll Sandausbruch Normabweichung,6,6,19,9,6,6,9,5,9,14,9,14,1,16,1,13,1,11
+Qualitätsabweichung Kaltlauf Kernschale Verschleiß Porosität Prüfbericht Wärmenachbehandlung eingeleitet,0,14,8,-1,-1,-1,1,7,8,7,1,7,12,18,7,15,2,13
+Schmelzofen Holding Furnace TempAbweichung °C,5,5,5,1,2,2,5,2,5,2,15,2,9,1,5,1,2,1
+Schmelzofen Schmelzofen TempAbweichung °C Normabweichung Schleifnacharbeit notwendig,5,5,5,1,2,2,5,2,5,12,15,12,14,0,9,0,2,0
+Kernbruch Ursache HandlingSchaden Verdacht Legierungsdrift Wärmenachbehandlung eingeleitet,2,2,6,-1,-1,-1,3,4,13,4,13,16,6,7,2,9,3,3
+Schmelzofen Schmelzofen TempAbweichung °C,5,5,5,1,2,2,5,2,5,12,15,12,7,0,-1,0,2,0
+Bearbeitungsfehler Kernschale Verschleiß Sandausbruch Teil,7,8,18,2,1,1,7,7,1,13,19,13,-1,21,-1,11,-1,9
+Röntgenprüfung zeigt Kaltlauf in Zone Lunker Schleifnacharbeit notwendig,4,4,4,4,3,3,2,9,11,10,17,10,-1,5,-1,5,2,5
+Qualitätsabweichung Kernschale Verschleiß HandlingSchaden ¦ Raueit Ra ¦ Chargenanalyse Mg Ti Schleifnacharbeit notwendig,3,3,0,-1,-1,-1,1,7,11,7,11,7,-1,-1,-1,-1,2,-1
+Spektralanalyse zeigt MgMangel ¦ Charge Wärmenachbehandlung eingeleitet,9,9,3,12,8,8,6,9,6,9,6,9,-1,10,-1,6,-1,6
+Lunker an Radträger Charge Verdacht Formüberhitzung,0,2,6,-1,-1,-1,1,1,8,1,8,1,14,15,9,7,2,7
+Legierungsabweichung Si Kernschale Verschleiß vs Soll Sandbindermangel Wärmenachbehandlung eingeleitet,6,6,19,-1,-1,-1,9,5,12,14,12,14,1,16,1,13,1,11
+Qualitätsabweichung Lunker HandlingSchaden Dickenmaß Chargenanalyse C Si,3,1,1,-1,-1,-1,2,7,2,7,17,7,-1,-1,-1,11,-1,9
+Spektralanalyse zeigt TiMangel Charge,9,9,9,12,8,8,6,9,6,9,6,17,0,13,0,6,0,6
+Bearbeitungsfehler HandlingSchaden HandlingSchaden Teil,7,8,18,-1,-1,-1,7,7,7,13,7,13,12,21,7,11,2,9
+Härteprüfung Sandbindermangel Kernschale Verschleiß vs Sandbindermangel,8,14,14,-1,-1,-1,0,8,10,8,16,8,1,19,1,16,1,14
+Bearbeitungsfehler Sandbindermangel Sandbindermangel Teil,7,8,18,-1,1,1,1,7,7,13,7,13,12,21,7,11,2,9
+Qualitätsabweichung Kernschale Verschleiß HandlingSchaden Porosität,0,14,0,-1,-1,-1,7,7,1,7,19,7,12,18,7,15,2,13
+Schmelzofen Schmelzofen TempAbweichung °C Prüfbericht Wärmenachbehandlung eingeleitet,5,5,5,1,2,2,5,2,5,12,15,12,-1,0,-1,0,-1,0
+Röntgenprüfung zeigt Lunker in Zone Kernschale Verschleiß Normabweichung Schleifnacharbeit notwendig,4,4,4,-1,-1,-1,2,9,11,10,17,10,14,5,9,5,2,5
+Sandfeuchte HandlingSchaden außerhalb Toleranz,7,11,11,15,11,11,7,8,7,11,7,11,12,3,7,3,2,4
+Oberflächenrauheit Kernschale Verschleiß außerhalb Spezifikation Chargenanalyse C Si,3,1,7,14,10,10,5,7,5,13,15,13,-1,20,-1,11,2,9
+Maßabweichung Kernschale Verschleiß Sandbindermangelmm vs Lunker±Lunkermm nicht konform,8,12,12,10,7,7,0,5,0,5,18,15,1,-1,1,17,1,15
+Formdruckabweichung Lunker vs Kernschale Verschleiß Form Schleifnacharbeit notwendig,0,0,16,5,4,4,0,0,10,0,10,0,1,11,1,12,1,10
+Schmelzofen Schmelzofen TempAbweichung °C Nacharbeit gemäß,5,5,5,1,2,2,5,2,8,12,8,12,10,0,5,0,2,0
+Härteprüfung Sandbindermangel Sandausbruch vs Kaltlauf Wärmenachbehandlung eingeleitet,8,14,8,7,-1,-1,9,5,12,5,12,5,1,22,1,17,1,15
+Ausschuss Materialfehler an Radträger Ursache Sandfeuchte zu hoch ≥ Verdacht Formüberhitzung,2,10,10,-1,-1,-1,3,4,13,4,13,4,6,7,2,9,3,3
